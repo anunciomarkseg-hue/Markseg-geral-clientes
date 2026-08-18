@@ -1,5 +1,5 @@
 <!--
-MODELO DE ESTRATÉGIA DE CONTEÚDO SEO — MarkSeg
+MODELO DE ESTRATÉGIA DE CONTEÚDO SEO - MarkSeg
 Baseado no documento de referência: G5 Segurança (Agosto/2026).
 
 COMO USAR:
@@ -10,7 +10,7 @@ COMO USAR:
 -->
 
 # {{NOME DA EMPRESA}}
-## Estratégia de Conteúdo — SEO + Blog + Redes Sociais
+## Estratégia de Conteúdo - SEO + Blog + Redes Sociais
 ### Validação de palavras-chave, arquitetura por pilares e plano editorial
 
 | Campo | Informação |
@@ -24,7 +24,7 @@ COMO USAR:
 
 ## 1. Resumo executivo
 
-> _2 a 3 parágrafos. 1º: quais ferramentas foram consolidadas (Keyword Planner, Ubersuggest, AnswerThePublic, cobertura de conteúdo, Google Trends) e quais grupos de termos confirmam demanda ligada ao portfólio. 2º: a decisão estratégica central — consolidar sinônimos em páginas pilares fortes + artigos long-tail, em vez de uma página por variação (evitar canibalização). 3º: ressalva sobre o Google Trends como sinal complementar (janela curta ~24h)._
+> _2 a 3 parágrafos. 1º: quais ferramentas foram consolidadas (Keyword Planner, Ubersuggest, AnswerThePublic, cobertura de conteúdo, Google Trends) e quais grupos de termos confirmam demanda ligada ao portfólio. 2º: a decisão estratégica central - consolidar sinônimos em páginas pilares fortes + artigos long-tail, em vez de uma página por variação (evitar canibalização). 3º: ressalva sobre o Google Trends como sinal complementar (janela curta ~24h)._
 
 ### Diagnóstico atual (métricas)
 
@@ -121,7 +121,7 @@ COMO USAR:
 ### Pilar {{N}}. {{Nome do pilar}}
 **Palavras-chave do pilar:** {{lista de palavras-chave separadas por vírgula}}.
 
-**Por que este pilar foi escolhido:** {{justificativa estratégica — papel do pilar no funil e no posicionamento}}.
+**Por que este pilar foi escolhido:** {{justificativa estratégica - papel do pilar no funil e no posicionamento}}.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
@@ -163,9 +163,9 @@ COMO USAR:
 | Formato | Função | Canais |
 |---|---|---|
 | Carrossel educativo | 5 a 8 telas com problema, erros, solução e checklist. | Instagram e LinkedIn |
-| Reel curto | Gancho de risco/dúvida, explicação em 30–60s e CTA. | Instagram, Facebook e Shorts |
+| Reel curto | Gancho de risco/dúvida, explicação em 30-60s e CTA. | Instagram, Facebook e Shorts |
 | Post de comparação | Tabela visual ({{ex.: físico x remoto}}). | Instagram e LinkedIn |
-| Bastidores | Central, equipe, protocolos — sem informações sensíveis. | Stories e Reels |
+| Bastidores | Central, equipe, protocolos - sem informações sensíveis. | Stories e Reels |
 | Caso real | Contexto, desafio, solução e benefício, com autorização. | LinkedIn, Instagram e site |
 | FAQ | Resposta direta a uma pergunta pesquisada. | Stories, Reels e carrossel |
 | Conteúdo local | Situações de {{cidade}}, com linguagem regional. | Instagram, Facebook e Google Business Profile |
@@ -177,7 +177,7 @@ COMO USAR:
 
 ## 8. Plano editorial inicial de 90 dias
 
-### Mês 1 — {{tema do mês}}
+### Mês 1 - {{tema do mês}}
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 1 | {{artigo}} | {{keyword}} | {{carrossel / reel}} |
@@ -185,7 +185,7 @@ COMO USAR:
 | Semana 3 | {{artigo}} | {{keyword}} | {{...}} |
 | Semana 4 | {{artigo}} | {{keyword}} | {{...}} |
 
-### Mês 2 — {{tema do mês}}
+### Mês 2 - {{tema do mês}}
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 5 | {{artigo}} | {{keyword}} | {{...}} |
@@ -193,7 +193,7 @@ COMO USAR:
 | Semana 7 | {{artigo}} | {{keyword}} | {{...}} |
 | Semana 8 | {{artigo}} | {{keyword}} | {{...}} |
 
-### Mês 3 — {{tema do mês}}
+### Mês 3 - {{tema do mês}}
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 9 | {{artigo}} | {{keyword}} | {{...}} |
@@ -224,11 +224,11 @@ COMO USAR:
 - Não produzir conteúdo jurídico definitivo ({{ex.: LGPD}}) sem revisão adequada.
 - Não revelar rotinas, plantas, pontos cegos ou protocolos que comprometam clientes.
 - Não publicar comparativos de marcas/produtos sem experiência real e disponibilidade comercial.
-- {{Ajuste conforme o setor}} — comunicar redução de risco/valor, não promessas absolutas.
+- {{Ajuste conforme o setor}} - comunicar redução de risco/valor, não promessas absolutas.
 
 ---
 
-## Apêndice A — Inventário completo de palavras-chave e decisão
+## Apêndice A - Inventário completo de palavras-chave e decisão
 
 > _Consolide todas as sugestões coletadas. Deduplique variações exatas. Decisão + justificativa padrão por categoria (ver textos-padrão abaixo)._
 
@@ -247,7 +247,7 @@ COMO USAR:
 
 ---
 
-## Apêndice B — Fontes e limitações
+## Apêndice B - Fontes e limitações
 
 - **Google Keyword Planner:** período {{jul/2025 a jun/2026}}. Valores agregados (ex.: 500, 50) podem representar faixas.
 - **Ubersuggest:** dashboard exportado em {{data}}; SEO Score {{X}}, tráfego {{X}}, {{X}} palavras orgânicas, {{X}} backlinks, variação {{X%}}.

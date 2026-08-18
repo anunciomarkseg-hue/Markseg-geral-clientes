@@ -1,4 +1,4 @@
-# Markseg — Estratégias de SEO e Conteúdo (Clientes)
+# Markseg - Estratégias de SEO e Conteúdo (Clientes)
 
 Repositório central da MarkSeg para **estratégias de conteúdo SEO + Blog + Redes Sociais** dos clientes.
 

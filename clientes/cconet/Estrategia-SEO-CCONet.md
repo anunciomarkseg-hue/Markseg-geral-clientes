@@ -1,12 +1,12 @@
 # CCONet
-## Estratégia de Conteúdo — SEO + Blog + Redes Sociais
+## Estratégia de Conteúdo - SEO + Blog + Redes Sociais
 ### Validação de palavras-chave, arquitetura por pilares e plano editorial
 
 | Campo | Informação |
 |---|---|
-| **Empresa analisada** | CCONet — Tecnologia para Segurança Pública e Cidades Inteligentes |
+| **Empresa analisada** | CCONet - Tecnologia para Segurança Pública e Cidades Inteligentes |
 | **Mercado** | Software (SaaS) B2G para segurança pública municipal e cidades inteligentes |
-| **Região prioritária** | Sede em Pinhais/PR — atuação nacional (+30 municípios) |
+| **Região prioritária** | Sede em Pinhais/PR - atuação nacional (+30 municípios) |
 | **Data** | Agosto de 2026 |
 
 > Estratégia construída no mesmo modelo do documento de referência (G5 Segurança), adaptada a um negócio **B2G (governo)**. Os volumes marcados abaixo vêm da Cobertura de Palavras-chave do Ubersuggest (Brasil); os demais estão sinalizados como **"a validar"**.
@@ -15,21 +15,21 @@
 
 ## 1. Resumo executivo
 
-O estudo consolidou a auditoria e a cobertura de palavras-chave do Ubersuggest, o relatório de cobertura do AnswerThePublic e pesquisa pública sobre o negócio. A CCONet é uma **empresa de software para o setor público**: fornece a **Plataforma CCONet** e módulos como **Muralha Digital** (câmeras, sensores e reconhecimento facial), **Mapa do Crime** (análise criminal geoespacial), **Multiagência**, **App Maria da Penha / botão SOS**, **153 e 199 Cidadão** e **Muralha Escolar**, para **prefeituras, guardas municipais, polícias locais e órgãos de segurança pública**. Portanto, o público não busca "empresa de monitoramento" nem "curso": busca **"software de segurança pública", "sistema de videomonitoramento municipal", "mapa do crime", "tecnologia para guarda municipal", "app de denúncia do cidadão"** — termos de **gestor público** avaliando uma solução.
+O estudo consolidou a auditoria e a cobertura de palavras-chave do Ubersuggest, o relatório de cobertura do AnswerThePublic e pesquisa pública sobre o negócio. A CCONet é uma **empresa de software para o setor público**: fornece a **Plataforma CCONet** e módulos como **Muralha Digital** (câmeras, sensores e reconhecimento facial), **Mapa do Crime** (análise criminal geoespacial), **Multiagência**, **App Maria da Penha / botão SOS**, **153 e 199 Cidadão** e **Muralha Escolar**, para **prefeituras, guardas municipais, polícias locais e órgãos de segurança pública**. Portanto, o público não busca "empresa de monitoramento" nem "curso": busca **"software de segurança pública", "sistema de videomonitoramento municipal", "mapa do crime", "tecnologia para guarda municipal", "app de denúncia do cidadão"** - termos de **gestor público** avaliando uma solução.
 
 O ponto mais urgente do diagnóstico é a **queda de 89,8% no tráfego orgânico**: o domínio tem autoridade razoável (≈1,1 mil backlinks) e 46 palavras-chave orgânicas, mas **perdeu visibilidade** e hoje quase não converte busca em visita. Isso torna a estratégia uma operação de **recuperação e reconstrução**, não de partida do zero. A decisão estratégica central é a mesma do modelo G5: **consolidar intenções em páginas pilares fortes** (uma por módulo/tema) e usar **artigos long-tail** para responder as dúvidas do gestor público e conduzi-lo à **solicitação de demonstração**, evitando canibalização entre páginas parecidas.
 
-O diferencial a explorar é a **prova real**: mais de 30 municípios usando a plataforma, com redução de criminalidade — conteúdo de **cases, dados e ROI** tem enorme peso em decisão pública (e ajuda em processos de licitação).
+O diferencial a explorar é a **prova real**: mais de 30 municípios usando a plataforma, com redução de criminalidade - conteúdo de **cases, dados e ROI** tem enorme peso em decisão pública (e ajuda em processos de licitação).
 
-### Diagnóstico atual (métricas — Ubersuggest)
+### Diagnóstico atual (métricas - Ubersuggest)
 
 | Indicador | Valor | Leitura |
 |---|---|---|
 | SEO on-page | 52/100 | Base técnica mediana, exige saneamento |
-| Tráfego orgânico | 17/mês | **Queda de -89,8%** — perda severa de visibilidade |
+| Tráfego orgânico | 17/mês | **Queda de -89,8%** - perda severa de visibilidade |
 | Keywords orgânicas | 46 | Cobertura existe, mas mal posicionada (-9,8%) |
 | Keywords rastreadas | 46 | 5 monitoradas ativamente, todas fora do Top 100 |
-| Backlinks | ~1,1 mil | Autoridade razoável (-16,2%) — ativo a preservar |
+| Backlinks | ~1,1 mil | Autoridade razoável (-16,2%) - ativo a preservar |
 | Problemas de SEO | 353 | Volume alto; prioridade de saneamento |
 | Visibilidade em IA | 0% | Marca não aparece nas respostas de IA |
 
@@ -71,17 +71,17 @@ A pesquisa pública confirma o posicionamento. A CCONet se apresenta como fornec
 
 A auditoria apontou **353 problemas** e uma **queda de 89,8%** no tráfego. Recuperar visibilidade exige tratar a base antes de escalar conteúdo.
 
-### Prioridade 1 — Recuperar visibilidade perdida
+### Prioridade 1 - Recuperar visibilidade perdida
 - **Investigar a queda de -89,8%:** verificar no Google Search Console quedas de indexação, penalizações, migração/redesign, mudança de URLs sem redirect 301 ou perda de páginas que ranqueavam. Este é o item nº 1.
 - **Otimizar a home para o termo de maior tração** (ex.: "cbm conecta" tem 2,9 mil de volume e a home tem potencial) e as páginas de módulo para seus termos-alvo.
 - **Reforçar as páginas de módulo** (Muralha Digital, Mapa do Crime, Multiagência etc.) com conteúdo real: o que é, para quem, como funciona, resultados, FAQ.
 
-### Prioridade 2 — Saneamento (dos 353 problemas)
+### Prioridade 2 - Saneamento (dos 353 problemas)
 - Corrigir páginas bloqueadas de indexação, títulos/meta duplicados ou ausentes, H1 faltando, links quebrados e erros 4XX (detalhar via "O que fazer a seguir?" do Ubersuggest e Search Console).
 - Enviar/atualizar **sitemap.xml** e revisar `robots.txt`.
-- Padronizar `<title>` (≈50–60 caracteres) e meta descrição (≈150–160) únicas por página.
+- Padronizar `<title>` (≈50-60 caracteres) e meta descrição (≈150-160) únicas por página.
 
-### Prioridade 3 — Autoridade e prova
+### Prioridade 3 - Autoridade e prova
 - Preservar e crescer os ~1,1 mil backlinks (imprensa institucional, cases, parcerias com prefeituras e associações municipalistas).
 - Estruturar **dados estruturados** (Organization, Product/SoftwareApplication) e **página de cases** robusta.
 
@@ -89,7 +89,7 @@ A auditoria apontou **353 problemas** e uma **queda de 89,8%** no tráfego. Recu
 
 ## 5. Mapa de palavras-chave: o que usar e o que descartar
 
-> Volumes reais entre parênteses (Ubersuggest — Brasil). Demais termos "a validar".
+> Volumes reais entre parênteses (Ubersuggest - Brasil). Demais termos "a validar".
 
 - **Priorizar - página/cluster:** termos de módulo e de solução ("software de segurança pública", "videomonitoramento municipal", "mapa do crime", "guarda municipal digital", "app de denúncia").
 - **Priorizar - conteúdo:** dúvidas de gestor e justificativa ("como implantar…", "como escolher…", "por que usar software x planilha").
@@ -159,7 +159,7 @@ Cada pilar tem uma **página de módulo** (comercial) + um **guia pilar** (educa
 ### Pilar 1. Plataforma e gestão integrada de segurança pública
 **Palavras-chave do pilar:** software de segurança pública, sistema de gestão de ocorrências, plataforma de segurança pública integrada, software de gestão para guarda municipal, gestão de ocorrências.
 
-**Por que este pilar foi escolhido:** é o núcleo da oferta (Plataforma CCONet + Multiagência). Une o termo amplo de solução às dúvidas de justificativa e integração — o topo do funil do gestor.
+**Por que este pilar foi escolhido:** é o núcleo da oferta (Plataforma CCONet + Multiagência). Une o termo amplo de solução às dúvidas de justificativa e integração - o topo do funil do gestor.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
@@ -171,7 +171,7 @@ Cada pilar tem uma **página de módulo** (comercial) + um **guia pilar** (educa
 ### Pilar 2. Videomonitoramento urbano e Muralha Digital
 **Palavras-chave do pilar:** videomonitoramento urbano, sistema de videomonitoramento municipal, câmeras de segurança pública municipal, reconhecimento facial segurança pública, muralha digital, integração câmeras sistema de gestão.
 
-**Por que este pilar foi escolhido:** a Muralha Digital é o módulo de maior apelo visual e de maior busca (câmeras, sensores, reconhecimento facial). Tema quente e sensível — bom para autoridade e prova.
+**Por que este pilar foi escolhido:** a Muralha Digital é o módulo de maior apelo visual e de maior busca (câmeras, sensores, reconhecimento facial). Tema quente e sensível - bom para autoridade e prova.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
@@ -207,7 +207,7 @@ Cada pilar tem uma **página de módulo** (comercial) + um **guia pilar** (educa
 ### Pilar 5. Apps do cidadão e proteção à mulher
 **Palavras-chave do pilar:** aplicativo de segurança pública, app de denúncia do cidadão, botão SOS mulher, app violência doméstica, tecnologia proteção à mulher, 153 guarda municipal (390).
 
-**Por que este pilar foi escolhido:** módulos 153/199 Cidadão e App Maria da Penha têm forte **apelo social** (tração e imprensa) e conectam a população ao poder público — ótimo para engajamento e reputação.
+**Por que este pilar foi escolhido:** módulos 153/199 Cidadão e App Maria da Penha têm forte **apelo social** (tração e imprensa) e conectam a população ao poder público - ótimo para engajamento e reputação.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
@@ -255,7 +255,7 @@ Cada pilar tem uma **página de módulo** (comercial) + um **guia pilar** (educa
 
 Cada conteúdo reforça um pilar (um módulo) e aponta para a **página do módulo** e para o CTA de **demonstração**.
 
-- **Página pilar / de módulo:** conteúdo amplo (2.000–4.000 palavras) por módulo, com o que é, para quem, como funciona, integração, resultados e FAQ.
+- **Página pilar / de módulo:** conteúdo amplo (2.000-4.000 palavras) por módulo, com o que é, para quem, como funciona, integração, resultados e FAQ.
 - **Artigo long-tail:** responde uma dúvida do gestor ("como escolher…", "como implantar…") e direciona para a página do módulo.
 - **Comparativo / justificativa:** software x planilha, câmera comum x analítica, decisão de licitação.
 - **Checklist / guia para prefeituras:** "o que avaliar ao contratar…", altamente compartilhável entre gestores.
@@ -267,7 +267,7 @@ Cada conteúdo reforça um pilar (um módulo) e aponta para a **página do módu
 - Título claro e institucional, sem excesso de palavras-chave.
 - Introdução que responde à dúvida e mostra o valor para o município.
 - Subtítulos: o que é, para quem, como funciona, integração, resultados, licitação/implantação e dúvidas frequentes.
-- Links para 2–4 conteúdos relacionados e para a página do módulo (CTA: **solicitar demonstração / falar com especialista**).
+- Links para 2-4 conteúdos relacionados e para a página do módulo (CTA: **solicitar demonstração / falar com especialista**).
 - Autor identificado, data de atualização, referências e revisão técnica/jurídica em temas sensíveis (reconhecimento facial, LGPD, dados criminais).
 - FAQ apenas com perguntas reais.
 
@@ -296,7 +296,7 @@ Foco em **LinkedIn** (onde estão prefeitos, secretários e gestores) além de I
 
 > Começando pela recuperação do cluster de maior volume (Mapa do Crime) e pelos módulos de maior apelo.
 
-### Mês 1 — Núcleo: dados e plataforma
+### Mês 1 - Núcleo: dados e plataforma
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 1 | Mapa do crime: como prefeituras usam dados para reduzir a criminalidade | mapa do crime | Carrossel de dados; Reel de case |
@@ -304,7 +304,7 @@ Foco em **LinkedIn** (onde estão prefeitos, secretários e gestores) além de I
 | Semana 3 | Software de gestão x planilhas na guarda municipal | por que usar software de gestão é melhor que planilhas | Carrossel "5 riscos da planilha" |
 | Semana 4 | Como implantar uma plataforma de segurança pública integrada | como implantar plataforma de segurança pública integrada | Reel: etapas de implantação |
 
-### Mês 2 — Videomonitoramento, guarda e cidadão
+### Mês 2 - Videomonitoramento, guarda e cidadão
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 5 | Videomonitoramento urbano: como a prefeitura estrutura o projeto | sistema de videomonitoramento municipal | Carrossel de critérios de escolha |
@@ -312,7 +312,7 @@ Foco em **LinkedIn** (onde estão prefeitos, secretários e gestores) além de I
 | Semana 7 | Tecnologia na guarda municipal: o guia da digitalização | tecnologia guarda municipal | Comparativo guarda reativa x orientada por dados |
 | Semana 8 | App de denúncia do cidadão: conectando população e guarda municipal | app de denúncia do cidadão | Reel de valor público; Stories do app |
 
-### Mês 3 — Sensíveis, escolar e institucional
+### Mês 3 - Sensíveis, escolar e institucional
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 9 | Botão SOS mulher: tecnologia na proteção contra violência doméstica | botão sos mulher | Reel de impacto social; card de dados |
@@ -339,17 +339,17 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. Como o 
 ## 11. Cuidados e riscos
 
 - Não publicar páginas quase idênticas para cada sinônimo de "mapa do crime"; consolidar em uma página pilar.
-- Não posicionar a CCONet como segurança eletrônica residencial/varejo — o público é **gestor público**.
+- Não posicionar a CCONet como segurança eletrônica residencial/varejo - o público é **gestor público**.
 - Não usar marcas de sistemas de terceiros (serconet, siscomat, sysmonet, sistenet, scgen, ccaanet) como pauta.
 - **Reconhecimento facial e dados criminais:** tratar com responsabilidade, respeitando **LGPD** e sem promessas absolutas; revisão técnica/jurídica obrigatória.
-- **Proteção à mulher e segurança escolar:** temas sensíveis — comunicar com seriedade, sem sensacionalismo e sem expor vítimas ou vulnerabilidades.
+- **Proteção à mulher e segurança escolar:** temas sensíveis - comunicar com seriedade, sem sensacionalismo e sem expor vítimas ou vulnerabilidades.
 - Em cases, usar dados autorizados pelo município e evitar expor táticas/pontos cegos que comprometam a segurança.
 - Não prometer "fim da criminalidade"; comunicar **redução de risco, inteligência, integração e resposta** baseadas em dados.
 - Cuidado com conteúdo político-partidário: manter tom técnico e de política pública.
 
 ---
 
-## Apêndice A — Inventário de palavras-chave e decisão
+## Apêndice A - Inventário de palavras-chave e decisão
 
 > Volumes reais do Ubersuggest quando disponíveis; demais "a validar". Justificativas seguem os textos-padrão do modelo G5.
 
@@ -409,14 +409,14 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. Como o 
 |---|---|---|---|
 | cconet | Ubersuggest | vol. 390 (pos. 1) | Importante para reputação, navegação e defesa da busca de marca; não é pilar de aquisição isolado. |
 | cconet login | Ubersuggest | vol. 260 | Importante para reputação, navegação e defesa da busca de marca; não é pilar de aquisição isolado. |
-| cbm conecta | Ubersuggest | vol. 2.900 | Produto/associação de alto volume — validar aderência real do módulo antes de priorizar. |
+| cbm conecta | Ubersuggest | vol. 2.900 | Produto/associação de alto volume - validar aderência real do módulo antes de priorizar. |
 | 153 guarda municipal | Ubersuggest | vol. 390 | Produto (153 Cidadão); proteger e direcionar para conversão. |
 | muralha connect | Ubersuggest | vol. 260 | Produto (Muralha Digital); consolidar o nome do módulo. |
 | minha cidade digital | Ubersuggest | vol. 320 | Produto/portal municipal; captar tráfego de deployment. |
 | cachoeirinha digital | Ubersuggest | vol. 320 | Deployment municipal; caso de uso e prova. |
 | central do agente | Ubersuggest | vol. 320 | Produto; conectar ao dia a dia da guarda. |
-| sistema presente cmt | Ubersuggest | vol. 320 | Produto/associação — validar aderência. |
-| scgen | Ubersuggest | vol. 390 | Marca/sistema — validar se é próprio ou de terceiro. |
+| sistema presente cmt | Ubersuggest | vol. 320 | Produto/associação - validar aderência. |
+| scgen | Ubersuggest | vol. 390 | Marca/sistema - validar se é próprio ou de terceiro. |
 
 ### Não usar (terceiros / fora de intenção)
 
@@ -431,11 +431,11 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. Como o 
 
 ---
 
-## Apêndice B — Fontes e limitações
+## Apêndice B - Fontes e limitações
 
-- **Ubersuggest — Painel de controle (cconet.com.br):** SEO on-page 52, tráfego orgânico 17/mês (-89,8%), 46 palavras-chave orgânicas (-9,8%), 46 rastreadas, ~1,1 mil backlinks (-16,2%), 353 problemas de SEO, visibilidade em IA 0%.
-- **Ubersuggest — Cobertura de palavras-chave:** 46 palavras-chave; volumes reais usados neste documento (mapa da violência 720, mapa violência brasil 880, cbm conecta 2.9K, serconet 1.3K, siscomat 720, cconet 390, etc.).
-- **Ubersuggest — Rastreio de ranking:** 5 termos monitorados, todos "não se posicionam" (fora do Top 100): plataforma smart city, software administração pública, smart city brasil, gestão de cidades inteligentes, soluções smart city.
+- **Ubersuggest - Painel de controle (cconet.com.br):** SEO on-page 52, tráfego orgânico 17/mês (-89,8%), 46 palavras-chave orgânicas (-9,8%), 46 rastreadas, ~1,1 mil backlinks (-16,2%), 353 problemas de SEO, visibilidade em IA 0%.
+- **Ubersuggest - Cobertura de palavras-chave:** 46 palavras-chave; volumes reais usados neste documento (mapa da violência 720, mapa violência brasil 880, cbm conecta 2.9K, serconet 1.3K, siscomat 720, cconet 390, etc.).
+- **Ubersuggest - Rastreio de ranking:** 5 termos monitorados, todos "não se posicionam" (fora do Top 100): plataforma smart city, software administração pública, smart city brasil, gestão de cidades inteligentes, soluções smart city.
 - **AnswerThePublic (Cobertura + Ideias de conteúdo):** 50 ideias e clusters de conteúdo (implantação de plataforma, botão SOS mulher, software x planilhas, apps de segurança pública, videomonitoramento municipal, guarda municipal, reconhecimento facial, cidade inteligente, mapas de crime, segurança escolar).
 - **Volumes marcados "a validar":** confirmar no Ubersuggest/Keyword Planner (Brasil) antes da priorização final.
 - **Pesquisa pública** (agosto de 2026): site cconet.com.br e páginas de módulo, para validar negócio, produtos e público (prefeituras, guardas municipais e órgãos de segurança pública; sede em Pinhais/PR; +30 municípios).

@@ -1,5 +1,5 @@
 # G5 Segurança
-## Estratégia de Conteúdo — SEO + Blog + Redes Sociais
+## Estratégia de Conteúdo - SEO + Blog + Redes Sociais
 ### Validação de palavras-chave, arquitetura por pilares e plano editorial
 
 | Campo | Informação |
@@ -282,7 +282,7 @@ As redes sociais não devem copiar o artigo. Elas devem recortar a ideia em form
 | Formato | Função | Canais |
 |---|---|---|
 | Carrossel educativo | 5 a 8 telas com problema, erros, solução e checklist. | Instagram e LinkedIn |
-| Reel curto | Gancho de risco ou dúvida, explicação em 30–60 segundos e CTA. | Instagram, Facebook e Shorts |
+| Reel curto | Gancho de risco ou dúvida, explicação em 30-60 segundos e CTA. | Instagram, Facebook e Shorts |
 | Post de comparação | Tabela visual: físico x remoto, crachá x biometria, câmera comum x analítica. | Instagram e LinkedIn |
 | Bastidores | Central, equipe, protocolos, instalação e treinamento, sem revelar informações sensíveis. | Stories e Reels |
 | Caso real | Contexto, desafio, solução e benefício, com autorização. | LinkedIn, Instagram e site |
@@ -296,7 +296,7 @@ As redes sociais não devem copiar o artigo. Elas devem recortar a ideia em form
 
 ## 8. Plano editorial inicial de 90 dias
 
-### Mês 1 — Fundamentos e intenção comercial
+### Mês 1 - Fundamentos e intenção comercial
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 1 | Guia de segurança empresarial | empresa de segurança | Carrossel: 7 falhas comuns; Reel: segurança integrada |
@@ -304,7 +304,7 @@ As redes sociais não devem copiar o artigo. Elas devem recortar a ideia em form
 | Semana 3 | Guia da portaria remota | portaria remota | Reel: o que acontece na central; carrossel de vantagens |
 | Semana 4 | Controle de acesso empresarial | controle de acesso empresarial | Comparativo crachá x biometria |
 
-### Mês 2 — Condomínios e tecnologia
+### Mês 2 - Condomínios e tecnologia
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 5 | Como melhorar a segurança do condomínio | segurança para condomínio | Checklist para síndicos |
@@ -312,7 +312,7 @@ As redes sociais não devem copiar o artigo. Elas devem recortar a ideia em form
 | Semana 7 | CFTV empresarial | cftv empresarial | Carrossel câmera IP x analógica |
 | Semana 8 | Portaria remota em Curitiba | portaria remota curitiba | Conteúdo local e estudo de cenário |
 
-### Mês 3 — Verticais e confiança
+### Mês 3 - Verticais e confiança
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 9 | Segurança para galpões logísticos | proteção galpão logístico | Reel sobre perímetro e docas |
@@ -347,7 +347,7 @@ A revisão deve ser mensal para desempenho e trimestral para decisões estrutura
 
 ---
 
-## Apêndice A — Inventário completo de palavras-chave e decisão
+## Apêndice A - Inventário completo de palavras-chave e decisão
 
 A lista abaixo consolida todas as sugestões disponíveis nos arquivos analisados. Variações exatamente iguais foram deduplicadas; as fontes aparecem agrupadas. "Não usar" significa não investir como pauta de aquisição. O termo pode aparecer incidentalmente quando necessário, mas não deve orientar uma URL.
 
@@ -566,7 +566,7 @@ A lista abaixo consolida todas as sugestões disponíveis nos arquivos analisado
 
 ---
 
-## Apêndice B — Fontes e limitações
+## Apêndice B - Fontes e limitações
 
 - **Google Keyword Planner:** período de julho de 2025 a junho de 2026. Os valores de 500 e 50 podem representar faixas/agregações e várias variações podem compartilhar o mesmo conjunto de buscas.
 - **Ubersuggest:** dashboard exportado em 06/08/2026; SEO Score 88, tráfego orgânico estimado em 67, 63 palavras orgânicas, 35 backlinks e queda estimada de 45,1%.

@@ -1,4 +1,4 @@
-# ParkSeg Academy — Análise de Site, SEO e Palavras-chave
+# ParkSeg Academy - Análise de Site, SEO e Palavras-chave
 
 > Documento de diagnóstico e pesquisa. Serve de base para montar, na sequência, a **Estratégia de Conteúdo SEO** completa no mesmo modelo do G5 Segurança.
 
@@ -7,7 +7,7 @@
 | **Empresa** | ParkSeg Academy (Parkseg Treinamentos) |
 | **Site** | https://parkseg.com/ |
 | **Segmento** | Centro de **capacitação/treinamento** para o mercado de **segurança eletrônica e TI** |
-| **Região** | Palhoça / Grande Florianópolis – SC (Cidade Universitária Pedra Branca, Rua dos Cisnes, 355) — atende profissionais de todo o Brasil |
+| **Região** | Palhoça / Grande Florianópolis - SC (Cidade Universitária Pedra Branca, Rua dos Cisnes, 355) - atende profissionais de todo o Brasil |
 | **Data da análise** | Agosto de 2026 |
 | **Fontes** | Auditoria Ubersuggest (PDF enviado), prints do Ubersuggest, pesquisa pública (site, LinkedIn, Revista Segurança Eletrônica, Hikvision) |
 
@@ -48,14 +48,14 @@
 
 | Indicador | Valor | Leitura |
 |---|---|---|
-| SEO on-page | **61/100** | Base técnica fraca — precisa de saneamento |
+| SEO on-page | **61/100** | Base técnica fraca - precisa de saneamento |
 | Tráfego orgânico mensal | **130** | Visibilidade muito baixa |
 | Palavras-chave orgânicas | **5** | Praticamente sem presença orgânica |
 | Backlinks | **48** | Autoridade inicial baixa |
 | Páginas rastreadas | **57** | 37 validadas · 2 com redirect · **5 quebradas** · **13 bloqueadas** |
 | Problemas de SEO | **155** | Volume alto para um site pequeno |
 
-### Erros críticos (impacto ALTO — corrigir primeiro)
+### Erros críticos (impacto ALTO - corrigir primeiro)
 
 | Problema | Qtd. | Por que importa |
 |---|---|---|
@@ -90,56 +90,56 @@
 ### 3.1 "Buscar por website" (parkseg.com)
 Retornou apenas 6 termos: `passeg (480)`, `piraseg (210)`, `primeseg segurança eletrônica (170)`, `parkseg academy (140)`, `parkseg (140)`, `seg park (140)`.
 
-**Interpretação:** a maioria são **marcas concorrentes/terceiros** (passeg, piraseg, primeseg) com nome parecido — não são oportunidades reais. Só `parkseg` e `parkseg academy` são de marca. Isso **confirma a auditoria**: o site quase não tem pegada orgânica e é facilmente confundido com concorrentes de nome similar. **Conclusão:** a autoridade temática precisa ser construída quase do zero, com conteúdo próprio.
+**Interpretação:** a maioria são **marcas concorrentes/terceiros** (passeg, piraseg, primeseg) com nome parecido - não são oportunidades reais. Só `parkseg` e `parkseg academy` são de marca. Isso **confirma a auditoria**: o site quase não tem pegada orgânica e é facilmente confundido com concorrentes de nome similar. **Conclusão:** a autoridade temática precisa ser construída quase do zero, com conteúdo próprio.
 
-### 3.2 "Visão Geral IA" — termo `treinamentos segurança`
+### 3.2 "Visão Geral IA" - termo `treinamentos segurança`
 Aqui está a **demanda real**: autocomplete `treinamentos segurança (480)`, comparação `treinamentos segurança (590)`, preposição `para treinamentos (210)`, perguntas como "quais treinamentos o técnico…", "o que é treinamento de…", "como treinar segurança". Prompts de IA giram em torno de **cursos certificados, certificações valorizadas, Ethical Hacking, plataformas para aprender segurança**.
 
-**Conclusão:** existe volume informacional em torno de **treinamento/capacitação/certificação** — é por aí que o ParkSeg deve atacar, e não pelos termos de "serviço de segurança".
+**Conclusão:** existe volume informacional em torno de **treinamento/capacitação/certificação** - é por aí que o ParkSeg deve atacar, e não pelos termos de "serviço de segurança".
 
 ---
 
 ## 4. Universo de palavras-chave proposto (por pilares)
 
-> Adaptado ao nicho de **treinamentos**. Os volumes precisam ser **confirmados no Ubersuggest/Keyword Planner** (localização: Brasil) — a lista abaixo é o mapa de intenção a validar. Decisões seguem o mesmo critério do modelo G5 (aderência ao portfólio + intenção + risco de canibalização).
+> Adaptado ao nicho de **treinamentos**. Os volumes precisam ser **confirmados no Ubersuggest/Keyword Planner** (localização: Brasil) - a lista abaixo é o mapa de intenção a validar. Decisões seguem o mesmo critério do modelo G5 (aderência ao portfólio + intenção + risco de canibalização).
 
-### Pilar 1 — CFTV e câmeras (curso)
+### Pilar 1 - CFTV e câmeras (curso)
 `curso de cftv`, `curso de cftv online`, `curso instalação de câmeras de segurança`, `curso de câmeras`, `curso cftv hikvision`, `como instalar câmera de segurança`, `curso de cftv com certificado`, `curso monitoramento cftv`.
 → **Prioridade máxima** (núcleo de demanda + carro-chefe Hikvision).
 
-### Pilar 2 — Alarmes (curso)
+### Pilar 2 - Alarmes (curso)
 `curso de alarme`, `curso instalação de alarme`, `curso alarme monitorado`, `alarme ax pro hikvision`, `como instalar central de alarme`, `curso de alarme sem fio`.
 → **Prioridade máxima / apoio.**
 
-### Pilar 3 — Controle de acesso e portaria
+### Pilar 3 - Controle de acesso e portaria
 `curso controle de acesso`, `curso de portaria remota`, `curso portaria remota`, `mikrotik para portaria remota`, `como montar portaria remota`, `controle de acesso condomínio curso`.
 → **Prioridade máxima** (portaria remota é tema quente e valorizado).
 
-### Pilar 4 — Redes, Mikrotik e Fibra óptica
+### Pilar 4 - Redes, Mikrotik e Fibra óptica
 `curso mikrotik`, `curso mikrotik para cftv`, `curso de redes para segurança eletrônica`, `curso fibra óptica`, `fusão de fibra óptica curso`, `curso de infraestrutura de redes`.
 → **Prioridade / apoio** (habilidade técnica de suporte muito buscada por instaladores).
 
-### Pilar 5 — Certificações Hikvision
+### Pilar 5 - Certificações Hikvision
 `certificação hikvision`, `hcsa hikvision`, `hcsp hikvision`, `treinamento hikvision`, `como tirar certificação hikvision`, `certificação em segurança eletrônica`.
 → **Prioridade máxima** (diferencial exclusivo: parceria oficial).
 
-### Pilar 6 — Energia solar fotovoltaica
+### Pilar 6 - Energia solar fotovoltaica
 `curso de energia solar`, `curso energia solar fotovoltaica`, `curso instalação de energia solar`, `curso dimensionamento energia solar`.
 → **Apoio / diversificação** (curso existente; público adjacente).
 
-### Pilar 7 — Gestão e comercial para integradores
+### Pilar 7 - Gestão e comercial para integradores
 `como precificar cftv`, `como vender segurança eletrônica`, `como montar empresa de segurança eletrônica`, `gestão de empresa de segurança eletrônica`, `como fazer orçamento de cftv`.
 → **Priorizar - conteúdo** (topo/meio de funil; atrai o dono do negócio).
 
-### Pilar 8 — Profissão / entrada no mercado
+### Pilar 8 - Profissão / entrada no mercado
 `como ser instalador de câmeras`, `quanto ganha um instalador de cftv`, `como trabalhar com segurança eletrônica`, `profissão instalador de alarme`, `mercado de segurança eletrônica`.
 → **Priorizar - conteúdo** (alto volume informacional; capta iniciantes → funil de matrícula).
 
-### Pilar 9 — EAD / cursos online
+### Pilar 9 - EAD / cursos online
 `curso de segurança eletrônica online`, `curso de cftv ead`, `curso segurança eletrônica com certificado`, `curso online instalador`.
 → **Prioridade** (casa com a plataforma EAD).
 
-### Pilar 10 — Marca (defesa e reputação)
+### Pilar 10 - Marca (defesa e reputação)
 `parkseg`, `parkseg academy`, `parkseg treinamentos`, `parkseg é bom`, `parkseg cursos`.
 → **Usar - marca** (proteção de reputação; separar dos concorrentes de nome parecido).
 
@@ -155,7 +155,7 @@ O mesmo esqueleto do documento G5, mas com a lógica de **academia**: cada pilar
 
 1. CFTV e câmeras · 2. Alarmes · 3. Controle de acesso e portaria · 4. Redes/Mikrotik/Fibra · 5. Certificações Hikvision · 6. Energia solar · 7. Gestão e comercial · 8. Profissão/carreira · 9. EAD/online · 10. Marca.
 
-Formatos de rede social ficam iguais ao G5 (carrossel educativo, Reel, comparativo, bastidores — **aqui: bastidores das aulas/laboratório**, caso real = **depoimento de aluno**, FAQ, conteúdo local de SC). O gancho muda: "aprenda a fazer / suba de nível na carreira" em vez de "proteja seu patrimônio".
+Formatos de rede social ficam iguais ao G5 (carrossel educativo, Reel, comparativo, bastidores - **aqui: bastidores das aulas/laboratório**, caso real = **depoimento de aluno**, FAQ, conteúdo local de SC). O gancho muda: "aprenda a fazer / suba de nível na carreira" em vez de "proteja seu patrimônio".
 
 ---
 
@@ -167,6 +167,6 @@ Para eu montar o documento final no mesmo padrão do G5, o ideal é você me pas
 2. ⏳ **Validar volumes** das palavras-chave da seção 4 no Ubersuggest/Keyword Planner (Brasil). Se puder exportar a lista "Ideias de Palavras-chave" com volume/CPC/SD, eu classifico tudo no Apêndice A (como no G5).
 3. ⏳ **Confirmar o catálogo atual e preços/modalidades** (quais cursos estão ativos, cargas horárias, presencial x EAD).
 4. ⏳ **Redes sociais ativas** do ParkSeg (Instagram/LinkedIn/YouTube) e se há blog no site.
-5. ⏳ **Prioridade comercial:** qual curso/linha o ParkSeg mais quer vender agora (CFTV? Certificação Hikvision? Portaria remota?) — isso define o topo do plano editorial de 90 dias.
+5. ⏳ **Prioridade comercial:** qual curso/linha o ParkSeg mais quer vender agora (CFTV? Certificação Hikvision? Portaria remota?) - isso define o topo do plano editorial de 90 dias.
 
-Com esses itens, entrego a **Estratégia de Conteúdo SEO completa do ParkSeg** (resumo executivo, metodologia, pilares, arquitetura de blog, redes sociais, plano de 90 dias, medição, riscos e Apêndices A/B) — no mesmo formato do documento do G5, em Markdown e PDF.
+Com esses itens, entrego a **Estratégia de Conteúdo SEO completa do ParkSeg** (resumo executivo, metodologia, pilares, arquitetura de blog, redes sociais, plano de 90 dias, medição, riscos e Apêndices A/B) - no mesmo formato do documento do G5, em Markdown e PDF.

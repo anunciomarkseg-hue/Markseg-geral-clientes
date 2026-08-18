@@ -1,4 +1,4 @@
-# Briefing — Informações necessárias para montar a Estratégia de SEO
+# Briefing - Informações necessárias para montar a Estratégia de SEO
 
 Preencha (ou envie) o máximo possível dos itens abaixo. Quanto mais completo, mais fiel ao modelo do G5 fica o documento final. Itens marcados com ⭐ são essenciais.
 
@@ -24,7 +24,7 @@ Preencha (ou envie) o máximo possível dos itens abaixo. Quanto mais completo, 
 
 ## 4. Métricas de SEO atuais (para o Resumo Executivo)
 > Extraídas de Ubersuggest, SEMrush ou similar. Se não tiver algum dado, marque "não disponível".
-- SEO on-page / SEO Score (0–100):
+- SEO on-page / SEO Score (0-100):
 - Tráfego orgânico estimado:
 - Variação de tráfego (% de subida/queda):
 - Keywords orgânicas (nº):
@@ -33,10 +33,10 @@ Preencha (ou envie) o máximo possível dos itens abaixo. Quanto mais completo, 
 
 ## 5. Fontes de pesquisa de palavras-chave utilizadas
 > Marque as que foram usadas e o período de cada uma (para o Apêndice B).
-- [ ] Google Keyword Planner — período:
-- [ ] Ubersuggest — data de exportação:
-- [ ] AnswerThePublic — nº de ideias:
-- [ ] Google Trends — janela de datas:
+- [ ] Google Keyword Planner - período:
+- [ ] Ubersuggest - data de exportação:
+- [ ] AnswerThePublic - nº de ideias:
+- [ ] Google Trends - janela de datas:
 - [ ] Outras:
 
 ## 6. Lista bruta de palavras-chave

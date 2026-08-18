@@ -1,34 +1,34 @@
 # Intersept
-## Estratégia de Conteúdo — SEO + Blog + Redes Sociais
+## Estratégia de Conteúdo - SEO + Blog + Redes Sociais
 ### Validação de palavras-chave, arquitetura por pilares e plano editorial
 
 | Campo | Informação |
 |---|---|
-| **Empresa analisada** | Intersept — Soluções Integradas em Segurança Eletrônica e Proteção Patrimonial |
+| **Empresa analisada** | Intersept - Soluções Integradas em Segurança Eletrônica e Proteção Patrimonial |
 | **Mercado** | Segurança privada e proteção patrimonial (tecnologia, IA e monitoramento) |
 | **Região prioritária** | Sede em Curitiba/PR + filiais em Foz do Iguaçu/PR, Joinville/SC e Porto Alegre/RS (Sul e Sudeste) |
 | **Data** | Agosto de 2026 |
 
-> Estratégia no mesmo modelo do documento de referência (G5 Segurança). Diferente dos demais clientes, o Intersept é um **player estabelecido e com autoridade** — logo, a estratégia é de **expansão de autoridade temática, defesa do tráfego e limpeza técnica**, não de partida do zero. Volumes reais entre parênteses (Ubersuggest — Brasil); demais "a validar".
+> Estratégia no mesmo modelo do documento de referência (G5 Segurança). Diferente dos demais clientes, o Intersept é um **player estabelecido e com autoridade** - logo, a estratégia é de **expansão de autoridade temática, defesa do tráfego e limpeza técnica**, não de partida do zero. Volumes reais entre parênteses (Ubersuggest - Brasil); demais "a validar".
 
 ---
 
 ## 1. Resumo executivo
 
-O estudo consolidou o Painel de Controle e o Rastreio de Ranking do Ubersuggest, a auditoria técnica, o relatório de cobertura do AnswerThePublic e pesquisa pública sobre o negócio. O Intersept é uma **empresa de serviços de segurança** com portfólio amplo: **monitoramento de alarmes, monitoramento inteligente de câmeras, portaria remota, portaria autônoma, assistência patrimonial, ronda, atendimento tático, rastreamento veicular e projetos integrados de segurança 360°**, atendendo **condomínios, empresas, residências e frotas**. Diferente do G5 e dos demais clientes analisados, o Intersept **já tem autoridade consolidada**: SEO on-page 92, ~1,3 mil visitas orgânicas/mês, 260 palavras-chave orgânicas e **8,4 mil backlinks** — base rara no setor.
+O estudo consolidou o Painel de Controle e o Rastreio de Ranking do Ubersuggest, a auditoria técnica, o relatório de cobertura do AnswerThePublic e pesquisa pública sobre o negócio. O Intersept é uma **empresa de serviços de segurança** com portfólio amplo: **monitoramento de alarmes, monitoramento inteligente de câmeras, portaria remota, portaria autônoma, assistência patrimonial, ronda, atendimento tático, rastreamento veicular e projetos integrados de segurança 360°**, atendendo **condomínios, empresas, residências e frotas**. Diferente do G5 e dos demais clientes analisados, o Intersept **já tem autoridade consolidada**: SEO on-page 92, ~1,3 mil visitas orgânicas/mês, 260 palavras-chave orgânicas e **8,4 mil backlinks** - base rara no setor.
 
-Isso muda o foco: aqui a prioridade não é construir presença, e sim **(1) defender e recuperar** o tráfego, que caiu 10,8%, **(2) expandir a autoridade temática** para os clusters de maior intenção (portaria remota, segurança para condomínios, monitoramento 24h, segurança empresarial 360) e **(3) sanear a dívida técnica** — o site tem 486 redirecionamentos, 198 links quebrados e 53 páginas com erro, sinais típicos de uma migração/replataforma recente que precisa de limpeza para não desperdiçar a autoridade acumulada.
+Isso muda o foco: aqui a prioridade não é construir presença, e sim **(1) defender e recuperar** o tráfego, que caiu 10,8%, **(2) expandir a autoridade temática** para os clusters de maior intenção (portaria remota, segurança para condomínios, monitoramento 24h, segurança empresarial 360) e **(3) sanear a dívida técnica** - o site tem 486 redirecionamentos, 198 links quebrados e 53 páginas com erro, sinais típicos de uma migração/replataforma recente que precisa de limpeza para não desperdiçar a autoridade acumulada.
 
 A decisão estratégica de arquitetura é a mesma do modelo G5: **páginas pilares fortes por serviço** + **artigos long-tail** que respondem às dúvidas de síndicos e gestores e conduzem ao **orçamento**, evitando canibalização. O diferencial a explorar em conteúdo é a **amplitude do portfólio (segurança 360°)** e a **regulação/confiança** (estatuto da segurança privada, empresa regularizada), temas de alta intenção que o AnswerThePublic confirmou.
 
-### Diagnóstico atual (métricas — Ubersuggest)
+### Diagnóstico atual (métricas - Ubersuggest)
 
 | Indicador | Valor | Leitura |
 |---|---|---|
 | SEO on-page | **92/100** | Base técnica forte |
-| Tráfego orgânico | ~1,3 mil/mês | **Queda de -10,8%** — defender e recuperar |
-| Keywords orgânicas | 260 | Boa cobertura (-13,6%) — recuperar posições perdidas |
-| Backlinks | **8,4 mil** | Autoridade forte — grande ativo competitivo |
+| Tráfego orgânico | ~1,3 mil/mês | **Queda de -10,8%** - defender e recuperar |
+| Keywords orgânicas | 260 | Boa cobertura (-13,6%) - recuperar posições perdidas |
+| Backlinks | **8,4 mil** | Autoridade forte - grande ativo competitivo |
 | Valor estimado do tráfego | US$ 970,87 | Ativo relevante a proteger |
 | Páginas rastreadas | 1.041 | 479 validadas · **486 redirect** · 53 quebradas · 23 bloqueadas |
 | Problemas de SEO | 390 | 18 bloqueadas, 16 rasas, **198 links quebrados**, 79 títulos longos |
@@ -48,7 +48,7 @@ A decisão estratégica de arquitetura é a mesma do modelo G5: **páginas pilar
 | Intenção de busca | Priorizada a intenção comercial/decisória ("contratar…", "vale a pena…", "melhor…") e informacional próxima da contratação. |
 | Defesa de posições | Como há queda de tráfego e keywords, priorizar recuperar/reforçar páginas que já rankeiam antes de criar novas. |
 | Risco de canibalização | Sinônimos ("portaria remota", "portaria virtual", "o que é portaria remota") convergem para uma página pilar. |
-| Recorte local | Curitiba, Foz do Iguaçu, Joinville e Porto Alegre — páginas locais qualificam a conversão nas praças de atuação. |
+| Recorte local | Curitiba, Foz do Iguaçu, Joinville e Porto Alegre - páginas locais qualificam a conversão nas praças de atuação. |
 | Autoridade temática | Aproveitar os 8,4 mil backlinks para dominar clusters completos (pilar + apoio + comparativos + FAQ). |
 | Qualidade e confiança | Temas de regulação (estatuto da segurança privada, LGPD em monitoramento) exigem precisão e evitam promessas absolutas. |
 
@@ -68,17 +68,17 @@ A pesquisa pública confirma o posicionamento: o Intersept se apresenta como esp
 
 O site tem base forte (SEO 92), mas carrega **dívida técnica de migração** que precisa ser tratada para não perder o que já conquistou.
 
-### Prioridade 1 — Recuperar o tráfego (-10,8%) e limpar a migração
+### Prioridade 1 - Recuperar o tráfego (-10,8%) e limpar a migração
 - **486 redirecionamentos + 53 páginas 4XX + 198 links quebrados:** auditar a cadeia de redirects (evitar redirect em cadeia/loop), corrigir 301 quebrados e apontar links internos para as URLs finais. É o item nº 1: essa bagunça costuma explicar quedas de posição pós-migração.
 - **Reforçar a página de "segurança eletrônica"** (termo que o próprio Ubersuggest recomenda otimizar) e as páginas dos serviços que perderam posição.
 - **18 páginas bloqueadas de indexação:** confirmar que nenhuma página de serviço/local está bloqueada por engano.
 
-### Prioridade 2 — Higiene on-page
-- **79 títulos muito longos + 17 muito curtos:** padronizar `<title>` (≈50–60 caracteres).
+### Prioridade 2 - Higiene on-page
+- **79 títulos muito longos + 17 muito curtos:** padronizar `<title>` (≈50-60 caracteres).
 - **16 páginas com pouco conteúdo:** enriquecer páginas de serviço/local.
 - **3 múltiplas meta descrições + 4 sem meta + 2 sem H1:** uma meta e um H1 por página.
 
-### Prioridade 3 — Infra e consolidação
+### Prioridade 3 - Infra e consolidação
 - Verificar **SSL** (a auditoria sinalizou), habilitar compressão, declarar doctype/charset.
 - Consolidar as 479 páginas válidas em uma arquitetura de silos por serviço + praça (local).
 
@@ -197,7 +197,7 @@ Cada pilar tem uma página de serviço + guia pilar + apoio e distribuição. O 
 ### Pilar 5. Como contratar empresa de segurança + Estatuto da segurança privada
 **Palavras-chave do pilar:** contratar empresa de segurança privada, como escolher empresa de segurança para minha empresa, empresa de segurança regulamentada, estatuto segurança privada (416), o que verificar antes de contratar segurança privada.
 
-**Por que este pilar foi escolhido:** é o cluster de **fundo de funil e confiança**. "Estatuto segurança privada" (416) e os termos de regulação posicionam o Intersept como escolha segura e regularizada — vantagem sobre concorrentes informais.
+**Por que este pilar foi escolhido:** é o cluster de **fundo de funil e confiança**. "Estatuto segurança privada" (416) e os termos de regulação posicionam o Intersept como escolha segura e regularizada - vantagem sobre concorrentes informais.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
@@ -256,7 +256,7 @@ Cada pilar tem uma página de serviço + guia pilar + apoio e distribuição. O 
 
 Cada conteúdo reforça um pilar (um serviço) e aponta para a **página do serviço** e o CTA de **orçamento**.
 
-- **Página pilar / de serviço:** conteúdo amplo (2.000–4.000 palavras) por serviço, com o que é, para quem, como funciona, integração e FAQ.
+- **Página pilar / de serviço:** conteúdo amplo (2.000-4.000 palavras) por serviço, com o que é, para quem, como funciona, integração e FAQ.
 - **Artigo long-tail:** responde uma dúvida específica ("vale a pena…", "como escolher…") e direciona para a página de serviço.
 - **Comparativo:** remota x presencial, monitoramento x vigilância, ronda x eletrônico.
 - **Checklist/guia:** "o que avaliar antes de contratar", altamente compartilhável.
@@ -265,9 +265,9 @@ Cada conteúdo reforça um pilar (um serviço) e aponta para a **página do serv
 
 ### Regras de SEO para cada artigo
 - Uma intenção principal por URL; sinônimos usados naturalmente no texto.
-- Título claro e humano (≈50–60 caracteres); introdução que responde rápido à dúvida.
+- Título claro e humano (≈50-60 caracteres); introdução que responde rápido à dúvida.
 - Subtítulos: o que é, como funciona, vantagens, limitações, custos, implantação e FAQ.
-- Links para 2–4 conteúdos relacionados e para a página do serviço (CTA: **solicitar orçamento / falar com especialista**).
+- Links para 2-4 conteúdos relacionados e para a página do serviço (CTA: **solicitar orçamento / falar com especialista**).
 - Autor identificado, data de atualização e revisão técnica; cuidado com LGPD em monitoramento/câmeras.
 - FAQ apenas com perguntas reais.
 
@@ -280,9 +280,9 @@ As redes recortam a ideia em descoberta, prova, objeção e ação. Cada artigo 
 | Formato | Função | Canais |
 |---|---|---|
 | Carrossel educativo | 5 a 8 telas: erro comum, solução e checklist (ex.: "5 falhas na portaria do seu condomínio"). | Instagram e LinkedIn |
-| Reel curto | Gancho de risco/dúvida, explicação em 30–60s e CTA de orçamento. | Instagram, Facebook, YouTube Shorts |
+| Reel curto | Gancho de risco/dúvida, explicação em 30-60s e CTA de orçamento. | Instagram, Facebook, YouTube Shorts |
 | Post de comparação | Remota x presencial, monitoramento x vigilância, ronda x eletrônico. | Instagram e LinkedIn |
-| Bastidores da central | Central 24h, equipe, protocolos, atendimento tático — sem dados sensíveis. | Stories e Reels |
+| Bastidores da central | Central 24h, equipe, protocolos, atendimento tático - sem dados sensíveis. | Stories e Reels |
 | Caso real | Condomínio/empresa, desafio, solução e resultado (com autorização). | LinkedIn, Instagram e site |
 | Conteúdo local | Situações de Curitiba, Foz, Joinville e Porto Alegre; linguagem regional. | Instagram, Facebook e Google Business Profile |
 | Autoridade B2B | Projeto 360°, estatuto da segurança privada, tecnologia com IA. | LinkedIn |
@@ -296,7 +296,7 @@ As redes recortam a ideia em descoberta, prova, objeção e ação. Cada artigo 
 
 > Começando pela recuperação dos clusters de maior volume e intenção, cobrindo os principais serviços.
 
-### Mês 1 — Condomínios e portaria (carro-chefe)
+### Mês 1 - Condomínios e portaria (carro-chefe)
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 1 | Segurança para condomínios: guia em camadas | segurança para condomínios | Carrossel: 7 falhas de segurança em condomínios |
@@ -304,7 +304,7 @@ As redes recortam a ideia em descoberta, prova, objeção e ação. Cada artigo 
 | Semana 3 | Portaria remota x presencial: qual protege melhor | portaria remota é mais segura que presencial | Comparativo visual para síndicos |
 | Semana 4 | Controle de acesso para condomínio | controle de acesso condomínio | Carrossel de tecnologias de acesso |
 
-### Mês 2 — Monitoramento e empresa
+### Mês 2 - Monitoramento e empresa
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 5 | Monitoramento 24 horas: como funciona | monitoramento 24 horas | Bastidores da central; Reel operacional |
@@ -312,7 +312,7 @@ As redes recortam a ideia em descoberta, prova, objeção e ação. Cada artigo 
 | Semana 7 | Monitoramento inteligente de câmeras (IA) | monitoramento de câmeras | Comparativo gravação passiva x análise por IA |
 | Semana 8 | Controle de acesso empresarial | controle de acesso empresarial | Carrossel de rastreabilidade |
 
-### Mês 3 — Confiança, frotas e resposta
+### Mês 3 - Confiança, frotas e resposta
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 9 | Como contratar uma empresa de segurança confiável | contratar empresa de segurança privada | Carrossel "o que verificar antes de contratar" |
@@ -338,7 +338,7 @@ Revisão mensal para desempenho e trimestral para decisões estruturais.
 ## 11. Cuidados e riscos
 
 - Não publicar páginas quase idênticas para cada sinônimo de portaria/monitoramento; consolidar em pilares.
-- Tratar a **dívida técnica de migração** (redirects/links quebrados) antes de escalar conteúdo — senão a produção nova rende menos.
+- Tratar a **dívida técnica de migração** (redirects/links quebrados) antes de escalar conteúdo - senão a produção nova rende menos.
 - **Monitoramento, câmeras e IA:** respeitar **LGPD** (imagem, dados) e evitar promessas absolutas de "segurança total".
 - Em conteúdo sobre estatuto/regulação, manter precisão jurídica e revisão; não dar orientação legal definitiva sem ressalva.
 - Em cases, usar dados autorizados e não expor rotinas, plantas ou pontos cegos dos clientes.
@@ -347,7 +347,7 @@ Revisão mensal para desempenho e trimestral para decisões estruturais.
 
 ---
 
-## Apêndice A — Inventário de palavras-chave e decisão
+## Apêndice A - Inventário de palavras-chave e decisão
 
 > Volumes reais do Ubersuggest quando disponíveis (Rastreio de Ranking e cobertura do AnswerThePublic); demais "a validar". Justificativas seguem os textos-padrão do modelo G5.
 
@@ -371,7 +371,7 @@ Revisão mensal para desempenho e trimestral para decisões estruturais.
 | segurança residencial / monitoramento residencial | Site | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | segurança eletrônica | Ubersuggest (recomendação) | a validar | Alta aderência ao portfólio; termo institucional recomendado para otimização. |
 
-### Priorizar - conteúdo (long-tail de contratação e decisão — validados no ATP)
+### Priorizar - conteúdo (long-tail de contratação e decisão - validados no ATP)
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
@@ -406,17 +406,17 @@ Revisão mensal para desempenho e trimestral para decisões estruturais.
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
-| segurança do trabalho / EPI | Homônimo | — | Intenção fora do serviço do Intersept ou ambígua demais para atrair leads qualificados. |
-| segurança pública | Homônimo | — | Intenção fora do serviço do Intersept ou ambígua demais para atrair leads qualificados. |
-| segurança cibernética / da informação | Adjacente fora do foco | — | Intenção fora do serviço do Intersept ou ambígua demais para atrair leads qualificados. |
+| segurança do trabalho / EPI | Homônimo | - | Intenção fora do serviço do Intersept ou ambígua demais para atrair leads qualificados. |
+| segurança pública | Homônimo | - | Intenção fora do serviço do Intersept ou ambígua demais para atrair leads qualificados. |
+| segurança cibernética / da informação | Adjacente fora do foco | - | Intenção fora do serviço do Intersept ou ambígua demais para atrair leads qualificados. |
 
 ---
 
-## Apêndice B — Fontes e limitações
+## Apêndice B - Fontes e limitações
 
-- **Ubersuggest — Painel de controle (intersept.com.br, 18/08/2026):** SEO on-page 92, tráfego orgânico ~1,3 mil/mês (-10,8%), 260 palavras-chave orgânicas (-13,6%), 8,4 mil backlinks, valor estimado US$ 970,87, 390 problemas de SEO.
-- **Ubersuggest — Auditoria do site:** 1.041 páginas rastreadas (479 validadas, 486 redirect, 53 quebradas, 23 bloqueadas); 18 bloqueadas de indexação, 16 rasas, 198 links quebrados, 79 títulos longos, 17 curtos, 53 páginas 4XX.
-- **Ubersuggest — Rastreio de Ranking (18/08/2026):** 6 termos, todos "não se posicionam". Volumes/SD usados: segurança para condomínios 720 (SD 26), controle de acesso condomínio 260 (SD 17), portaria remota condomínio 90 (SD 38), controle de acesso empresarial 70 (SD 12), sistema de segurança empresarial 30 (SD 30), monitoramento de condomínio a distância 10 (SD 27).
+- **Ubersuggest - Painel de controle (intersept.com.br, 18/08/2026):** SEO on-page 92, tráfego orgânico ~1,3 mil/mês (-10,8%), 260 palavras-chave orgânicas (-13,6%), 8,4 mil backlinks, valor estimado US$ 970,87, 390 problemas de SEO.
+- **Ubersuggest - Auditoria do site:** 1.041 páginas rastreadas (479 validadas, 486 redirect, 53 quebradas, 23 bloqueadas); 18 bloqueadas de indexação, 16 rasas, 198 links quebrados, 79 títulos longos, 17 curtos, 53 páginas 4XX.
+- **Ubersuggest - Rastreio de Ranking (18/08/2026):** 6 termos, todos "não se posicionam". Volumes/SD usados: segurança para condomínios 720 (SD 26), controle de acesso condomínio 260 (SD 17), portaria remota condomínio 90 (SD 38), controle de acesso empresarial 70 (SD 12), sistema de segurança empresarial 30 (SD 30), monitoramento de condomínio a distância 10 (SD 27).
 - **AnswerThePublic (Cobertura + Ideias de conteúdo):** 50 ideias e clusters (contratar empresa de segurança, estatuto da segurança privada, melhor sistema para empresas, segurança inteligente para condomínios, monitoramento 24h, projeto de segurança 360, portaria remota vale a pena, portaria remota x presencial, segurança para condomínios residenciais). Volumes medidos: estatuto segurança privada 416, segurança patrimonial empresas 352, monitoramento 24 horas 589.
 - **Volumes "a validar":** confirmar no Ubersuggest/Keyword Planner (Brasil) antes da priorização final.
 - **Pesquisa pública** (agosto de 2026): site intersept.com.br e páginas de serviço, para validar negócio, portfólio (monitoramento, portaria remota/autônoma, ronda, atendimento tático, rastreamento veicular, projetos 360°), público (condomínios, empresas, residências, frotas) e cobertura (Curitiba/PR + Foz do Iguaçu, Joinville e Porto Alegre).

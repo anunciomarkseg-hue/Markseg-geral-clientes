@@ -1,15 +1,15 @@
 # ParkSeg Academy
-## Estratégia de Conteúdo — SEO + Blog + Redes Sociais
+## Estratégia de Conteúdo - SEO + Blog + Redes Sociais
 ### Validação de palavras-chave, arquitetura por pilares e plano editorial
 
 | Campo | Informação |
 |---|---|
 | **Empresa analisada** | ParkSeg Academy (Parkseg Treinamentos) |
 | **Mercado** | Capacitação e treinamento para o mercado de segurança eletrônica e TI |
-| **Região prioritária** | Palhoça / Grande Florianópolis – SC (atende todo o Brasil, presencial + EAD) |
+| **Região prioritária** | Palhoça / Grande Florianópolis - SC (atende todo o Brasil, presencial + EAD) |
 | **Data** | Agosto de 2026 |
 
-> Estratégia construída no mesmo modelo do documento de referência (G5 Segurança), adaptada ao negócio de **academia/treinamentos**. **Versão 2 — atualizada com os volumes reais** do Rastreio de Ranking e do relatório de cobertura do AnswerThePublic (Ubersuggest, Brasil). Termos ainda sem volume medido seguem marcados como **"a validar"**.
+> Estratégia construída no mesmo modelo do documento de referência (G5 Segurança), adaptada ao negócio de **academia/treinamentos**. **Versão 2 - atualizada com os volumes reais** do Rastreio de Ranking e do relatório de cobertura do AnswerThePublic (Ubersuggest, Brasil). Termos ainda sem volume medido seguem marcados como **"a validar"**.
 
 ---
 
@@ -17,17 +17,17 @@
 
 O estudo consolidou a auditoria técnica do Ubersuggest, os dados de palavras-chave enviados e pesquisa pública sobre o negócio (site, LinkedIn, imprensa do setor e a parceria com a Hikvision). A conclusão central é que o **ParkSeg não compete como empresa de serviços de segurança, e sim como escola técnica**: o público-alvo são **integradores, revendas, instaladores autônomos e iniciantes** que buscam **cursos, certificações e evolução de carreira** em CFTV, alarmes, controle de acesso, redes, portaria remota, fibra óptica e energia solar. Portanto, a demanda a capturar é a de **"curso de…", "como instalar…", "certificação Hikvision", "como ser instalador…"**, não a de "empresa de monitoramento".
 
-A principal decisão estratégica é a mesma do modelo G5: **não transformar cada variação de palavra-chave em uma página separada**. Termos como "curso de cftv", "curso de cftv online" e "curso instalação de câmeras" compartilham intenção e devem ser consolidados em **páginas pilares fortes** (uma por linha de curso), apoiadas por **artigos long-tail** que respondem dúvidas específicas e conduzem à matrícula. O grande diferencial competitivo a explorar em conteúdo é a **parceria oficial Hikvision e as certificações HCSA/HCSP** — praticamente nenhum concorrente pequeno tem isso.
+A principal decisão estratégica é a mesma do modelo G5: **não transformar cada variação de palavra-chave em uma página separada**. Termos como "curso de cftv", "curso de cftv online" e "curso instalação de câmeras" compartilham intenção e devem ser consolidados em **páginas pilares fortes** (uma por linha de curso), apoiadas por **artigos long-tail** que respondem dúvidas específicas e conduzem à matrícula. O grande diferencial competitivo a explorar em conteúdo é a **parceria oficial Hikvision e as certificações HCSA/HCSP** - praticamente nenhum concorrente pequeno tem isso.
 
 Antes (ou em paralelo) à produção de conteúdo, o site exige **saneamento técnico**: hoje ele tem presença orgânica quase nula e vários bloqueios que impedem o Google de indexar páginas de curso. Sem corrigir a base, o conteúdo novo rende muito menos.
 
-### Diagnóstico atual (métricas — auditoria Ubersuggest)
+### Diagnóstico atual (métricas - auditoria Ubersuggest)
 
 | Indicador | Valor | Leitura |
 |---|---|---|
 | SEO on-page | 61/100 | Base técnica fraca, exige saneamento |
 | Tráfego orgânico | 130/mês | Visibilidade muito baixa |
-| Variação | — | Sem histórico no arquivo |
+| Variação | - | Sem histórico no arquivo |
 | Keywords orgânicas | 5 | Praticamente sem presença orgânica |
 | Backlinks | 48 | Autoridade inicial baixa |
 | Páginas rastreadas | 57 | 37 validadas · 2 redirect · 5 quebradas · 13 bloqueadas |
@@ -36,7 +36,7 @@ Antes (ou em paralelo) à produção de conteúdo, o site exige **saneamento té
 ### Conclusão da validação
 - **Fazem sentido como prioridade:** termos de curso/certificação ligados ao catálogo real (CFTV, alarme, controle de acesso, portaria remota, Mikrotik, fibra óptica, energia solar, Hikvision) e dúvidas técnicas/de carreira do público instalador.
 - **Fazem sentido como apoio:** temas de gestão/comercial para integradores e conteúdos de profissão/mercado, que atraem o público no topo do funil.
-- **A validar (decisão de portfólio):** `curso segurança da informação` (2.400, o maior volume medido) — é TI/cibersegurança; só entra como prioridade se o ParkSeg oferecer a linha de TI/infosec. Há indício de ponte no ATP ("profissional de TI pode trabalhar com segurança eletrônica").
+- **A validar (decisão de portfólio):** `curso segurança da informação` (2.400, o maior volume medido) - é TI/cibersegurança; só entra como prioridade se o ParkSeg oferecer a linha de TI/infosec. Há indício de ponte no ATP ("profissional de TI pode trabalhar com segurança eletrônica").
 - **Não fazem sentido:** termos de "serviço de segurança" (empresa de monitoramento, portaria remota para condomínio contratar), homônimos (segurança do trabalho, EPI) e marcas de terceiros de nome parecido (passeg, piraseg, primeseg).
 
 ---
@@ -73,35 +73,35 @@ A pesquisa pública confirma o posicionamento. O ParkSeg se apresenta como **cen
 
 A auditoria apontou **155 problemas**. Sem saná-los, o conteúdo novo não indexa bem. Ordem sugerida:
 
-### Prioridade 1 — Impacto ALTO (bloqueiam resultado)
+### Prioridade 1 - Impacto ALTO (bloqueiam resultado)
 - **13 páginas impedidas de indexar:** revisar `robots.txt`/meta `noindex`. Confirmar que **nenhuma página de curso** está bloqueada por engano.
-- **31 páginas com pouco conteúdo:** cada página de curso precisa de texto real — o que se aprende, ementa/módulos, carga horária, público, pré-requisitos, certificado, FAQ. Meta ideal: 300–800 palavras por curso.
+- **31 páginas com pouco conteúdo:** cada página de curso precisa de texto real - o que se aprende, ementa/módulos, carga horária, público, pré-requisitos, certificado, FAQ. Meta ideal: 300-800 palavras por curso.
 - **11 meta descrições duplicadas:** escrever uma meta única por página.
 - **Sitemap.xml ausente:** gerar e enviar ao **Google Search Console**.
 - **SSL sinalizado como inválido/prestes a expirar:** **verificar com urgência** a validade e a cadeia do certificado.
 
-### Prioridade 2 — Impacto MÉDIO (higiene)
+### Prioridade 2 - Impacto MÉDIO (higiene)
 - **35 links quebrados** e **5 páginas com erro 4XX:** corrigir ou redirecionar (301).
 - **20 páginas sem H1:** garantir 1 H1 por página, com a palavra-chave principal.
-- **15 títulos muito curtos / 3 muito longos:** padronizar `<title>` (≈ 50–60 caracteres).
-- **11 páginas sem meta descrição / 9 com múltiplas:** uma meta por página (≈ 150–160 caracteres).
+- **15 títulos muito curtos / 3 muito longos:** padronizar `<title>` (≈ 50-60 caracteres).
+- **11 páginas sem meta descrição / 9 com múltiplas:** uma meta por página (≈ 150-160 caracteres).
 - **2 URLs mal formatadas:** URLs curtas, com hífen e sem acentos/caracteres estranhos (ex.: `/curso-fibra-optica-seguranca-eletronica`).
 
-### Prioridade 3 — Infra
+### Prioridade 3 - Infra
 - Habilitar compressão (gzip/brotli), declarar doctype/charset, revisar redirecionamentos temporários (usar 301 quando definitivo).
 
 ---
 
 ## 5. Mapa de palavras-chave: o que usar e o que descartar
 
-> Distribuição por decisão (inventário completo, com volumes reais e "a validar", no Apêndice A). Volumes reais entre parênteses (Ubersuggest — Brasil).
+> Distribuição por decisão (inventário completo, com volumes reais e "a validar", no Apêndice A). Volumes reais entre parênteses (Ubersuggest - Brasil).
 
 - **Priorizar - página/cluster:** núcleo de termos "curso de + [tema técnico]" e "certificação Hikvision".
 - **Priorizar - conteúdo:** dúvidas técnicas e de carreira ("como instalar…", "como ser instalador…", "quanto ganha…").
 - **Usar - marca:** parkseg, parkseg academy, parkseg treinamentos.
 - **Usar como apoio:** gestão/comercial para integradores.
-- **Usar somente se comercializado:** modelos/equipamentos específicos (AX PRO, DeepinMind, Mikrotik hAP) — só como conteúdo quando o curso cobre o produto.
-- **Validar aderência ao portfólio:** `curso segurança da informação` (2.400) — maior volume medido, mas é **TI/cibersegurança**; só priorizar se o ParkSeg realmente oferece a linha de TI/infosec (o próprio ATP mostra o cruzamento "profissional de TI pode trabalhar com segurança eletrônica").
+- **Usar somente se comercializado:** modelos/equipamentos específicos (AX PRO, DeepinMind, Mikrotik hAP) - só como conteúdo quando o curso cobre o produto.
+- **Validar aderência ao portfólio:** `curso segurança da informação` (2.400) - maior volume medido, mas é **TI/cibersegurança**; só priorizar se o ParkSeg realmente oferece a linha de TI/infosec (o próprio ATP mostra o cruzamento "profissional de TI pode trabalhar com segurança eletrônica").
 - **Não priorizar:** termos genéricos de "câmera/alarme" com intenção de compra de varejo.
 - **Não usar:** serviço de segurança/monitoramento, segurança do trabalho/EPI, marcas de terceiros (passeg, piraseg, primeseg).
 
@@ -111,7 +111,7 @@ Termos centrais de curso/certificação, com intenção de matrícula ou capacid
 | Palavra/tema | Volume | Decisão prática |
 |---|---|---|
 | curso técnico em segurança | 260 | Prioridade máxima |
-| cursos segurança eletrônica | 260–275 | Prioridade máxima |
+| cursos segurança eletrônica | 260-275 | Prioridade máxima |
 | curso de cftv / curso cftv online | 140 | Prioridade máxima |
 | curso de controle de acesso | 70 | Prioridade máxima |
 | curso de automação predial | 40 | Prioridade máxima |
@@ -214,7 +214,7 @@ Cada pilar deve possuir uma página central (a página do curso + um guia pilar)
 ### Pilar 5. Certificações Hikvision (HCSA / HCSP)
 **Palavras-chave do pilar:** certificação hikvision, hcsa hikvision, hcsp hikvision, treinamento hikvision, como tirar certificação hikvision, certificação em segurança eletrônica.
 
-**Por que este pilar foi escolhido:** é o **diferencial exclusivo** do ParkSeg — parceria oficial e centro de certificação. Praticamente nenhum concorrente pequeno oferece isso; conteúdo aqui gera autoridade e leads qualificados.
+**Por que este pilar foi escolhido:** é o **diferencial exclusivo** do ParkSeg - parceria oficial e centro de certificação. Praticamente nenhum concorrente pequeno oferece isso; conteúdo aqui gera autoridade e leads qualificados.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
@@ -310,9 +310,9 @@ As redes não copiam o artigo: recortam a ideia em formatos de descoberta, prova
 | Formato | Função | Canais |
 |---|---|---|
 | Carrossel educativo | 5 a 8 telas com erro comum, passo a passo e checklist técnico. | Instagram e LinkedIn |
-| Reel curto | Gancho ("todo instalador erra nisso"), demonstração em 30–60s e CTA para o curso. | Instagram, Facebook e Shorts |
+| Reel curto | Gancho ("todo instalador erra nisso"), demonstração em 30-60s e CTA para o curso. | Instagram, Facebook e Shorts |
 | Post de comparação | Tabela visual: IP x analógica, com fio x sem fio, EAD x presencial, HCSA x HCSP. | Instagram e LinkedIn |
-| Bastidores das aulas | Laboratório, práticas, turmas e estrutura da sede — mostra a experiência real. | Stories e Reels |
+| Bastidores das aulas | Laboratório, práticas, turmas e estrutura da sede - mostra a experiência real. | Stories e Reels |
 | Depoimento de aluno | Antes/depois de carreira e faturamento, com autorização. | LinkedIn, Instagram e site |
 | FAQ | Resposta direta a uma dúvida pesquisada (ex.: "preciso saber de redes?"). | Stories, Reels e carrossel |
 | Conteúdo local / agenda | Próximas turmas presenciais em SC e certificações Hikvision agendadas. | Instagram, Facebook e Google Business Profile |
@@ -326,7 +326,7 @@ As redes não copiam o artigo: recortam a ideia em formatos de descoberta, prova
 
 > Cobrindo **todas as linhas de curso**, começando pelo carro-chefe (CFTV) e pelo diferencial (Certificação Hikvision).
 
-### Mês 1 — Carro-chefe e diferencial (CFTV + Certificação)
+### Mês 1 - Carro-chefe e diferencial (CFTV + Certificação)
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 1 | Curso de CFTV: guia completo para virar instalador | curso de cftv | Carrossel: 7 erros de quem instala CFTV; Reel: do conector ao DVR |
@@ -334,7 +334,7 @@ As redes não copiam o artigo: recortam a ideia em formatos de descoberta, prova
 | Semana 3 | Curso de alarme: instalar e configurar sistemas monitorados | curso de alarme | Comparativo alarme com fio x sem fio |
 | Semana 4 | Como precificar um projeto de CFTV sem perder dinheiro | como precificar cftv | Carrossel de precificação; Stories de bastidores |
 
-### Mês 2 — Portaria, redes e carreira
+### Mês 2 - Portaria, redes e carreira
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 5 | Curso de portaria remota: como montar e operar do zero | curso de portaria remota | Reel: como funciona uma portaria remota; carrossel de estrutura |
@@ -342,7 +342,7 @@ As redes não copiam o artigo: recortam a ideia em formatos de descoberta, prova
 | Semana 7 | Como ser instalador de câmeras: guia de carreira | como ser instalador de câmeras | Reel de carreira; depoimento de aluno |
 | Semana 8 | Curso de controle de acesso: biometria, tags e facial | curso de controle de acesso | Comparativo de tecnologias de acesso |
 
-### Mês 3 — Infraestrutura, diversificação e online
+### Mês 3 - Infraestrutura, diversificação e online
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
 | Semana 9 | Fibra óptica para segurança eletrônica: fusão e projeto | curso de fibra óptica | Reel de fusão de fibra; carrossel técnico |
@@ -354,7 +354,7 @@ As redes não copiam o artigo: recortam a ideia em formatos de descoberta, prova
 
 ## 10. Medição e tomada de decisão
 
-- **Cobertura:** quantidade de keywords e URLs indexadas por pilar (e nº de páginas de curso realmente indexadas — meta de recuperar as 13 bloqueadas).
+- **Cobertura:** quantidade de keywords e URLs indexadas por pilar (e nº de páginas de curso realmente indexadas - meta de recuperar as 13 bloqueadas).
 - **Visibilidade:** impressões, posição média e presença no Top 10/Top 20 (Search Console).
 - **Qualidade:** CTR, engajamento, rolagem e cliques nas páginas de curso.
 - **Conversão:** cliques em "matricular/pré-inscrição", WhatsApp, formulários e leads originados do orgânico.
@@ -368,7 +368,7 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. SEO pod
 ## 11. Cuidados e riscos
 
 - Não publicar páginas quase idênticas para cada variação de "curso de cftv"; consolidar em uma página pilar.
-- Não posicionar o ParkSeg como empresa de serviço de segurança (monitoramento/portaria contratada) — o público e a intenção são de **treinamento**.
+- Não posicionar o ParkSeg como empresa de serviço de segurança (monitoramento/portaria contratada) - o público e a intenção são de **treinamento**.
 - Não criar pautas de cibersegurança/segurança da informação corporativa fora do portfólio só porque aparecem em tendências.
 - Não usar marcas de terceiros de nome parecido (passeg, piraseg, primeseg) como pauta.
 - Ao citar **certificações e marcas (Hikvision)**, respeitar as regras da parceria e evitar promessas de resultado; deixar claro o que a certificação garante e o que não garante.
@@ -378,16 +378,16 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. SEO pod
 
 ---
 
-## Apêndice A — Inventário de palavras-chave e decisão
+## Apêndice A - Inventário de palavras-chave e decisão
 
-> **Volumes reais** (Ubersuggest — Brasil): Rastreio de Ranking (8 termos, com SEO Difficulty) e cobertura do AnswerThePublic. Termos sem medição seguem "a validar". Todos os termos abaixo estão **sem cobertura (0%)** hoje — ou seja, são oportunidades abertas. As justificativas seguem os textos-padrão do modelo G5.
+> **Volumes reais** (Ubersuggest - Brasil): Rastreio de Ranking (8 termos, com SEO Difficulty) e cobertura do AnswerThePublic. Termos sem medição seguem "a validar". Todos os termos abaixo estão **sem cobertura (0%)** hoje - ou seja, são oportunidades abertas. As justificativas seguem os textos-padrão do modelo G5.
 
-### Priorizar - página/cluster (núcleo de cursos) — com volumes reais
+### Priorizar - página/cluster (núcleo de cursos) - com volumes reais
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
 | curso técnico em segurança | Rastreio de Ranking | vol. 260 · SD 29 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| cursos segurança eletrônica | Rastreio + ATP | vol. 260–275 · SD 27 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| cursos segurança eletrônica | Rastreio + ATP | vol. 260-275 · SD 27 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | curso cftv online / curso de cftv | Rastreio de Ranking | vol. 140 · SD 36 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | curso de controle de acesso | Rastreio de Ranking | vol. 70 · SD 25 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | curso de automação predial | Rastreio de Ranking | vol. 40 · SD 26 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
@@ -401,7 +401,7 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. SEO pod
 | curso de energia solar fotovoltaica | Site | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | curso de segurança eletrônica online / curso presencial de segurança eletrônica | ATP | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 
-### Priorizar - conteúdo (long-tail de dúvida, carreira e decisão — validados no ATP)
+### Priorizar - conteúdo (long-tail de dúvida, carreira e decisão - validados no ATP)
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
@@ -436,7 +436,7 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. SEO pod
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
-| curso segurança da informação | Rastreio de Ranking | **vol. 2.400** · SD 34 | Maior volume medido, mas é **TI/cibersegurança**. Só priorizar se o ParkSeg oferece a linha de TI/infosec — o ATP mostra o cruzamento "profissional de TI pode trabalhar com segurança eletrônica", o que abre essa ponte. |
+| curso segurança da informação | Rastreio de Ranking | **vol. 2.400** · SD 34 | Maior volume medido, mas é **TI/cibersegurança**. Só priorizar se o ParkSeg oferece a linha de TI/infosec - o ATP mostra o cruzamento "profissional de TI pode trabalhar com segurança eletrônica", o que abre essa ponte. |
 
 ### Usar somente se comercializado / se o curso cobre o produto
 
@@ -455,8 +455,8 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. SEO pod
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
-| empresa de monitoramento | Serviço | — | Intenção fora do serviço do ParkSeg (treinamento) ou ambígua demais para atrair leads qualificados. |
-| segurança do trabalho / EPI | Homônimo | — | Intenção fora do serviço do ParkSeg (treinamento) ou ambígua demais para atrair leads qualificados. |
+| empresa de monitoramento | Serviço | - | Intenção fora do serviço do ParkSeg (treinamento) ou ambígua demais para atrair leads qualificados. |
+| segurança do trabalho / EPI | Homônimo | - | Intenção fora do serviço do ParkSeg (treinamento) ou ambígua demais para atrair leads qualificados. |
 | passeg | Ubersuggest | vol. 480 | Marca de terceiro de nome parecido; sem conexão com a oferta do ParkSeg. |
 | piraseg | Ubersuggest | vol. 210 | Marca de terceiro de nome parecido; sem conexão com a oferta do ParkSeg. |
 | primeseg segurança eletrônica | Ubersuggest | vol. 170 | Marca de terceiro de nome parecido; sem conexão com a oferta do ParkSeg. |
@@ -464,7 +464,7 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. SEO pod
 
 ---
 
-## Apêndice B — Fontes e limitações
+## Apêndice B - Fontes e limitações
 
 - **Auditoria Ubersuggest (parkseg.com):** exportada em 18/08/2026. SEO on-page 61, tráfego orgânico ~130/mês, 5 palavras-chave orgânicas, 48 backlinks, 57 páginas rastreadas, 155 problemas de SEO.
 - **Rastreio de Ranking (Ubersuggest, 18/08/2026):** 8 termos monitorados, todos "não se posicionam". Volumes/SD reais usados neste documento: curso segurança da informação 2.400 (SD 34), curso técnico em segurança 260 (SD 29), cursos segurança eletrônica 260 (SD 27), curso cftv online 140 (SD 36), curso controle de acesso 70 (SD 25), curso automação predial 40 (SD 26), curso alarme residencial 10 (SD 13), certificação profissional online 10 (SD 33).
