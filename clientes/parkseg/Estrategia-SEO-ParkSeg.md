@@ -9,7 +9,7 @@
 | **Região prioritária** | Palhoça / Grande Florianópolis – SC (atende todo o Brasil, presencial + EAD) |
 | **Data** | Agosto de 2026 |
 
-> Estratégia construída no mesmo modelo do documento de referência (G5 Segurança), adaptada ao negócio de **academia/treinamentos**. Os volumes de busca das palavras-chave estão marcados como **"a validar"** no Ubersuggest/Keyword Planner (Brasil); a arquitetura, os pilares e o plano editorial já estão prontos para execução.
+> Estratégia construída no mesmo modelo do documento de referência (G5 Segurança), adaptada ao negócio de **academia/treinamentos**. **Versão 2 — atualizada com os volumes reais** do Rastreio de Ranking e do relatório de cobertura do AnswerThePublic (Ubersuggest, Brasil). Termos ainda sem volume medido seguem marcados como **"a validar"**.
 
 ---
 
@@ -36,7 +36,8 @@ Antes (ou em paralelo) à produção de conteúdo, o site exige **saneamento té
 ### Conclusão da validação
 - **Fazem sentido como prioridade:** termos de curso/certificação ligados ao catálogo real (CFTV, alarme, controle de acesso, portaria remota, Mikrotik, fibra óptica, energia solar, Hikvision) e dúvidas técnicas/de carreira do público instalador.
 - **Fazem sentido como apoio:** temas de gestão/comercial para integradores e conteúdos de profissão/mercado, que atraem o público no topo do funil.
-- **Não fazem sentido:** termos de "serviço de segurança" (empresa de monitoramento, portaria remota para condomínio contratar), cibersegurança/segurança da informação corporativa (fora do portfólio) e homônimos (segurança do trabalho, EPI) e marcas de terceiros de nome parecido (passeg, piraseg, primeseg).
+- **A validar (decisão de portfólio):** `curso segurança da informação` (2.400, o maior volume medido) — é TI/cibersegurança; só entra como prioridade se o ParkSeg oferecer a linha de TI/infosec. Há indício de ponte no ATP ("profissional de TI pode trabalhar com segurança eletrônica").
+- **Não fazem sentido:** termos de "serviço de segurança" (empresa de monitoramento, portaria remota para condomínio contratar), homônimos (segurança do trabalho, EPI) e marcas de terceiros de nome parecido (passeg, piraseg, primeseg).
 
 ---
 
@@ -93,31 +94,35 @@ A auditoria apontou **155 problemas**. Sem saná-los, o conteúdo novo não inde
 
 ## 5. Mapa de palavras-chave: o que usar e o que descartar
 
-> Distribuição proposta por decisão (inventário completo, com volumes **a validar**, no Apêndice A).
+> Distribuição por decisão (inventário completo, com volumes reais e "a validar", no Apêndice A). Volumes reais entre parênteses (Ubersuggest — Brasil).
 
 - **Priorizar - página/cluster:** núcleo de termos "curso de + [tema técnico]" e "certificação Hikvision".
 - **Priorizar - conteúdo:** dúvidas técnicas e de carreira ("como instalar…", "como ser instalador…", "quanto ganha…").
 - **Usar - marca:** parkseg, parkseg academy, parkseg treinamentos.
 - **Usar como apoio:** gestão/comercial para integradores.
 - **Usar somente se comercializado:** modelos/equipamentos específicos (AX PRO, DeepinMind, Mikrotik hAP) — só como conteúdo quando o curso cobre o produto.
+- **Validar aderência ao portfólio:** `curso segurança da informação` (2.400) — maior volume medido, mas é **TI/cibersegurança**; só priorizar se o ParkSeg realmente oferece a linha de TI/infosec (o próprio ATP mostra o cruzamento "profissional de TI pode trabalhar com segurança eletrônica").
 - **Não priorizar:** termos genéricos de "câmera/alarme" com intenção de compra de varejo.
-- **Não usar:** serviço de segurança/monitoramento, cibersegurança corporativa, segurança do trabalho/EPI, marcas de terceiros (passeg, piraseg, primeseg).
+- **Não usar:** serviço de segurança/monitoramento, segurança do trabalho/EPI, marcas de terceiros (passeg, piraseg, primeseg).
 
 ### Prioridade máxima
 Termos centrais de curso/certificação, com intenção de matrícula ou capacidade de formar um cluster forte.
 
-| Palavra/tema | Decisão prática |
-|---|---|
-| curso de cftv | Prioridade máxima |
-| curso instalação de câmeras de segurança | Prioridade máxima |
-| curso de alarme | Prioridade máxima |
-| curso de controle de acesso | Prioridade máxima |
-| curso de portaria remota | Prioridade máxima |
-| certificação hikvision | Prioridade máxima |
-| curso mikrotik | Prioridade máxima |
-| curso de fibra óptica | Prioridade máxima |
-| curso de segurança eletrônica online | Prioridade máxima |
-| curso de energia solar fotovoltaica | Prioridade máxima |
+| Palavra/tema | Volume | Decisão prática |
+|---|---|---|
+| curso técnico em segurança | 260 | Prioridade máxima |
+| cursos segurança eletrônica | 260–275 | Prioridade máxima |
+| curso de cftv / curso cftv online | 140 | Prioridade máxima |
+| curso de controle de acesso | 70 | Prioridade máxima |
+| curso de automação predial | 40 | Prioridade máxima |
+| certificação hikvision | a validar | Prioridade máxima |
+| curso instalação de câmeras de segurança | a validar | Prioridade máxima |
+| curso de alarme / curso alarme residencial | 10 + cluster | Prioridade máxima |
+| curso de portaria remota | a validar | Prioridade máxima |
+| curso mikrotik / curso de fibra óptica | a validar | Prioridade máxima |
+| curso de segurança eletrônica online | a validar | Prioridade máxima |
+| curso de energia solar fotovoltaica | a validar | Prioridade máxima |
+| curso segurança da informação (validar TI) | 2.400 | Validar aderência |
 
 ### Usar como long-tail e apoio
 Menor volume, mas respondem dúvidas específicas, qualificam o visitante e fortalecem as páginas de curso.
@@ -194,16 +199,17 @@ Cada pilar deve possuir uma página central (a página do curso + um guia pilar)
 | Curso de controle de acesso: biometria, tags e reconhecimento facial | curso de controle de acesso | Pilar técnico que conecta várias tecnologias. |
 | Mikrotik para portaria remota: por que a rede é o coração do projeto | mikrotik para portaria remota | Conecta o pilar de redes; diferencia o profissional. |
 
-### Pilar 4. Redes, Mikrotik e fibra óptica (infraestrutura)
-**Palavras-chave do pilar:** curso mikrotik, curso de redes para segurança eletrônica, curso de fibra óptica, fusão de fibra óptica curso, curso mikrotik para cftv, curso de infraestrutura de redes.
+### Pilar 4. Redes, Mikrotik, fibra óptica e automação predial (infraestrutura)
+**Palavras-chave do pilar:** curso mikrotik, curso de redes para segurança eletrônica, curso de fibra óptica, fusão de fibra óptica curso, curso mikrotik para cftv, curso de infraestrutura de redes, curso de automação predial (vol. 40).
 
-**Por que este pilar foi escolhido:** rede e infraestrutura são a base que separa o instalador amador do profissional. É demanda técnica crescente e apoia todos os outros pilares.
+**Por que este pilar foi escolhido:** rede e infraestrutura são a base que separa o instalador amador do profissional. É demanda técnica crescente e apoia todos os outros pilares. **Automação predial** entrou no cluster por ter volume medido e ser um curso adjacente que amplia o portfólio do integrador.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
 | Curso de Mikrotik para segurança eletrônica: por onde começar | curso mikrotik | Página pilar de infraestrutura. |
 | Fibra óptica para segurança eletrônica: fusão, conectorização e projeto | curso de fibra óptica | Curso existente; tema técnico com pouca concorrência de conteúdo. |
 | Por que todo instalador de CFTV precisa entender de redes | curso de redes para segurança eletrônica | Conteúdo de autoridade que puxa para os cursos técnicos. |
+| Curso de automação predial: o que faz e por que integra com segurança | curso de automação predial | Volume medido (40); amplia serviços do integrador. |
 
 ### Pilar 5. Certificações Hikvision (HCSA / HCSP)
 **Palavras-chave do pilar:** certificação hikvision, hcsa hikvision, hcsp hikvision, treinamento hikvision, como tirar certificação hikvision, certificação em segurança eletrônica.
@@ -248,6 +254,8 @@ Cada pilar deve possuir uma página central (a página do curso + um guia pilar)
 | Como ser instalador de câmeras de segurança: guia de carreira | como ser instalador de câmeras | Página pilar de entrada no mercado. |
 | Quanto ganha um instalador de CFTV no Brasil? | quanto ganha um instalador de cftv | Alto volume; conecta interesse a curso. |
 | O mercado de segurança eletrônica está em alta? Onde estão as oportunidades | mercado de segurança eletrônica | Autoridade e motivação para começar. |
+| Profissional de TI pode trabalhar com segurança eletrônica? | profissional de ti pode trabalhar com segurança eletrônica | Captura o cruzamento TI → segurança eletrônica (público que já domina redes). |
+| Como montar uma empresa de segurança eletrônica do zero | abrir empresa de segurança eletrônica | Cluster de empreendedorismo (intenção "Alto" no ATP); conecta à trilha de gestão. |
 
 ### Pilar 9. EAD e cursos online
 **Palavras-chave do pilar:** curso de segurança eletrônica online, curso de cftv ead, curso segurança eletrônica com certificado, curso online instalador, curso de cftv a distância.
@@ -370,97 +378,98 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. SEO pod
 
 ---
 
-## Apêndice A — Inventário de palavras-chave e decisão (a validar volumes)
+## Apêndice A — Inventário de palavras-chave e decisão
 
-> Os volumes/CPC/dificuldade devem ser confirmados no Ubersuggest/Keyword Planner (Brasil) e preenchidos na coluna "Dados". As decisões e justificativas seguem os textos-padrão do modelo G5.
+> **Volumes reais** (Ubersuggest — Brasil): Rastreio de Ranking (8 termos, com SEO Difficulty) e cobertura do AnswerThePublic. Termos sem medição seguem "a validar". Todos os termos abaixo estão **sem cobertura (0%)** hoje — ou seja, são oportunidades abertas. As justificativas seguem os textos-padrão do modelo G5.
 
-### Priorizar - página/cluster (núcleo de cursos)
+### Priorizar - página/cluster (núcleo de cursos) — com volumes reais
 
-| Palavra-chave | Fonte(s) | Dados (a validar) | Justificativa |
+| Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
-| curso de cftv | Pesquisa de mercado / Ubersuggest | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| curso de cftv online | Pesquisa de mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| curso instalação de câmeras de segurança | Pesquisa de mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| curso cftv hikvision | Site + parceria | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| curso de alarme | Pesquisa de mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| curso instalação de alarme | Pesquisa de mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| curso de controle de acesso | Site | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| curso de portaria remota | Site | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| curso mikrotik | Site | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| curso de fibra óptica | Site | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| curso técnico em segurança | Rastreio de Ranking | vol. 260 · SD 29 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| cursos segurança eletrônica | Rastreio + ATP | vol. 260–275 · SD 27 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| curso cftv online / curso de cftv | Rastreio de Ranking | vol. 140 · SD 36 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| curso de controle de acesso | Rastreio de Ranking | vol. 70 · SD 25 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| curso de automação predial | Rastreio de Ranking | vol. 40 · SD 26 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| curso alarme residencial | Rastreio de Ranking | vol. 10 · SD 13 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| certificação profissional online | Rastreio de Ranking | vol. 10 · SD 33 | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| curso instalação de câmeras de segurança | ATP | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| curso instalador câmeras / curso certificado cftv | ATP | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| treinamento cftv certificado | ATP | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| curso cftv hikvision / certificação hikvision (HCSA/HCSP) | Parceria oficial | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| curso de portaria remota / curso mikrotik / curso de fibra óptica | Site | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | curso de energia solar fotovoltaica | Site | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| curso de segurança eletrônica online | Site (EAD) | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| certificação hikvision | Parceria oficial | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| hcsa hikvision | Parceria oficial | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| hcsp hikvision | Parceria oficial | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| curso de segurança eletrônica online / curso presencial de segurança eletrônica | ATP | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 
-### Priorizar - conteúdo (long-tail de dúvida e carreira)
+### Priorizar - conteúdo (long-tail de dúvida, carreira e decisão — validados no ATP)
 
-| Palavra-chave | Fonte(s) | Dados (a validar) | Justificativa |
+| Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
-| como instalar câmera de segurança | Pesquisa de mercado | a validar | Long-tail com dúvida clara; tende a atrair público em fase de pesquisa e permite conduzir para uma solução comercial (matrícula). |
-| como instalar central de alarme | Pesquisa de mercado | a validar | Long-tail com dúvida clara; tende a atrair público em fase de pesquisa e permite conduzir para uma solução comercial (matrícula). |
-| como ser instalador de câmeras | Pesquisa de mercado | a validar | Long-tail com dúvida clara; tende a atrair público em fase de pesquisa e permite conduzir para uma solução comercial (matrícula). |
-| quanto ganha um instalador de cftv | Pesquisa de mercado | a validar | Long-tail com dúvida clara; tende a atrair público em fase de pesquisa e permite conduzir para uma solução comercial (matrícula). |
-| como montar portaria remota | Pesquisa de mercado | a validar | Long-tail com dúvida clara; tende a atrair público em fase de pesquisa e permite conduzir para uma solução comercial (matrícula). |
-| mikrotik para portaria remota | Site | a validar | Long-tail com dúvida clara; tende a atrair público em fase de pesquisa e permite conduzir para uma solução comercial (matrícula). |
-| como precificar cftv | Pesquisa de mercado | a validar | Long-tail com dúvida clara; tende a atrair público em fase de pesquisa e permite conduzir para uma solução comercial (matrícula). |
-| como montar empresa de segurança eletrônica | Pesquisa de mercado | a validar | Long-tail com dúvida clara; tende a atrair público em fase de pesquisa e permite conduzir para uma solução comercial (matrícula). |
-| como funciona a certificação hikvision hcsa | Parceria | a validar | Long-tail com dúvida clara; tende a atrair público em fase de pesquisa e permite conduzir para uma solução comercial (matrícula). |
-| mercado de segurança eletrônica | Pesquisa de mercado | a validar | Long-tail com dúvida clara; tende a atrair público em fase de pesquisa e permite conduzir para uma solução comercial (matrícula). |
+| como instalar câmera de segurança em casa / como configurar câmera ip passo a passo | ATP | a validar | Long-tail com dúvida clara; atrai público em pesquisa e conduz à matrícula. |
+| como instalar câmera ip / instalação câmera segurança | ATP | a validar | Long-tail com dúvida clara; atrai público em pesquisa e conduz à matrícula. |
+| vale a pena fazer curso de segurança eletrônica | ATP | a validar | Long-tail com dúvida clara; atrai público em pesquisa e conduz à matrícula. |
+| qual o melhor curso de segurança eletrônica no brasil | ATP | a validar | Long-tail com dúvida clara; atrai público em pesquisa e conduz à matrícula. |
+| como ser instalador de câmeras / quanto ganha um técnico de segurança eletrônica | ATP | a validar | Long-tail com dúvida clara; atrai público em pesquisa e conduz à matrícula. |
+| como montar uma empresa de segurança eletrônica / abrir empresa de segurança eletrônica | ATP (intenção Alto) | a validar | Long-tail com dúvida clara; atrai público em pesquisa e conduz à matrícula. |
+| como precificar serviços de instalação de câmeras / precificação serviços segurança | ATP (intenção Alto) | a validar | Long-tail com dúvida clara; atrai público em pesquisa e conduz à matrícula. |
+| curso presencial x online de segurança eletrônica / curso online vs presencial | ATP (intenção Alto) | a validar | Long-tail com dúvida clara; atrai público em pesquisa e conduz à matrícula. |
+| câmera ip vs câmera analógica / qual o melhor sistema de câmeras para comércio | ATP | a validar | Long-tail com dúvida clara; atrai público em pesquisa e conduz à matrícula. |
+| quais certificações são exigidas para trabalhar com segurança eletrônica | ATP | a validar | Long-tail com dúvida clara; atrai público em pesquisa e conduz à matrícula. |
+| profissional de ti pode trabalhar com segurança eletrônica | ATP | a validar | Long-tail com dúvida clara; capta o cruzamento TI → segurança eletrônica. |
 
 ### Usar - marca
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
-| parkseg | Ubersuggest (print) | vol. 140 | Importante para reputação, navegação e defesa da busca de marca; não é pilar de aquisição isolado. |
-| parkseg academy | Ubersuggest (print) | vol. 140 | Importante para reputação, navegação e defesa da busca de marca; não é pilar de aquisição isolado. |
-| parkseg treinamentos | Marca | a validar | Importante para reputação, navegação e defesa da busca de marca; não é pilar de aquisição isolado. |
-| parkseg cursos | Marca | a validar | Importante para reputação, navegação e defesa da busca de marca; não é pilar de aquisição isolado. |
-| parkseg é bom | Reputação | a validar | Importante para reputação, navegação e defesa da busca de marca; não é pilar de aquisição isolado. |
+| parkseg | Ubersuggest | vol. 140 | Importante para reputação, navegação e defesa da busca de marca; não é pilar de aquisição isolado. |
+| parkseg academy | Ubersuggest | vol. 140 | Importante para reputação, navegação e defesa da busca de marca; não é pilar de aquisição isolado. |
+| parkseg treinamentos / parkseg cursos / parkseg é bom | Marca/reputação | a validar | Importante para reputação, navegação e defesa da busca de marca; não é pilar de aquisição isolado. |
 
 ### Usar como apoio (gestão/comercial)
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
-| como vender segurança eletrônica | Pesquisa de mercado | a validar | Relevante quando conectado a uma trilha de gestão/comercial para integradores. |
-| gestão de empresa de segurança eletrônica | Pesquisa de mercado | a validar | Relevante quando conectado a uma trilha de gestão/comercial para integradores. |
-| como fazer orçamento de cftv | Pesquisa de mercado | a validar | Relevante quando conectado a uma trilha de gestão/comercial para integradores. |
+| gestão empresa segurança eletrônica / como administrar empresa cftv | ATP (intenção Alto) | a validar | Relevante quando conectado a uma trilha de gestão/comercial para integradores. |
+| como vender segurança eletrônica / como fazer orçamento de cftv | ATP | a validar | Relevante quando conectado a uma trilha de gestão/comercial para integradores. |
+
+### Validar aderência ao portfólio (TI / infosec)
+
+| Palavra-chave | Fonte(s) | Dados | Justificativa |
+|---|---|---|---|
+| curso segurança da informação | Rastreio de Ranking | **vol. 2.400** · SD 34 | Maior volume medido, mas é **TI/cibersegurança**. Só priorizar se o ParkSeg oferece a linha de TI/infosec — o ATP mostra o cruzamento "profissional de TI pode trabalhar com segurança eletrônica", o que abre essa ponte. |
 
 ### Usar somente se comercializado / se o curso cobre o produto
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
 | alarme ax pro hikvision | Site | a validar | Termo de produto/modelo. Só deve virar conteúdo quando o curso do ParkSeg cobre esse equipamento. |
-| hikvision deepinmind | Marca/produto | a validar | Termo de produto/modelo. Só deve virar conteúdo quando o curso do ParkSeg cobre esse equipamento. |
-| mikrotik hap ac | Marca/produto | a validar | Termo de produto/modelo. Só deve virar conteúdo quando o curso do ParkSeg cobre esse equipamento. |
+| hikvision deepinmind / mikrotik hap ac | Marca/produto | a validar | Termo de produto/modelo. Só deve virar conteúdo quando o curso do ParkSeg cobre esse equipamento. |
 
 ### Não priorizar (genéricos/varejo)
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
-| câmera de segurança | Genérico | a validar | Termo genérico/varejo, concorrencial ou sem conexão direta com a oferta de cursos do ParkSeg. |
-| alarme residencial | Genérico | a validar | Termo genérico/varejo, concorrencial ou sem conexão direta com a oferta de cursos do ParkSeg. |
-| kit cftv | Varejo | a validar | Termo genérico/varejo, concorrencial ou sem conexão direta com a oferta de cursos do ParkSeg. |
+| câmera de segurança / alarme residencial (equipamento) / kit cftv | Genérico/varejo | a validar | Termo genérico/varejo, concorrencial ou sem conexão direta com a oferta de cursos do ParkSeg. |
 
 ### Não usar (fora de intenção / homônimos / terceiros)
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
-| empresa de monitoramento | Serviço | a validar | Intenção fora do serviço do ParkSeg (treinamento) ou ambígua demais para atrair leads qualificados. |
-| segurança do trabalho | Homônimo | a validar | Intenção fora do serviço do ParkSeg (treinamento) ou ambígua demais para atrair leads qualificados. |
-| segurança da informação | Adjacente fora do foco | a validar | Intenção fora do serviço do ParkSeg (treinamento) ou ambígua demais para atrair leads qualificados. |
-| passeg | Ubersuggest (print) | vol. 480 | Marca de terceiro de nome parecido; sem conexão com a oferta do ParkSeg. |
-| piraseg | Ubersuggest (print) | vol. 210 | Marca de terceiro de nome parecido; sem conexão com a oferta do ParkSeg. |
-| primeseg segurança eletrônica | Ubersuggest (print) | vol. 170 | Marca de terceiro de nome parecido; sem conexão com a oferta do ParkSeg. |
-| seg park | Ubersuggest (print) | vol. 140 | Variação/terceiro sem conexão direta com a oferta de cursos do ParkSeg. |
+| empresa de monitoramento | Serviço | — | Intenção fora do serviço do ParkSeg (treinamento) ou ambígua demais para atrair leads qualificados. |
+| segurança do trabalho / EPI | Homônimo | — | Intenção fora do serviço do ParkSeg (treinamento) ou ambígua demais para atrair leads qualificados. |
+| passeg | Ubersuggest | vol. 480 | Marca de terceiro de nome parecido; sem conexão com a oferta do ParkSeg. |
+| piraseg | Ubersuggest | vol. 210 | Marca de terceiro de nome parecido; sem conexão com a oferta do ParkSeg. |
+| primeseg segurança eletrônica | Ubersuggest | vol. 170 | Marca de terceiro de nome parecido; sem conexão com a oferta do ParkSeg. |
+| seg park | Ubersuggest | vol. 140 | Variação/terceiro sem conexão direta com a oferta de cursos do ParkSeg. |
 
 ---
 
 ## Apêndice B — Fontes e limitações
 
 - **Auditoria Ubersuggest (parkseg.com):** exportada em 18/08/2026. SEO on-page 61, tráfego orgânico ~130/mês, 5 palavras-chave orgânicas, 48 backlinks, 57 páginas rastreadas, 155 problemas de SEO.
-- **Ideias de palavras-chave (Ubersuggest, prints):** "buscar por website" retornou majoritariamente marcas de terceiros; "treinamentos segurança" confirmou demanda informacional por cursos/certificações.
+- **Rastreio de Ranking (Ubersuggest, 18/08/2026):** 8 termos monitorados, todos "não se posicionam". Volumes/SD reais usados neste documento: curso segurança da informação 2.400 (SD 34), curso técnico em segurança 260 (SD 29), cursos segurança eletrônica 260 (SD 27), curso cftv online 140 (SD 36), curso controle de acesso 70 (SD 25), curso automação predial 40 (SD 26), curso alarme residencial 10 (SD 13), certificação profissional online 10 (SD 33).
+- **AnswerThePublic (Cobertura + Ideias de conteúdo, 18/08/2026):** 41 URLs indexadas; 1 termo coberto (marca) e ~50 termos "sem cobertura" (oportunidades). Confirmou os clusters: instalação de câmeras, curso/vale a pena, mercado, gestão/precificação, melhor sistema de câmeras, certificações, controle de acesso, montar empresa, técnico/carreira (com cruzamento TI) e presencial x online. "curso segurança eletrônica" com vol. 275.
+- **Ideias de palavras-chave (Ubersuggest, prints anteriores):** "buscar por website" retornou majoritariamente marcas de terceiros (passeg, piraseg, primeseg, seg park).
 - **Volumes de palavras-chave deste documento:** propostos a partir de pesquisa de mercado e do catálogo do ParkSeg; **precisam ser validados** no Ubersuggest/Keyword Planner (Brasil) antes da priorização final.
 - **Pesquisa pública** (agosto de 2026): site parkseg.com e páginas de curso, LinkedIn (Parkseg Treinamentos), Revista Segurança Eletrônica e comunicados da parceria Hikvision, para validar negócio, catálogo e diferenciais.
 - **Observação sobre certificações:** a nomenclatura oficial Hikvision é **HCSA** (Associate) e **HCSP** (Professional); variações "HSCA/HSCP" aparecem na imprensa por erro de digitação.
