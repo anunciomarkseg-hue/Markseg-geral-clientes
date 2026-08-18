@@ -9,17 +9,17 @@
 | **Região prioritária** | Sede em Curitiba/PR + filiais em Foz do Iguaçu/PR, Joinville/SC e Porto Alegre/RS (Sul e Sudeste) |
 | **Data** | Agosto de 2026 |
 
-> Estratégia no mesmo modelo do documento de referência (G5 Segurança). Diferente dos demais clientes, o Intersept é um **player estabelecido e com autoridade** - logo, a estratégia é de **expansão de autoridade temática, defesa do tráfego e limpeza técnica**, não de partida do zero. Volumes reais entre parênteses (Ubersuggest - Brasil); demais "a validar".
+> Estratégia no modelo padrão de estratégia de conteúdo da MarkSeg. O Intersept é um **player estabelecido e com autoridade** - logo, a estratégia é de **expansão de autoridade temática, defesa do tráfego e limpeza técnica**, não de partida do zero. Volumes reais entre parênteses (Ubersuggest - Brasil); demais "a validar".
 
 ---
 
 ## 1. Resumo executivo
 
-O estudo consolidou o Painel de Controle e o Rastreio de Ranking do Ubersuggest, a auditoria técnica, o relatório de cobertura do AnswerThePublic e pesquisa pública sobre o negócio. O Intersept é uma **empresa de serviços de segurança** com portfólio amplo: **monitoramento de alarmes, monitoramento inteligente de câmeras, portaria remota, portaria autônoma, assistência patrimonial, ronda, atendimento tático, rastreamento veicular e projetos integrados de segurança 360°**, atendendo **condomínios, empresas, residências e frotas**. Diferente do G5 e dos demais clientes analisados, o Intersept **já tem autoridade consolidada**: SEO on-page 92, ~1,3 mil visitas orgânicas/mês, 260 palavras-chave orgânicas e **8,4 mil backlinks** - base rara no setor.
+O estudo consolidou o Painel de Controle e o Rastreio de Ranking do Ubersuggest, a auditoria técnica, o relatório de cobertura do AnswerThePublic e pesquisa pública sobre o negócio. O Intersept é uma **empresa de serviços de segurança** com portfólio amplo: **monitoramento de alarmes, monitoramento inteligente de câmeras, portaria remota, portaria autônoma, assistência patrimonial, ronda, atendimento tático, rastreamento veicular e projetos integrados de segurança 360°**, atendendo **condomínios, empresas, residências e frotas**. O Intersept **já tem autoridade consolidada**: SEO on-page 92, ~1,3 mil visitas orgânicas/mês, 260 palavras-chave orgânicas e **8,4 mil backlinks** - base rara no setor.
 
 Isso muda o foco: aqui a prioridade não é construir presença, e sim **(1) defender e recuperar** o tráfego, que caiu 10,8%, **(2) expandir a autoridade temática** para os clusters de maior intenção (portaria remota, segurança para condomínios, monitoramento 24h, segurança empresarial 360) e **(3) sanear a dívida técnica** - o site tem 486 redirecionamentos, 198 links quebrados e 53 páginas com erro, sinais típicos de uma migração/replataforma recente que precisa de limpeza para não desperdiçar a autoridade acumulada.
 
-A decisão estratégica de arquitetura é a mesma do modelo G5: **páginas pilares fortes por serviço** + **artigos long-tail** que respondem às dúvidas de síndicos e gestores e conduzem ao **orçamento**, evitando canibalização. O diferencial a explorar em conteúdo é a **amplitude do portfólio (segurança 360°)** e a **regulação/confiança** (estatuto da segurança privada, empresa regularizada), temas de alta intenção que o AnswerThePublic confirmou.
+A decisão estratégica de arquitetura é: **páginas pilares fortes por serviço** + **artigos long-tail** que respondem às dúvidas de síndicos e gestores e conduzem ao **orçamento**, evitando canibalização. O diferencial a explorar em conteúdo é a **amplitude do portfólio (segurança 360°)** e a **regulação/confiança** (estatuto da segurança privada, empresa regularizada), temas de alta intenção que o AnswerThePublic confirmou.
 
 ### Diagnóstico atual (métricas - Ubersuggest)
 
@@ -349,7 +349,7 @@ Revisão mensal para desempenho e trimestral para decisões estruturais.
 
 ## Apêndice A - Inventário de palavras-chave e decisão
 
-> Volumes reais do Ubersuggest quando disponíveis (Rastreio de Ranking e cobertura do AnswerThePublic); demais "a validar". Justificativas seguem os textos-padrão do modelo G5.
+> Volumes reais do Ubersuggest quando disponíveis (Rastreio de Ranking e cobertura do AnswerThePublic); demais "a validar". Justificativas seguem os textos-padrão da metodologia MarkSeg.
 
 ### Priorizar - página/cluster (com volumes reais)
 

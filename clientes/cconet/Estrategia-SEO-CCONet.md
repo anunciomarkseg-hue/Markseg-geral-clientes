@@ -9,7 +9,7 @@
 | **Região prioritária** | Sede em Pinhais/PR - atuação nacional (+30 municípios) |
 | **Data** | Agosto de 2026 |
 
-> Estratégia construída no mesmo modelo do documento de referência (G5 Segurança), adaptada a um negócio **B2G (governo)**. Os volumes marcados abaixo vêm da Cobertura de Palavras-chave do Ubersuggest (Brasil); os demais estão sinalizados como **"a validar"**.
+> Estratégia construída no modelo padrão de estratégia de conteúdo da MarkSeg, adaptada a um negócio **B2G (governo)**. Os volumes marcados abaixo vêm da Cobertura de Palavras-chave do Ubersuggest (Brasil); os demais estão sinalizados como **"a validar"**.
 
 ---
 
@@ -17,7 +17,7 @@
 
 O estudo consolidou a auditoria e a cobertura de palavras-chave do Ubersuggest, o relatório de cobertura do AnswerThePublic e pesquisa pública sobre o negócio. A CCONet é uma **empresa de software para o setor público**: fornece a **Plataforma CCONet** e módulos como **Muralha Digital** (câmeras, sensores e reconhecimento facial), **Mapa do Crime** (análise criminal geoespacial), **Multiagência**, **App Maria da Penha / botão SOS**, **153 e 199 Cidadão** e **Muralha Escolar**, para **prefeituras, guardas municipais, polícias locais e órgãos de segurança pública**. Portanto, o público não busca "empresa de monitoramento" nem "curso": busca **"software de segurança pública", "sistema de videomonitoramento municipal", "mapa do crime", "tecnologia para guarda municipal", "app de denúncia do cidadão"** - termos de **gestor público** avaliando uma solução.
 
-O ponto mais urgente do diagnóstico é a **queda de 89,8% no tráfego orgânico**: o domínio tem autoridade razoável (≈1,1 mil backlinks) e 46 palavras-chave orgânicas, mas **perdeu visibilidade** e hoje quase não converte busca em visita. Isso torna a estratégia uma operação de **recuperação e reconstrução**, não de partida do zero. A decisão estratégica central é a mesma do modelo G5: **consolidar intenções em páginas pilares fortes** (uma por módulo/tema) e usar **artigos long-tail** para responder as dúvidas do gestor público e conduzi-lo à **solicitação de demonstração**, evitando canibalização entre páginas parecidas.
+O ponto mais urgente do diagnóstico é a **queda de 89,8% no tráfego orgânico**: o domínio tem autoridade razoável (≈1,1 mil backlinks) e 46 palavras-chave orgânicas, mas **perdeu visibilidade** e hoje quase não converte busca em visita. Isso torna a estratégia uma operação de **recuperação e reconstrução**, não de partida do zero. A decisão estratégica central é: **consolidar intenções em páginas pilares fortes** (uma por módulo/tema) e usar **artigos long-tail** para responder as dúvidas do gestor público e conduzi-lo à **solicitação de demonstração**, evitando canibalização entre páginas parecidas.
 
 O diferencial a explorar é a **prova real**: mais de 30 municípios usando a plataforma, com redução de criminalidade - conteúdo de **cases, dados e ROI** tem enorme peso em decisão pública (e ajuda em processos de licitação).
 
@@ -351,7 +351,7 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. Como o 
 
 ## Apêndice A - Inventário de palavras-chave e decisão
 
-> Volumes reais do Ubersuggest quando disponíveis; demais "a validar". Justificativas seguem os textos-padrão do modelo G5.
+> Volumes reais do Ubersuggest quando disponíveis; demais "a validar". Justificativas seguem os textos-padrão da metodologia MarkSeg.
 
 ### Priorizar - página/cluster
 

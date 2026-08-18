@@ -9,7 +9,7 @@
 | **Região prioritária** | Palhoça / Grande Florianópolis - SC (atende todo o Brasil, presencial + EAD) |
 | **Data** | Agosto de 2026 |
 
-> Estratégia construída no mesmo modelo do documento de referência (G5 Segurança), adaptada ao negócio de **academia/treinamentos**. **Versão 2 - atualizada com os volumes reais** do Rastreio de Ranking e do relatório de cobertura do AnswerThePublic (Ubersuggest, Brasil). Termos ainda sem volume medido seguem marcados como **"a validar"**.
+> Estratégia construída no modelo padrão de estratégia de conteúdo da MarkSeg, adaptada ao negócio de **academia/treinamentos**. **Versão 2 - atualizada com os volumes reais** do Rastreio de Ranking e do relatório de cobertura do AnswerThePublic (Ubersuggest, Brasil). Termos ainda sem volume medido seguem marcados como **"a validar"**.
 
 ---
 
@@ -17,7 +17,7 @@
 
 O estudo consolidou a auditoria técnica do Ubersuggest, os dados de palavras-chave enviados e pesquisa pública sobre o negócio (site, LinkedIn, imprensa do setor e a parceria com a Hikvision). A conclusão central é que o **ParkSeg não compete como empresa de serviços de segurança, e sim como escola técnica**: o público-alvo são **integradores, revendas, instaladores autônomos e iniciantes** que buscam **cursos, certificações e evolução de carreira** em CFTV, alarmes, controle de acesso, redes, portaria remota, fibra óptica e energia solar. Portanto, a demanda a capturar é a de **"curso de…", "como instalar…", "certificação Hikvision", "como ser instalador…"**, não a de "empresa de monitoramento".
 
-A principal decisão estratégica é a mesma do modelo G5: **não transformar cada variação de palavra-chave em uma página separada**. Termos como "curso de cftv", "curso de cftv online" e "curso instalação de câmeras" compartilham intenção e devem ser consolidados em **páginas pilares fortes** (uma por linha de curso), apoiadas por **artigos long-tail** que respondem dúvidas específicas e conduzem à matrícula. O grande diferencial competitivo a explorar em conteúdo é a **parceria oficial Hikvision e as certificações HCSA/HCSP** - praticamente nenhum concorrente pequeno tem isso.
+A principal decisão estratégica é: **não transformar cada variação de palavra-chave em uma página separada**. Termos como "curso de cftv", "curso de cftv online" e "curso instalação de câmeras" compartilham intenção e devem ser consolidados em **páginas pilares fortes** (uma por linha de curso), apoiadas por **artigos long-tail** que respondem dúvidas específicas e conduzem à matrícula. O grande diferencial competitivo a explorar em conteúdo é a **parceria oficial Hikvision e as certificações HCSA/HCSP** - praticamente nenhum concorrente pequeno tem isso.
 
 Antes (ou em paralelo) à produção de conteúdo, o site exige **saneamento técnico**: hoje ele tem presença orgânica quase nula e vários bloqueios que impedem o Google de indexar páginas de curso. Sem corrigir a base, o conteúdo novo rende muito menos.
 
@@ -380,7 +380,7 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. SEO pod
 
 ## Apêndice A - Inventário de palavras-chave e decisão
 
-> **Volumes reais** (Ubersuggest - Brasil): Rastreio de Ranking (8 termos, com SEO Difficulty) e cobertura do AnswerThePublic. Termos sem medição seguem "a validar". Todos os termos abaixo estão **sem cobertura (0%)** hoje - ou seja, são oportunidades abertas. As justificativas seguem os textos-padrão do modelo G5.
+> **Volumes reais** (Ubersuggest - Brasil): Rastreio de Ranking (8 termos, com SEO Difficulty) e cobertura do AnswerThePublic. Termos sem medição seguem "a validar". Todos os termos abaixo estão **sem cobertura (0%)** hoje - ou seja, são oportunidades abertas. As justificativas seguem os textos-padrão da metodologia MarkSeg.
 
 ### Priorizar - página/cluster (núcleo de cursos) - com volumes reais
 

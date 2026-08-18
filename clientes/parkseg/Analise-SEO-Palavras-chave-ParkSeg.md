@@ -1,6 +1,6 @@
 # ParkSeg Academy - Análise de Site, SEO e Palavras-chave
 
-> Documento de diagnóstico e pesquisa. Serve de base para montar, na sequência, a **Estratégia de Conteúdo SEO** completa no mesmo modelo do G5 Segurança.
+> Documento de diagnóstico e pesquisa. Serve de base para montar, na sequência, a **Estratégia de Conteúdo SEO** completa no modelo padrão da MarkSeg.
 
 | Campo | Informação |
 |---|---|
@@ -15,7 +15,7 @@
 
 ## 1. O que é o ParkSeg (validação do negócio)
 
-⚠️ **Ponto crítico:** o ParkSeg **NÃO é uma empresa de serviços de segurança** (como o G5). É uma **escola/academia de treinamentos** para profissionais do setor. Isso muda toda a estratégia de palavras-chave: o público não busca "empresa de monitoramento", e sim **"curso de CFTV", "certificação Hikvision", "como instalar alarme"**.
+⚠️ **Ponto crítico:** o ParkSeg **NÃO é uma empresa de serviços de segurança**. É uma **escola/academia de treinamentos** para profissionais do setor. Isso muda toda a estratégia de palavras-chave: o público não busca "empresa de monitoramento", e sim **"curso de CFTV", "certificação Hikvision", "como instalar alarme"**.
 
 **Modelo de negócio:**
 - Centro de treinamento técnico e comercial em segurança eletrônica e TI: **CFTV, alarmes, controle de acesso, redes, software, gestão e soluções integradas**.
@@ -101,7 +101,7 @@ Aqui está a **demanda real**: autocomplete `treinamentos segurança (480)`, com
 
 ## 4. Universo de palavras-chave proposto (por pilares)
 
-> Adaptado ao nicho de **treinamentos**. Os volumes precisam ser **confirmados no Ubersuggest/Keyword Planner** (localização: Brasil) - a lista abaixo é o mapa de intenção a validar. Decisões seguem o mesmo critério do modelo G5 (aderência ao portfólio + intenção + risco de canibalização).
+> Adaptado ao nicho de **treinamentos**. Os volumes precisam ser **confirmados no Ubersuggest/Keyword Planner** (localização: Brasil) - a lista abaixo é o mapa de intenção a validar. Decisões seguem o critério padrão da MarkSeg (aderência ao portfólio + intenção + risco de canibalização).
 
 ### Pilar 1 - CFTV e câmeras (curso)
 `curso de cftv`, `curso de cftv online`, `curso instalação de câmeras de segurança`, `curso de câmeras`, `curso cftv hikvision`, `como instalar câmera de segurança`, `curso de cftv com certificado`, `curso monitoramento cftv`.
@@ -149,24 +149,24 @@ Aqui está a **demanda real**: autocomplete `treinamentos segurança (480)`, com
 
 ## 5. Pilares de conteúdo sugeridos (visão para a estratégia)
 
-O mesmo esqueleto do documento G5, mas com a lógica de **academia**: cada pilar vira uma **página pilar** (guia do tema) + artigos long-tail + distribuição em redes. O caminho do funil muda de "contratar serviço" para **matricular no curso**:
+O mesmo esqueleto do modelo padrão, mas com a lógica de **academia**: cada pilar vira uma **página pilar** (guia do tema) + artigos long-tail + distribuição em redes. O caminho do funil muda de "contratar serviço" para **matricular no curso**:
 
 > dúvida técnica → aprendizado gratuito (conteúdo) → confiança na escola → certificação/carreira → **matrícula no curso**.
 
 1. CFTV e câmeras · 2. Alarmes · 3. Controle de acesso e portaria · 4. Redes/Mikrotik/Fibra · 5. Certificações Hikvision · 6. Energia solar · 7. Gestão e comercial · 8. Profissão/carreira · 9. EAD/online · 10. Marca.
 
-Formatos de rede social ficam iguais ao G5 (carrossel educativo, Reel, comparativo, bastidores - **aqui: bastidores das aulas/laboratório**, caso real = **depoimento de aluno**, FAQ, conteúdo local de SC). O gancho muda: "aprenda a fazer / suba de nível na carreira" em vez de "proteja seu patrimônio".
+Formatos de rede social seguem o padrão (carrossel educativo, Reel, comparativo, bastidores - **aqui: bastidores das aulas/laboratório**, caso real = **depoimento de aluno**, FAQ, conteúdo local de SC). O gancho muda: "aprenda a fazer / suba de nível na carreira" em vez de "proteja seu patrimônio".
 
 ---
 
-## 6. O que falta para fechar a estratégia completa (igual à do G5)
+## 6. O que falta para fechar a estratégia completa
 
-Para eu montar o documento final no mesmo padrão do G5, o ideal é você me passar:
+Para eu montar o documento final no padrão MarkSeg, o ideal é você me passar:
 
 1. ✅ **Já tenho:** negócio, catálogo de cursos, auditoria técnica, leitura dos prints.
-2. ⏳ **Validar volumes** das palavras-chave da seção 4 no Ubersuggest/Keyword Planner (Brasil). Se puder exportar a lista "Ideias de Palavras-chave" com volume/CPC/SD, eu classifico tudo no Apêndice A (como no G5).
+2. ⏳ **Validar volumes** das palavras-chave da seção 4 no Ubersuggest/Keyword Planner (Brasil). Se puder exportar a lista "Ideias de Palavras-chave" com volume/CPC/SD, eu classifico tudo no Apêndice A.
 3. ⏳ **Confirmar o catálogo atual e preços/modalidades** (quais cursos estão ativos, cargas horárias, presencial x EAD).
 4. ⏳ **Redes sociais ativas** do ParkSeg (Instagram/LinkedIn/YouTube) e se há blog no site.
 5. ⏳ **Prioridade comercial:** qual curso/linha o ParkSeg mais quer vender agora (CFTV? Certificação Hikvision? Portaria remota?) - isso define o topo do plano editorial de 90 dias.
 
-Com esses itens, entrego a **Estratégia de Conteúdo SEO completa do ParkSeg** (resumo executivo, metodologia, pilares, arquitetura de blog, redes sociais, plano de 90 dias, medição, riscos e Apêndices A/B) - no mesmo formato do documento do G5, em Markdown e PDF.
+Com esses itens, entrego a **Estratégia de Conteúdo SEO completa do ParkSeg** (resumo executivo, metodologia, pilares, arquitetura de blog, redes sociais, plano de 90 dias, medição, riscos e Apêndices A/B) - no formato padrão da MarkSeg, em Markdown e PDF.
