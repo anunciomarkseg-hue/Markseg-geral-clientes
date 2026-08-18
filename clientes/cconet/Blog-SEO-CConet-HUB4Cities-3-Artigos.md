@@ -446,6 +446,7 @@ Colar no `<head>` de cada página, ajustando os valores. O `FAQPage` deve conter
 ## Checklist de publicação
 
 **Antes de publicar**
+
 - [ ] Definir autor e revisor técnico dos três artigos. Em conteúdo B2G, autoria assinada por alguém da CConet com cargo técnico vale mais que texto anônimo.
 - [ ] Configurar os redirects 301 das páginas antigas da Muralha Digital antes de publicar o artigo 2.
 - [ ] Criar ou revisar as páginas de solução `/solucoes/hub-4-cities`, `/solucoes/hub-4-mobility` e `/solucoes/hub-4-security`. Os artigos apontam para elas.
@@ -454,11 +455,13 @@ Colar no `<head>` de cada página, ajustando os valores. O `FAQPage` deve conter
 - [ ] Confirmar que cada artigo tem um H1 único e que a hierarquia de headings está correta.
 
 **Ordem de publicação sugerida**
+
 1. Artigo 1, a página pilar. Ela precisa existir antes para receber os links dos outros dois.
 2. Artigo 2, junto com os redirects, na semana seguinte.
 3. Artigo 3, duas semanas depois, quando o pilar já tiver alguma indexação.
 
 **Depois de publicar**
+
 - [ ] Enviar as URLs no Search Console e acompanhar a indexação.
 - [ ] Registrar as consultas reais que trouxerem tráfego em 30 e 60 dias.
 - [ ] Ampliar o artigo 3 com base nessas consultas. É o texto com maior potencial de gerar reunião.
