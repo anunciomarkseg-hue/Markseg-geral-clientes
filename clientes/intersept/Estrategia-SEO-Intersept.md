@@ -11,6 +11,17 @@
 
 > Estratégia no modelo padrão de estratégia de conteúdo da MarkSeg. O Intersept é um **player estabelecido e com autoridade** - logo, a estratégia é de **expansão de autoridade temática, defesa do tráfego e limpeza técnica**, não de partida do zero. Volumes reais entre parênteses (Ubersuggest - Brasil); demais "a validar".
 
+### Foco definido pelo cliente (prioridades desta operação)
+
+Esta estratégia prioriza, a pedido do Intersept, os seguintes serviços:
+
+1. **Projeto de segurança para condomínios, empresas e indústrias** - **FOCO PRINCIPAL** (Pilar 1).
+2. **Portaria remota para condomínios** (Pilar 2).
+3. **Totem de segurança** (Pilar 3).
+4. **Conteúdo de segurança eletrônica com foco em geolocalização em Foz do Iguaçu** (Pilar 4).
+
+Os demais pilares (monitoramento 24h, contratação/estatuto, rastreamento veicular, ronda/pronta resposta, residencial e marca) permanecem como **apoio**, sustentando a autoridade do domínio e alimentando os focos principais. Os detalhes de **totem de segurança** e da **abordagem de geolocalização em Foz do Iguaçu** serão refinados conforme o briefing complementar do cliente.
+
 ---
 
 ## 1. Resumo executivo
@@ -34,7 +45,7 @@ A decisão estratégica de arquitetura é: **páginas pilares fortes por serviç
 | Problemas de SEO | 390 | 18 bloqueadas, 16 rasas, **198 links quebrados**, 79 títulos longos |
 
 ### Conclusão da validação
-- **Fazem sentido como prioridade:** termos dos serviços reais (portaria remota/autônoma, monitoramento 24h, segurança para condomínios, controle de acesso, segurança empresarial/patrimonial 360, rastreamento veicular) e dúvidas de contratação (como escolher/contratar empresa de segurança, estatuto da segurança privada).
+- **Fazem sentido como prioridade (focos do cliente):** projeto de segurança para **condomínios, empresas e indústrias** (foco principal), **portaria remota para condomínios**, **totem de segurança** e **segurança eletrônica em Foz do Iguaçu** (geolocalização). Como apoio: monitoramento 24h, segurança para condomínios, controle de acesso, contratação/estatuto e rastreamento veicular.
 - **Fazem sentido como apoio:** temas de tecnologia (IA em câmeras, segurança inteligente) e conteúdos de decisão/comparação (portaria remota x presencial).
 - **Não fazem sentido:** segurança do trabalho/EPI, segurança pública, cibersegurança corporativa e termos de varejo de equipamento avulso.
 
@@ -88,7 +99,7 @@ O site tem base forte (SEO 92), mas carrega **dívida técnica de migração** q
 
 > Volumes reais entre parênteses (Ubersuggest); demais "a validar".
 
-- **Priorizar - página/cluster:** serviços centrais (portaria remota, segurança para condomínios, monitoramento 24h, controle de acesso, segurança patrimonial empresarial, rastreamento veicular).
+- **Priorizar - página/cluster (focos do cliente):** projeto de segurança (condomínios, empresas e indústrias), portaria remota para condomínios, totem de segurança e segurança eletrônica em Foz do Iguaçu; e os serviços centrais de apoio (segurança para condomínios, monitoramento 24h, controle de acesso, rastreamento veicular).
 - **Priorizar - conteúdo:** dúvidas de contratação e comparação (contratar empresa de segurança, portaria remota vale a pena, portaria remota x presencial, estatuto da segurança privada).
 - **Usar - marca:** intersept, intersept portaria, intersept curitiba.
 - **Usar como apoio:** tecnologia/IA (segurança inteligente, câmeras com IA) e projeto de segurança 360.
@@ -108,6 +119,10 @@ Termos centrais de serviço, com intenção comercial ou capacidade de formar cl
 | controle de acesso empresarial | 70 | Prioridade máxima |
 | sistema de segurança empresarial | 30 | Prioridade máxima |
 | portaria remota | a validar | Prioridade máxima |
+| projeto de segurança / projeto de segurança integrada | a validar | Prioridade máxima (foco principal) |
+| segurança para indústrias / galpões | a validar | Prioridade máxima (foco principal) |
+| totem de segurança | a validar | Prioridade máxima (foco) |
+| segurança eletrônica foz do iguaçu | a validar | Prioridade máxima (foco - local) |
 | rastreamento veicular | a validar | Prioridade máxima |
 
 ### Usar como long-tail e apoio (dúvidas de decisão)
@@ -145,10 +160,24 @@ Modelos/produtos só viram conteúdo se fizerem parte do projeto/portfólio.
 
 Cada pilar tem uma página de serviço + guia pilar + apoio e distribuição. O caminho é: **dúvida → educação → confiança → comparação → orçamento**.
 
-### Pilar 1. Portaria remota e autônoma
+### Pilar 1. Projeto de Segurança para Condomínios, Empresas e Indústrias (FOCO PRINCIPAL)
+**Palavras-chave do pilar:** projeto de segurança, projeto de segurança integrada, segurança patrimonial empresas (352), segurança para indústrias, segurança para galpões, sistema de segurança empresarial (30), controle de acesso empresarial (70), planejamento de segurança patrimonial, segurança 360, proteção perimetral industrial.
+
+**Por que este pilar foi escolhido:** é o **foco principal** definido pelo cliente e o serviço de maior ticket. O diferencial "segurança 360°" permite vender um **projeto integrado** (pessoas + tecnologia + processo) para os três segmentos-alvo - **condomínios, empresas e indústrias** -, cada um com dores e riscos próprios (moradores, patrimônio corporativo, perímetro e operação industrial).
+
+| Tema recomendado | Keyword principal | Motivo da escolha |
+|---|---|---|
+| Projeto de segurança 360°: como proteger condomínios, empresas e indústrias | projeto de segurança | Página pilar do foco principal, com desdobramento por segmento. |
+| Segurança patrimonial para empresas: guia do projeto integrado | segurança patrimonial empresas | Recorte B2B corporativo (volume real 352). |
+| Segurança para indústrias e galpões: perímetro, acessos e resposta | segurança para indústrias | Recorte industrial (perímetro, docas, controle de terceiros). |
+| Como montar um projeto de segurança completo para a empresa | como montar um projeto de segurança completo para empresa | Long-tail de alta intenção comercial. |
+| Controle de acesso empresarial: tecnologias e rastreabilidade | controle de acesso empresarial | Tema operacional B2B (volume real 70). |
+| O que é uma estratégia de segurança 360 graus | o que é uma estratégia de segurança 360 graus | Conteúdo institucional que diferencia a marca. |
+
+### Pilar 2. Portaria remota para condomínios
 **Palavras-chave do pilar:** portaria remota, portaria remota condomínio (90), portaria virtual condomínio, o que é portaria remota, portaria autônoma, monitoramento de condomínio a distância (10).
 
-**Por que este pilar foi escolhido:** é o serviço-carro-chefe em condomínios e o cluster de maior riqueza de dúvidas no AnswerThePublic (vale a pena, custo, riscos, remota x presencial). Alta intenção de síndicos.
+**Por que este pilar foi escolhido:** foco definido pelo cliente e serviço-carro-chefe em condomínios. É o cluster de maior riqueza de dúvidas no AnswerThePublic (vale a pena, custo, riscos, remota x presencial). Alta intenção de síndicos.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
@@ -156,12 +185,36 @@ Cada pilar tem uma página de serviço + guia pilar + apoio e distribuição. O 
 | Portaria remota vale a pena? Custo, benefício e riscos | portaria remota vale a pena | Conteúdo de decisão de alta conversão. |
 | Portaria remota x portaria presencial: qual protege melhor e custa menos | portaria remota é mais segura que portaria presencial | Comparativo decisório para síndicos. |
 | Portaria autônoma: como funciona e quando indicar | portaria autônoma | Diferencia o portfólio do Intersept. |
-| Portaria remota em Curitiba: estrutura e critérios de escolha | portaria remota condomínio | SEO local + intenção comercial. |
+| Portaria remota para condomínios: estrutura e critérios de escolha | portaria remota condomínio | Recorte de condomínio + intenção comercial. |
 
-### Pilar 2. Segurança para condomínios (inteligente)
+### Pilar 3. Totem de Segurança
+**Palavras-chave do pilar:** totem de segurança, totem de segurança condomínio, totem de monitoramento, totem SOS, poste de segurança, totem de segurança para empresas (termos a validar no Ubersuggest).
+
+**Por que este pilar foi escolhido:** foco definido pelo cliente. O totem de segurança (com câmera, botão de emergência, sirene e comunicação com a central) é um produto de forte apelo visual e diferenciação, ainda com pouca concorrência de conteúdo - oportunidade de ranquear cedo e educar o mercado. *Detalhes do produto e aplicações serão refinados conforme o briefing complementar do cliente.*
+
+| Tema recomendado | Keyword principal | Motivo da escolha |
+|---|---|---|
+| O que é totem de segurança e como ele protege condomínios e empresas | totem de segurança | Página pilar do produto; educa e gera demanda. |
+| Totem de segurança em condomínios: onde instalar e como funciona | totem de segurança condomínio | Recorte condominial de alta intenção. |
+| Totem de segurança x câmera comum: por que o totem inibe mais | totem de segurança | Comparativo que evidencia o diferencial (presença ostensiva + resposta). |
+| Totem SOS: como o botão de emergência agiliza a pronta resposta | totem sos | Conecta o produto à central 24h e ao atendimento tático. |
+
+### Pilar 4. Segurança eletrônica em Foz do Iguaçu (geolocalização)
+**Palavras-chave do pilar:** segurança eletrônica foz do iguaçu, empresa de segurança em foz do iguaçu, monitoramento foz do iguaçu, portaria remota foz do iguaçu, câmeras de segurança foz do iguaçu (termos locais a validar no Ubersuggest).
+
+**Por que este pilar foi escolhido:** foco definido pelo cliente. Foz do Iguaçu é uma praça de atuação com filial e características próprias (região de fronteira, turismo, comércio), o que favorece **conteúdo geolocalizado** de alta conversão e menor concorrência que os termos nacionais. A estratégia é criar páginas e conteúdos com **sinais locais reais** (bairros, tipos de imóvel, contexto regional), não apenas repetir o nome da cidade. *A abordagem de geolocalização será detalhada conforme o briefing complementar do cliente.*
+
+| Tema recomendado | Keyword principal | Motivo da escolha |
+|---|---|---|
+| Segurança eletrônica em Foz do Iguaçu: soluções para a sua região | segurança eletrônica foz do iguaçu | Página pilar local do foco geolocalizado. |
+| Empresa de segurança em Foz do Iguaçu: como escolher e o que avaliar | empresa de segurança em foz do iguaçu | Intenção comercial local de fundo de funil. |
+| Monitoramento e portaria remota em Foz do Iguaçu | monitoramento foz do iguaçu | Conecta os serviços-foco ao recorte local. |
+| Segurança para comércio e imóveis em regiões de fronteira | segurança eletrônica foz do iguaçu | Contexto regional real (fronteira/turismo/comércio). |
+
+### Pilar 5. Segurança para condomínios (inteligente)
 **Palavras-chave do pilar:** segurança para condomínios (720), controle de acesso condomínio (260), tecnologia segurança condomínio, segurança inteligente condomínio, câmeras com inteligência artificial condomínio.
 
-**Por que este pilar foi escolhido:** maior volume medido do conjunto (720). Une a demanda ampla de síndicos ao diferencial tecnológico (IA) do Intersept.
+**Por que este pilar foi escolhido:** maior volume medido do conjunto (720). Une a demanda ampla de síndicos ao diferencial tecnológico (IA) do Intersept e alimenta os pilares de portaria e totem.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
@@ -170,10 +223,10 @@ Cada pilar tem uma página de serviço + guia pilar + apoio e distribuição. O 
 | Câmeras com inteligência artificial no condomínio: o que muda | câmeras inteligência artificial condomínio | Autoridade tecnológica; diferencia a marca. |
 | Como melhorar a segurança do condomínio sem atrapalhar a rotina | como melhorar a segurança do meu condomínio | Dor prática + experiência do morador. |
 
-### Pilar 3. Monitoramento 24h (alarmes e câmeras inteligentes)
+### Pilar 6. Monitoramento 24h (alarmes e câmeras inteligentes)
 **Palavras-chave do pilar:** monitoramento 24 horas (589), monitoramento de câmeras, monitoramento inteligente, monitoramento de alarmes, central de monitoramento.
 
-**Por que este pilar foi escolhido:** volume real alto (589) e intenção comercial. É o coração operacional do Intersept (central 24h + IA).
+**Por que este pilar foi escolhido:** volume real alto (589) e intenção comercial. É o coração operacional do Intersept (central 24h + IA) e sustenta os projetos e o totem.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
@@ -182,19 +235,7 @@ Cada pilar tem uma página de serviço + guia pilar + apoio e distribuição. O 
 | Monitoramento x vigilância: qual a diferença na prática | qual a diferença entre monitoramento e vigilância | Educativo que quebra objeção. |
 | O que acontece quando um alarme dispara na central | monitoramento de alarmes | Transforma processo invisível em prova de valor. |
 
-### Pilar 4. Segurança empresarial e patrimonial (Projeto 360°)
-**Palavras-chave do pilar:** segurança patrimonial empresas (352), sistema de segurança empresarial (30), controle de acesso empresarial (70), segurança 360, projeto de segurança integrada, planejamento de segurança patrimonial.
-
-**Por que este pilar foi escolhido:** núcleo B2B de maior ticket. O diferencial "segurança 360°" permite vender projeto integrado (pessoas + tecnologia + processo).
-
-| Tema recomendado | Keyword principal | Motivo da escolha |
-|---|---|---|
-| Segurança patrimonial para empresas: guia do projeto 360° | segurança patrimonial empresas | Página pilar comercial B2B. |
-| Como montar um projeto de segurança completo para a empresa | como montar um projeto de segurança completo para empresa | Long-tail de alta intenção. |
-| Controle de acesso empresarial: tecnologias e rastreabilidade | controle de acesso empresarial | Tema operacional B2B. |
-| O que é uma estratégia de segurança 360 graus | o que é uma estratégia de segurança 360 graus | Conteúdo institucional que diferencia a marca. |
-
-### Pilar 5. Como contratar empresa de segurança + Estatuto da segurança privada
+### Pilar 7. Como contratar empresa de segurança + Estatuto da segurança privada
 **Palavras-chave do pilar:** contratar empresa de segurança privada, como escolher empresa de segurança para minha empresa, empresa de segurança regulamentada, estatuto segurança privada (416), o que verificar antes de contratar segurança privada.
 
 **Por que este pilar foi escolhido:** é o cluster de **fundo de funil e confiança**. "Estatuto segurança privada" (416) e os termos de regulação posicionam o Intersept como escolha segura e regularizada - vantagem sobre concorrentes informais.
@@ -206,7 +247,7 @@ Cada pilar tem uma página de serviço + guia pilar + apoio e distribuição. O 
 | Empresa de segurança regularizada: como verificar antes de contratar | como saber se uma empresa de segurança é regularizada | Quebra de objeção; diferencia do informal. |
 | Terceirizar a segurança da empresa: vantagens e cuidados | terceirizar segurança empresa | Conteúdo B2B de decisão. |
 
-### Pilar 6. Rastreamento veicular e proteção de frotas
+### Pilar 8. Rastreamento veicular e proteção de frotas
 **Palavras-chave do pilar:** rastreamento veicular, rastreador veicular, gestão de frotas, proteção de frota, monitoramento de veículos.
 
 **Por que este pilar foi escolhido:** serviço distinto do Intersept, com público próprio (empresas com frota) e demanda constante. Amplia a captação além de condomínios/empresas.
@@ -217,7 +258,7 @@ Cada pilar tem uma página de serviço + guia pilar + apoio e distribuição. O 
 | Rastreador veicular vale a pena? Como funciona e o que avaliar | rastreador veicular vale a pena | Conteúdo de decisão. |
 | Gestão de frotas com telemetria e rastreamento em tempo real | gestão de frotas | Tema B2B operacional. |
 
-### Pilar 7. Ronda, atendimento tático e pronta resposta
+### Pilar 9. Ronda, atendimento tático e pronta resposta
 **Palavras-chave do pilar:** pronta resposta, ronda motorizada, atendimento tático, assistência patrimonial, resposta a ocorrências.
 
 **Por que este pilar foi escolhido:** é a camada humana que complementa a tecnologia e sustenta a proposta "monitorar + responder". Demonstra capacidade operacional real.
@@ -228,7 +269,7 @@ Cada pilar tem uma página de serviço + guia pilar + apoio e distribuição. O 
 | Ronda motorizada x monitoramento eletrônico: como se complementam | ronda motorizada | Comparativo que reforça o projeto integrado. |
 | Assistência patrimonial: a camada de resposta que falta em muitos projetos | assistência patrimonial | Diferencia o portfólio 360°. |
 
-### Pilar 8. Segurança residencial
+### Pilar 10. Segurança residencial
 **Palavras-chave do pilar:** segurança residencial, monitoramento residencial, alarme residencial monitorado, câmeras residenciais.
 
 **Por que este pilar foi escolhido:** público B2C recorrente; aproveita a estrutura de monitoramento para residências de maior valor patrimonial.
@@ -239,16 +280,16 @@ Cada pilar tem uma página de serviço + guia pilar + apoio e distribuição. O 
 | Alarme residencial monitorado: benefícios e pontos de atenção | alarme residencial monitorado | Conecta alto interesse a serviço recorrente. |
 | Como proteger a casa durante viagens e períodos de ausência | monitoramento residencial | Tema sazonal e compartilhável. |
 
-### Pilar 9. Marca e cobertura regional
-**Palavras-chave do pilar:** intersept, intersept curitiba, empresa de segurança curitiba, empresa de segurança em foz do iguaçu / joinville / porto alegre.
+### Pilar 11. Marca e cobertura regional
+**Palavras-chave do pilar:** intersept, intersept curitiba, empresa de segurança curitiba, empresa de segurança em joinville / porto alegre (Foz do Iguaçu tem pilar próprio - Pilar 4).
 
-**Por que este pilar foi escolhido:** protege a marca e captura a intenção local nas quatro praças de atuação, onde a conversão é maior.
+**Por que este pilar foi escolhido:** protege a marca e captura a intenção local nas praças de atuação, onde a conversão é maior.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
 | Intersept: soluções integradas de segurança 360° | intersept | Página institucional aprofundada. |
 | Empresa de segurança em Curitiba: como o Intersept protege a cidade | empresa de segurança curitiba | SEO local na sede. |
-| Cobertura Intersept: Curitiba, Foz do Iguaçu, Joinville e Porto Alegre | empresa de segurança [cidade] | Páginas locais por praça; alta conversão. |
+| Cobertura Intersept: Curitiba, Joinville e Porto Alegre | empresa de segurança [cidade] | Páginas locais por praça; alta conversão. |
 
 ---
 
@@ -294,31 +335,31 @@ As redes recortam a ideia em descoberta, prova, objeção e ação. Cada artigo 
 
 ## 9. Plano editorial inicial de 90 dias
 
-> Começando pela recuperação dos clusters de maior volume e intenção, cobrindo os principais serviços.
+> Começando pelos **4 focos definidos pelo cliente** (projeto para condomínios/empresas/indústrias, portaria remota, totem de segurança e Foz do Iguaçu), com os demais serviços como apoio.
 
-### Mês 1 - Condomínios e portaria (carro-chefe)
+### Mês 1 - Foco principal: projeto de segurança + portaria
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
-| Semana 1 | Segurança para condomínios: guia em camadas | segurança para condomínios | Carrossel: 7 falhas de segurança em condomínios |
-| Semana 2 | Guia completo da portaria remota | portaria remota | Reel: o que acontece na central; comparativo de vantagens |
-| Semana 3 | Portaria remota x presencial: qual protege melhor | portaria remota é mais segura que presencial | Comparativo visual para síndicos |
-| Semana 4 | Controle de acesso para condomínio | controle de acesso condomínio | Carrossel de tecnologias de acesso |
+| Semana 1 | Projeto de segurança 360°: como proteger condomínios, empresas e indústrias | projeto de segurança | Carrossel: as camadas de um projeto 360°; Reel institucional |
+| Semana 2 | Guia completo da portaria remota para condomínios | portaria remota | Reel: o que acontece na central; comparativo de vantagens |
+| Semana 3 | Segurança para indústrias e galpões: perímetro, acessos e resposta | segurança para indústrias | Post de autoridade no LinkedIn |
+| Semana 4 | Portaria remota x presencial: qual protege melhor e custa menos | portaria remota é mais segura que presencial | Comparativo visual para síndicos |
 
-### Mês 2 - Monitoramento e empresa
+### Mês 2 - Foco: totem de segurança + Foz do Iguaçu
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
-| Semana 5 | Monitoramento 24 horas: como funciona | monitoramento 24 horas | Bastidores da central; Reel operacional |
-| Semana 6 | Segurança patrimonial para empresas: projeto 360° | segurança patrimonial empresas | Post de autoridade no LinkedIn |
-| Semana 7 | Monitoramento inteligente de câmeras (IA) | monitoramento de câmeras | Comparativo gravação passiva x análise por IA |
-| Semana 8 | Controle de acesso empresarial | controle de acesso empresarial | Carrossel de rastreabilidade |
+| Semana 5 | O que é totem de segurança e como ele protege condomínios e empresas | totem de segurança | Reel do totem em ação; carrossel de funcionamento |
+| Semana 6 | Totem de segurança em condomínios: onde instalar e como funciona | totem de segurança condomínio | Carrossel + Stories de aplicação |
+| Semana 7 | Segurança eletrônica em Foz do Iguaçu: soluções para a sua região | segurança eletrônica foz do iguaçu | Conteúdo local + Google Business Profile |
+| Semana 8 | Empresa de segurança em Foz do Iguaçu: como escolher e o que avaliar | empresa de segurança em foz do iguaçu | Stories/Reel com recorte local |
 
-### Mês 3 - Confiança, frotas e resposta
+### Mês 3 - Apoio: condomínios, monitoramento e contratação
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
-| Semana 9 | Como contratar uma empresa de segurança confiável | contratar empresa de segurança privada | Carrossel "o que verificar antes de contratar" |
-| Semana 10 | Estatuto da segurança privada: o que o contratante precisa saber | estatuto segurança privada | Card de autoridade; FAQ |
-| Semana 11 | Rastreamento veicular para empresas e frotas | rastreamento veicular | Reel de gestão de frota |
-| Semana 12 | Pronta resposta: o que acontece depois do alarme | pronta resposta | Bastidores do atendimento tático |
+| Semana 9 | Segurança para condomínios: guia em camadas | segurança para condomínios | Carrossel: 7 falhas de segurança em condomínios |
+| Semana 10 | Monitoramento 24 horas: como funciona e por que importa | monitoramento 24 horas | Bastidores da central; Reel operacional |
+| Semana 11 | Como contratar empresa de segurança confiável (e o estatuto) | contratar empresa de segurança privada | Carrossel "o que verificar antes de contratar" |
+| Semana 12 | Controle de acesso empresarial: tecnologias e rastreabilidade | controle de acesso empresarial | Carrossel de rastreabilidade |
 
 ---
 
@@ -350,6 +391,16 @@ Revisão mensal para desempenho e trimestral para decisões estruturais.
 ## Apêndice A - Inventário de palavras-chave e decisão
 
 > Volumes reais do Ubersuggest quando disponíveis (Rastreio de Ranking e cobertura do AnswerThePublic); demais "a validar". Justificativas seguem os textos-padrão da metodologia MarkSeg.
+
+### Focos definidos pelo cliente (prioridade máxima da operação)
+
+| Palavra-chave | Fonte(s) | Dados | Justificativa |
+|---|---|---|---|
+| projeto de segurança / projeto de segurança integrada | Cliente (foco principal) | a validar | Foco principal: projeto integrado para condomínios, empresas e indústrias - maior ticket e diferenciação 360°. |
+| segurança para indústrias / galpões | Cliente (foco principal) | a validar | Foco principal: recorte industrial (perímetro, docas, terceiros) ainda pouco coberto no site. |
+| totem de segurança / totem de segurança condomínio | Cliente (foco) | a validar | Foco do cliente: produto de forte apelo visual e baixa concorrência de conteúdo. |
+| segurança eletrônica foz do iguaçu / empresa de segurança em foz do iguaçu | Cliente (foco - local) | a validar | Foco do cliente: conteúdo geolocalizado na praça de Foz do Iguaçu, alta conversão e menor concorrência. |
+| portaria remota para condomínios | Cliente (foco) | a validar | Foco do cliente: serviço-carro-chefe em condomínios (ver também vol. real de "portaria remota condomínio"). |
 
 ### Priorizar - página/cluster (com volumes reais)
 
