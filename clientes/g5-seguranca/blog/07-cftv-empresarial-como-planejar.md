@@ -7,7 +7,7 @@
 | **Slug** | cftv-empresarial-como-planejar |
 | **Meta descrição** | Saiba como planejar um projeto de CFTV empresarial: objetivos, escolha das câmeras, gravação, análise inteligente e monitoramento 24 horas. Descubra como. |
 | **Palavra-chave foco** | cftv empresarial |
-| **Palavras-chave secundárias** | câmeras de segurança, câmera de segurança empresa, monitoramento por câmeras, sistema de câmeras, câmera IP x analógica, monitoramento de segurança |
+| **Palavras-chave secundárias** | câmeras de segurança, câmera de segurança empresa, monitoramento por câmeras, sistema de câmeras, qualidade de imagem cftv, monitoramento de segurança |
 | **Categoria/editoria** | CFTV e Monitoramento Inteligente |
 | **Tags** | CFTV, câmeras de segurança, monitoramento por câmeras, análise de vídeo, segurança empresarial, projeto de segurança |
 | **Imagem de capa (sugestão)** | Câmera de segurança profissional instalada em pátio industrial, com galpão e área de docas ao fundo |
@@ -38,17 +38,21 @@ Um erro comum é instalar câmeras de visão geral na entrada e esperar que elas
 
 A regra prática: liste as áreas, defina para cada uma qual dessas quatro funções é necessária e só então discuta equipamento.
 
-## Câmera IP ou analógica, e o que realmente muda
+## O que define a qualidade da imagem na prática
 
-A discussão entre tecnologias costuma ocupar mais espaço do que merece, mas alguns pontos são objetivos.
+Projetos costumam ser escolhidos pela resolução declarada no orçamento, e esse é um critério fraco quando isolado. Alguns fatores pesam mais no resultado final.
 
-Sistemas **analógicos modernos** transmitem imagem em alta definição por cabo coaxial e costumam ser a escolha natural quando a empresa já tem infraestrutura coaxial instalada e quer ampliar sem refazer cabeamento. Têm custo por ponto menor e configuração mais simples.
+**Posicionamento.** Altura, ângulo e distância determinam quanto detalhe a câmera captura de fato. Um equipamento instalado alto demais registra o topo da cabeça das pessoas e não serve para identificação. A regra prática é posicionar a câmera de identificação na altura aproximada do rosto, no ponto obrigatório de passagem.
 
-Sistemas **IP** trabalham sobre rede de dados e oferecem resoluções maiores, flexibilidade de posicionamento, integração mais fácil com outros sistemas e acesso a recursos de análise de vídeo embarcada. Em contrapartida, exigem rede bem dimensionada, switches adequados e atenção à segurança da própria rede.
+**Iluminação.** É o fator que mais compromete imagens noturnas. Contraluz em portas de vidro, lâmpadas apontadas para a lente e áreas com sombra forte prejudicam a captura mesmo em equipamentos com recurso infravermelho. Corrigir a luz costuma render mais do que trocar a câmera.
 
-Para a maior parte dos projetos empresariais novos, o caminho IP tende a fazer mais sentido pela capacidade de integração e pelos recursos analíticos. Em ampliações de sistemas existentes, soluções híbridas resolvem bem, aproveitando o que já está instalado.
+**Lente e campo de visão.** Uma lente aberta cobre área maior e entrega menos detalhe por metro. Uma lente fechada detalha bem um ponto específico. Cobrir um pátio inteiro com uma única câmera aberta resulta em imagem que mostra movimento e não identifica ninguém.
 
-O que realmente muda o resultado, independentemente da tecnologia escolhida, são três fatores frequentemente ignorados: posicionamento, iluminação e manutenção. Uma câmera de alta resolução apontada para o contraluz de uma porta de vidro entrega menos informação útil do que uma câmera simples bem posicionada.
+**Taxa de quadros e compressão.** Configurações agressivas de compressão economizam armazenamento e destroem detalhe justamente nas cenas com movimento, que são as que interessam em uma ocorrência.
+
+**Manutenção.** Lente suja, teia de aranha, ajuste perdido por vibração e vegetação que cresceu na frente do campo de visão comprometem sistemas inteiros sem que ninguém perceba, porque o gravador segue funcionando normalmente.
+
+O critério útil na hora de avaliar uma proposta é simples: peça imagens de referência capturadas em condições parecidas com as do seu ambiente, de dia e à noite, no ponto onde a câmera será instalada.
 
 ## Gravação, retenção e infraestrutura
 

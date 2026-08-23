@@ -37,7 +37,7 @@ Textos de blog produzidos a partir do documento **Estratégia de Conteúdo SEO e
 | # | Semana | Artigo | Palavra-chave foco | Pilar |
 |---|---|---|---|---|
 | 09 | 9 | [Segurança para galpões logísticos](09-seguranca-para-galpoes-logisticos.md) | proteção galpão logístico | Indústrias, galpões e logística |
-| 10 | 10 | [Segurança residencial em camadas](10-seguranca-residencial-protecao-em-camadas.md) | segurança residencial | Segurança residencial e alto padrão |
+| 10 | 10 | [Segurança para residências de alto padrão](10-seguranca-para-residencias-de-alto-padrao.md) | segurança para residência de alto padrão | Segurança residencial de alto padrão |
 | 11 | 11 | [LGPD e biometria no controle de acesso](11-lgpd-e-biometria-controle-de-acesso.md) | lgpd biometria | Controle de acesso e tecnologia |
 | 12 | 12 | [Como escolher uma empresa de segurança confiável](12-como-escolher-empresa-de-seguranca-confiavel.md) | empresa de segurança confiável | Marca, reputação e confiança |
 
@@ -47,4 +47,5 @@ Textos de blog produzidos a partir do documento **Estratégia de Conteúdo SEO e
 - **Links internos:** os caminhos `/blog/<slug>` devem ser conferidos após a publicação, conforme a estrutura final de URLs do site.
 - **Revisão técnica e jurídica:** o artigo 11 (LGPD e biometria) e os trechos sobre dados biométricos dos artigos 04 e 06 devem passar por revisão jurídica antes de publicar, conforme recomendado na estratégia.
 - **E-E-A-T:** publicar com autor identificado, data de atualização e, quando aplicável, nota de revisão técnica.
+- **Ajustes solicitados pelo cliente:** o tema "Câmera IP x analógica" foi retirado do pilar de CFTV (a seção correspondente do artigo 07 foi substituída por "O que define a qualidade da imagem na prática"), e o pilar residencial passou a ter um único tema, focado em residências de alto padrão.
 - **Distribuição:** cada artigo rende o pacote de 10 ativos sociais previsto na estratégia (carrossel resumo, carrossel checklist, 2 Reels, post comparativo, post de autoridade no LinkedIn, 3 sequências de Stories e 1 FAQ no Google Business Profile).
