@@ -8,6 +8,18 @@ Conteúdos produzidos a partir do documento **[Estratégia de Conteúdo SEO do I
 - **Volume:** 12 artigos, entre 1.930 e 2.010 palavras cada
 - **Formato:** cada arquivo abre com a tabela do **Pacote de SEO** e traz o texto pronto para publicação
 
+## Documentos compilados (um por mês)
+
+Os textos também estão reunidos em três documentos, um por mês do plano editorial, em `compilados/`. Cada documento traz capa, ficha do cliente, sumário e os quatro artigos do mês, cada um com a tabela do pacote de SEO e o texto completo, separados por quebra de página.
+
+| Mês | Tema | Word | Markdown |
+|---|---|---|---|
+| Mês 1 | Projeto de segurança e portaria remota | [Intersept-Blog-Mes-1.docx](compilados/Intersept-Blog-Mes-1.docx) | [.md](compilados/Intersept-Blog-Mes-1.md) |
+| Mês 2 | Totem de segurança e Foz do Iguaçu | [Intersept-Blog-Mes-2.docx](compilados/Intersept-Blog-Mes-2.docx) | [.md](compilados/Intersept-Blog-Mes-2.md) |
+| Mês 3 | Condomínios, monitoramento e contratação | [Intersept-Blog-Mes-3.docx](compilados/Intersept-Blog-Mes-3.docx) | [.md](compilados/Intersept-Blog-Mes-3.md) |
+
+Os arquivos individuais abaixo continuam sendo a fonte para publicação artigo a artigo. Os compilados são gerados a partir deles, então qualquer ajuste deve ser feito primeiro no arquivo individual.
+
 ## Padrão aplicado em todos os textos
 
 | Item | Regra seguida |
