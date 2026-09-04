@@ -6,6 +6,8 @@ Campanha de relacionamento e serviço para a base ativa de **Monitoramento de Al
 - **Tipo:** e-mail de serviço (não é oferta comercial). Tom de orientação técnica, sem venda.
 - **Arquivo pronto:** [`email-poda-preventiva.html`](email-poda-preventiva.html)
 - **Modelo de importação:** [`modelo-importacao-contatos.csv`](modelo-importacao-contatos.csv)
+
+> **Qual editor usar.** As condições `{% raw %}{% if %}{% endraw %}` só são confiáveis no editor **Codifique o seu próprio**. No editor arrastar e soltar, a Brevo costuma escapar as aspas e a regra deixa de funcionar. Se preferir o arrastar e soltar, use `email-poda-preventiva-SEM-CONDICIONAIS.html` como base e monte as variações com o bloco **Conteúdo dinâmico**, usando os textos de [`textos-blocos-condicionais.md`](textos-blocos-condicionais.md).
 - **Editor recomendado na Brevo:** *Campanhas → E-mail → Criar → Codifique o seu próprio (Paste your code)*
 - **Prévias renderizadas:** [`previews/`](previews/) traz o e-mail já resolvido para três perfis, para aprovação sem precisar entrar na Brevo
   - [condomínio em Curitiba, com Atendimento Tático](previews/preview-condominio-curitiba.html)
