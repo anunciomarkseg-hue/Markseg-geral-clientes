@@ -1,0 +1,5 @@
+EMAIL,NOME,CIDADE,TIPO_IMOVEL,ATENDIMENTO_TATICO
+sindico.exemplo@dominio.com.br,Marcelo,CURITIBA,CONDOMINIO,true
+gestor.exemplo@dominio.com.br,Patricia,FOZ DO IGUACU,EMPRESA,false
+cliente.exemplo@dominio.com.br,Ana,JOINVILLE,RESIDENCIA,true
+contato.exemplo@dominio.com.br,Roberto,PORTO ALEGRE,EMPRESA,true

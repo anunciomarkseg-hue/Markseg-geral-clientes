@@ -5,6 +5,7 @@ Campanha de relacionamento e serviço para a base ativa de **Monitoramento de Al
 - **Objetivo:** reduzir disparos falsos causados por vegetação nos sensores de barreira externos durante a temporada de chuvas e ventos.
 - **Tipo:** e-mail de serviço (não é oferta comercial). Tom de orientação técnica, sem venda.
 - **Arquivo pronto:** [`email-poda-preventiva.html`](email-poda-preventiva.html)
+- **Modelo de importação:** [`modelo-importacao-contatos.csv`](modelo-importacao-contatos.csv)
 - **Editor recomendado na Brevo:** *Campanhas → E-mail → Criar → Codifique o seu próprio (Paste your code)*
 - **Prévias renderizadas:** [`previews/`](previews/) traz o e-mail já resolvido para três perfis, para aprovação sem precisar entrar na Brevo
   - [condomínio em Curitiba, com Atendimento Tático](previews/preview-condominio-curitiba.html)
@@ -77,6 +78,9 @@ Aparece só para quem tem a equipe de resposta em contrato, explicando que cada 
 ---
 
 ## 4. Passo a passo na Brevo
+
+> Versão detalhada, com nomes de menu, modelo de planilha e solução de problemas: **[PASSO-A-PASSO-BREVO.md](PASSO-A-PASSO-BREVO.md)**. O resumo abaixo serve para quem já conhece a plataforma.
+
 
 1. **Criar os atributos** da tabela do item 1.
 2. **Importar ou atualizar os contatos** com `NOME`, `CIDADE`, `TIPO_IMOVEL` e `ATENDIMENTO_TATICO` preenchidos.
