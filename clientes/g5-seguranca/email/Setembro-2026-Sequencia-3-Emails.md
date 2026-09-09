@@ -16,9 +16,21 @@ Três disparos derivados dos temas de blog de setembro (Conecta Muralha, anális
 
 | Data | E-mail | Segmento | Técnica | Artigo de destino |
 |---|---|---|---|---|
-| Terça, 15/09 | 1. Conecta Muralha | Base completa | PAS | Conecta Muralha: como funciona a integração |
-| Terça, 22/09 | 2. Análise inteligente e leitura de placas | B2B | Story-Selling + Before/After | Leitura de placas e análise inteligente de vídeo |
-| Terça, 29/09 | 3. Condomínio na Muralha | Condominial | PASTOR comprimido + urgência real | Meu condomínio pode integrar as câmeras? |
+| Terça, 15/09 | 1. Conecta Muralha | Base completa | PAS | Como escolher uma empresa de segurança confiável |
+| Terça, 22/09 | 2. Análise inteligente e leitura de placas | B2B | Story-Selling + Before/After | CFTV empresarial: como planejar |
+| Terça, 29/09 | 3. Condomínio na Muralha | Condominial | PASTOR comprimido + urgência real | Como melhorar a segurança do condomínio |
+
+## Para onde cada botão aponta
+
+Todos os CTAs levam a textos que já estão prontos e revisados. Nenhum e-mail depende de conteúdo novo para ser disparado.
+
+| E-mail | Artigo de destino | URL |
+|---|---|---|
+| 1 | Como escolher uma empresa de segurança confiável | /blog/como-escolher-empresa-de-seguranca-confiavel |
+| 2 | CFTV empresarial: como planejar câmeras, gravação e monitoramento | /blog/cftv-empresarial-como-planejar |
+| 3 | Como melhorar a segurança do condomínio | /blog/como-melhorar-seguranca-do-condominio |
+
+O tema da Muralha Digital continua sendo o gancho de abertura dos três e-mails, porque é o que diferencia a G5 no momento. O que muda é o destino do clique: em vez de prometer um guia que ainda não existe, cada e-mail entrega a informação da Muralha no próprio corpo e leva o leitor para um conteúdo publicado que responde à pergunta seguinte.
 
 Terça-feira entre 9h e 10h é a janela mais consistente para B2B no setor. O intervalo de sete dias evita fadiga na base e dá tempo de o artigo indexar antes do disparo seguinte.
 
@@ -47,16 +59,18 @@ Integrar não é ligar um cabo. O interessado precisa ser pessoa jurídica ou co
 
 [BLOCO DE PROVA: status da G5 no programa. Preencher com a informação confirmada, por exemplo número de câmeras já integradas ou data do licenciamento. Não publicar sem confirmação documental.]
 
-Escrevemos um guia explicando o programa por inteiro: quem pode participar, o que a Prefeitura passa a ver, o que continua fora do acesso dela e o que muda no tempo de resposta a uma ocorrência.
+Repare no que esses requisitos revelam. Uma empresa que não é credenciada na Polícia Federal, que não tem projeto técnico em ordem e que não consegue aprovar uma análise da Prefeitura simplesmente não integra nada. O programa acabou virando um filtro de qualidade de fornecedor, e vale usar esse critério mesmo que você não pretenda integrar câmera nenhuma.
 
-**[BOTÃO: Ler o guia do Conecta Muralha]**
+Reunimos em um guia os pontos que separam uma empresa de segurança preparada de uma que vende equipamento com mensalidade: central própria ou terceirizada, protocolo de atendimento por escrito, escopo real de manutenção e o que perguntar antes de assinar.
+
+**[BOTÃO: Ver os critérios para avaliar sua empresa de segurança]**
 
 Um abraço,
 [Nome] | [Cargo]
 G5 Segurança Integrada
 [Telefone] | [WhatsApp]
 
-*P.S. A dúvida mais comum que recebemos é se a Prefeitura passa a enxergar o interior do imóvel. Não passa. O guia explica exatamente onde fica esse limite.*
+*P.S. A dúvida mais comum que recebemos é se a Prefeitura passa a enxergar o interior do imóvel. Não passa: a integração mira o espaço público. Se quiser entender como isso se aplica à sua operação, responda este e-mail que eu explico.*
 
 ---
 
@@ -91,9 +105,9 @@ A mesma cena, com a mesma câmera na mesma posição, produz um resultado difere
 
 Não é uma câmera melhor. É a mesma câmera com a decisão saindo de dentro do sistema em vez de sair da memória de quem revisa a gravação depois.
 
-Explicamos no blog o que a tecnologia detecta de fato, o que ainda depende de operador humano e onde ela não funciona bem, porque isso também precisa ser dito.
+Escrevemos um guia de projeto de CFTV empresarial que trata exatamente disso: como definir a função de cada câmera antes de comprar, o que a análise inteligente detecta de fato, quanto tempo de gravação faz sentido guardar e os erros que fazem um sistema inteiro deixar de servir justamente no dia em que ele é necessário.
 
-**[BOTÃO: Entender como funciona a análise inteligente]**
+**[BOTÃO: Ler o guia de CFTV empresarial]**
 
 Um abraço,
 [Nome] | [Cargo]
@@ -133,9 +147,11 @@ A objeção mais comum é a privacidade dos moradores, e ela merece resposta cla
 
 A análise do projeto leva cerca de 45 dias. Um condomínio que aprovar o assunto na assembleia de outubro dificilmente estará integrado antes de novembro, e a adequação técnica que antecede o pedido também consome tempo. Quem começa em setembro entra na fila com folga.
 
-Preparamos um guia com o passo a passo completo, incluindo o que precisa constar na pauta da assembleia.
+Antes do formulário da Prefeitura, porém, vem uma pergunta mais simples: as câmeras do seu condomínio identificam placa e rosto nos acessos? Câmera que não identifica não serve para a integração, e também não serve para o condomínio.
 
-**[BOTÃO: Ver o passo a passo para o condomínio]**
+Reunimos em um guia as falhas de segurança que mais aparecem em condomínios de Curitiba, com a ordem de correção que dá mais resultado por menos investimento. É por aí que a conversa começa.
+
+**[BOTÃO: Ver as falhas mais comuns na segurança de condomínios]**
 
 Se preferir avançar direto, respondemos este e-mail com uma visita técnica agendada. Avaliamos o que o seu condomínio já tem, o que falta e quanto custa a adequação, sem compromisso.
 
@@ -157,5 +173,9 @@ G5 Segurança Integrada
 **Segmentação mínima:** se a base não estiver separada entre B2B e condominial, disparar o E-mail 1 para todos e usar o clique nele para segmentar os dois seguintes. Quem clicou no guia da Muralha é público quente para o E-mail 3.
 
 **Métricas a acompanhar:** taxa de abertura por linha de assunto testada, cliques no botão principal, respostas diretas ao e-mail (o indicador mais forte de intenção neste setor) e visitas ao blog vindas da campanha. Descadastros acima de 0,5% em um disparo indicam problema de segmentação, não de conteúdo.
+
+**Links:** conferir os três destinos antes do disparo e aplicar UTM por e-mail, para separar no analytics o tráfego de cada peça. Os artigos já estão publicados e revisados, então nenhum disparo depende de produção nova.
+
+**Evolução natural:** quando os textos de setembro sobre a Muralha entrarem no ar, os CTAs dos E-mails 1 e 3 podem migrar para eles, que respondem à pergunta de forma mais direta. Enquanto isso, os destinos atuais entregam o que o e-mail promete.
 
 **Aproveitamento:** cada e-mail rende um post de LinkedIn e uma sequência de Stories com o mesmo argumento, e o E-mail 3 funciona como base de mensagem no WhatsApp para administradoras de condomínio.
