@@ -1,0 +1,372 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="pt-BR">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="x-apple-disable-message-reformatting" />
+<meta name="color-scheme" content="light dark" />
+<meta name="supported-color-schemes" content="light dark" />
+<title>Segurança que não dorme, conheça o rastreamento Araçá</title>
+<!--[if mso]>
+<xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml>
+<![endif]-->
+<link href="https://fonts.googleapis.com/css2?family=Sarabun:wght@400;600;700;800&amp;display=swap" rel="stylesheet" />
+<style type="text/css">
+  body, table, td, a { -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; }
+  table, td { mso-table-lspace:0pt; mso-table-rspace:0pt; }
+  img { -ms-interpolation-mode:bicubic; border:0; height:auto; line-height:100%; outline:none; text-decoration:none; display:block; }
+  body { margin:0 !important; padding:0 !important; width:100% !important; background-color:#0E0B0B; }
+  a { text-decoration:none; }
+
+  /* ===== CARROSSEL SWIPE (CSS scroll-snap) =====
+     Funciona: Apple Mail, iOS Mail, Gmail app, Gmail web, Yahoo, webmails modernos.
+     Outlook desktop ignora flex e empilha os cards, o que continua bonito. */
+  .araca-carousel{
+    display:-webkit-box; display:-webkit-flex; display:flex;
+    -webkit-overflow-scrolling:touch;
+    overflow-x:auto; overflow-y:hidden;
+    width:100%; max-width:100%;
+    scroll-snap-type:x mandatory;
+    scroll-behavior:smooth;
+    padding:4px 0 10px 0;
+    margin:0;
+    -ms-overflow-style:none;
+    scrollbar-width:none;
+  }
+  .araca-carousel::-webkit-scrollbar{ display:none; height:0; }
+  .araca-slide{
+    -webkit-flex:0 0 auto; flex:0 0 auto;
+    -webkit-align-self:stretch; align-self:stretch;
+    width:240px;
+    margin-right:14px;
+    scroll-snap-align:center;
+  }
+  .araca-card{ height:100%; }
+  .araca-spacer{ -webkit-flex:0 0 auto; flex:0 0 auto; width:44px; }
+  .araca-slide:last-child{ margin-right:0; }
+
+  /* pulso suave no CTA, ignorado por quem não suporta */
+  @keyframes aracaPulse{
+    0%   { box-shadow:0 0 0 0 rgba(189,20,30,0.45); }
+    70%  { box-shadow:0 0 0 16px rgba(189,20,30,0); }
+    100% { box-shadow:0 0 0 0 rgba(189,20,30,0); }
+  }
+  .araca-cta{ animation:aracaPulse 2.4s ease-out infinite; }
+
+  @media screen and (max-width:620px){
+    .araca-wrap{ width:100% !important; }
+    .araca-pad{ padding-left:22px !important; padding-right:22px !important; }
+    .araca-h1{ font-size:30px !important; line-height:38px !important; }
+    .araca-h2{ font-size:22px !important; line-height:30px !important; }
+    .araca-p{ font-size:16px !important; line-height:27px !important; }
+    .araca-slide{ width:78% !important; }
+    .araca-img{ width:100% !important; height:auto !important; }
+    .araca-stack{ display:block !important; width:100% !important; box-sizing:border-box !important; padding-left:22px !important; padding-right:22px !important; }
+    .araca-btn{ width:100% !important; box-sizing:border-box !important; }
+    .araca-carousel-pad{ width:100% !important; padding-left:22px !important; }
+    .araca-spacer{ width:22px !important; }
+    .araca-hint{ display:block !important; margin-top:2px !important; }
+  }
+</style>
+</head>
+
+<body style="margin:0; padding:0; background-color:#0E0B0B;">
+
+<!-- PREHEADER (texto de prévia na caixa de entrada) -->
+<div style="display:none; font-size:1px; color:#0E0B0B; line-height:1px; max-height:0; max-width:0; opacity:0; overflow:hidden; mso-hide:all;">
+  Bloqueio à distância, localização em tempo real e âncora virtual. O rastreamento Araçá age no tempo em que o furto acontece.
+  &#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;&#847;&zwnj;&nbsp;
+</div>
+
+<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color:#0E0B0B;">
+<tr>
+<td align="center" style="padding:0;">
+
+  <table role="presentation" class="araca-wrap" border="0" cellpadding="0" cellspacing="0" width="600" style="width:600px; max-width:600px; table-layout:fixed; background-color:#FFFFFF;">
+
+    <!-- ============ CABEÇALHO ============ -->
+    <tr>
+      <td align="center" bgcolor="#171212" style="background-color:#171212; padding:26px 20px 22px 20px;">
+        <a href="https://aracaprotecaoveicular.com.br/" target="_blank">
+          <img src="https://aracaprotecaoveicular.com.br/wp-content/uploads/2025/02/araca-protecao-veicular-Branco.png" width="170" alt="Araçá Proteção Veicular" style="width:170px; max-width:170px; height:auto; display:block; margin:0 auto;" />
+        </a>
+      </td>
+    </tr>
+    <tr><td style="font-size:0; line-height:0; height:4px; background-color:#BD141E;">&nbsp;</td></tr>
+
+    <!-- ============ HERO ============ -->
+    <tr>
+      <td align="center" style="padding:0; font-size:0; line-height:0;">
+        <img class="araca-img" src="https://aracaprotecaoveicular.com.br/wp-content/uploads/2025/02/araca-protecao-veicular.jpg" width="600" alt="Motorista tranquilo com o veículo protegido pela Araçá" style="width:600px; max-width:600px; height:auto; display:block;" />
+      </td>
+    </tr>
+
+    <tr>
+      <td class="araca-pad" bgcolor="#171212" align="left" style="background-color:#171212; padding:38px 44px 34px 44px;">
+        <p style="margin:0 0 14px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; letter-spacing:2.4px; text-transform:uppercase; color:#BD141E; font-weight:700;">
+          Rastreamento Veicular Araçá
+        </p>
+        <h1 class="araca-h1" style="margin:0 0 10px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:36px; line-height:44px; color:#FFFFFF; font-weight:800; letter-spacing:-0.4px;">
+          Segurança que não dorme
+        </h1>
+        <p class="araca-h2" style="margin:0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:24px; line-height:32px; color:#C9C2C2; font-weight:400;">
+          Conheça o rastreamento Araçá
+        </p>
+      </td>
+    </tr>
+
+    <!-- ============ TEXTO DE ABERTURA ============ -->
+    <tr>
+      <td class="araca-pad" bgcolor="#FFFFFF" align="left" style="background-color:#FFFFFF; padding:40px 44px 8px 44px;">
+        <p class="araca-p" style="margin:0 0 20px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:17px; line-height:29px; color:#2B2525;">
+          Furto e roubo acontecem em segundos. É exatamente nesse tempo que a tecnologia da Araçá faz diferença.
+        </p>
+        <p class="araca-p" style="margin:0 0 20px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:17px; line-height:29px; color:#2B2525;">
+          Seja carro ou moto, nosso sistema de rastreamento foi criado para agir rápido e devolver o controle para você.
+        </p>
+      </td>
+    </tr>
+
+    <!-- ============ CARROSSEL DE RECURSOS ============ -->
+    <tr>
+      <td bgcolor="#FFFFFF" style="background-color:#FFFFFF; padding:22px 0 0 0;">
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%; table-layout:fixed;">
+          <tr>
+            <td class="araca-pad" align="left" style="padding:0 44px 6px 44px;">
+              <p style="margin:0 0 4px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:11px; line-height:15px; letter-spacing:2.2px; text-transform:uppercase; color:#BD141E; font-weight:700;">
+                Tudo na palma da mão
+              </p>
+              <p style="margin:0 0 18px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:21px; line-height:29px; color:#171212; font-weight:700;">
+                O que você controla pelo app
+                <span class="araca-hint" style="font-size:13px; font-weight:400; color:#8A8080;">&nbsp;&nbsp;arraste para o lado &#8250;</span>
+              </p>
+            </td>
+          </tr>
+
+          <tr>
+            <td class="araca-carousel-pad" style="width:100%; padding:0 0 0 44px;">
+
+              <div class="araca-carousel">
+
+                <!-- SLIDE 1 -->
+                <div class="araca-slide">
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="araca-card" style="width:100%; background-color:#171212; border-radius:16px;">
+                    <tr>
+                      <td align="left" style="padding:26px 24px 26px 24px;">
+                        <!-- TROCAR PELO ÍCONE DO CARROSSEL P1:
+                        <img src="URL_DO_ICONE_BLOQUEIO.png" width="44" alt="" style="width:44px;height:auto;display:block;margin:0 0 16px 0;" /> -->
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin:0 0 16px 0;">
+                          <tr>
+                            <td align="center" valign="middle" width="46" height="46" bgcolor="#BD141E" style="width:46px; height:46px; background-color:#BD141E; border-radius:23px; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:15px; font-weight:800; color:#FFFFFF; text-align:center;">01</td>
+                          </tr>
+                        </table>
+                        <p style="margin:0 0 8px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:18px; line-height:24px; color:#FFFFFF; font-weight:700;">Bloqueio à distância</p>
+                        <p style="margin:0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:15px; line-height:24px; color:#B7ADAD;">Impede que o veículo continue em movimento, direto pelo aplicativo.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!-- SLIDE 2 -->
+                <div class="araca-slide">
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="araca-card" style="width:100%; background-color:#171212; border-radius:16px;">
+                    <tr>
+                      <td align="left" style="padding:26px 24px 26px 24px;">
+                        <!-- TROCAR PELO ÍCONE DO CARROSSEL P1:
+                        <img src="URL_DO_ICONE_LOCALIZACAO.png" width="44" alt="" style="width:44px;height:auto;display:block;margin:0 0 16px 0;" /> -->
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin:0 0 16px 0;">
+                          <tr>
+                            <td align="center" valign="middle" width="46" height="46" bgcolor="#BD141E" style="width:46px; height:46px; background-color:#BD141E; border-radius:23px; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:15px; font-weight:800; color:#FFFFFF; text-align:center;">02</td>
+                          </tr>
+                        </table>
+                        <p style="margin:0 0 8px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:18px; line-height:24px; color:#FFFFFF; font-weight:700;">Localização em tempo real</p>
+                        <p style="margin:0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:15px; line-height:24px; color:#B7ADAD;">Você sabe onde seu veículo está a qualquer momento do dia.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!-- SLIDE 3 -->
+                <div class="araca-slide">
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="araca-card" style="width:100%; background-color:#171212; border-radius:16px;">
+                    <tr>
+                      <td align="left" style="padding:26px 24px 26px 24px;">
+                        <!-- TROCAR PELO ÍCONE DO CARROSSEL P1:
+                        <img src="URL_DO_ICONE_ANCORA.png" width="44" alt="" style="width:44px;height:auto;display:block;margin:0 0 16px 0;" /> -->
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin:0 0 16px 0;">
+                          <tr>
+                            <td align="center" valign="middle" width="46" height="46" bgcolor="#BD141E" style="width:46px; height:46px; background-color:#BD141E; border-radius:23px; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:15px; font-weight:800; color:#FFFFFF; text-align:center;">03</td>
+                          </tr>
+                        </table>
+                        <p style="margin:0 0 8px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:18px; line-height:24px; color:#FFFFFF; font-weight:700;">Âncora virtual</p>
+                        <p style="margin:0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:15px; line-height:24px; color:#B7ADAD;">Define um perímetro seguro e avisa você se o veículo sair dele.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <!-- SLIDE 4 -->
+                <div class="araca-slide">
+                  <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="araca-card" style="width:100%; background-color:#171212; border-radius:16px;">
+                    <tr>
+                      <td align="left" style="padding:26px 24px 26px 24px;">
+                        <!-- TROCAR PELO ÍCONE DO CARROSSEL P1:
+                        <img src="URL_DO_ICONE_PONTO_CONTROLE.png" width="44" alt="" style="width:44px;height:auto;display:block;margin:0 0 16px 0;" /> -->
+                        <table role="presentation" border="0" cellpadding="0" cellspacing="0" style="margin:0 0 16px 0;">
+                          <tr>
+                            <td align="center" valign="middle" width="46" height="46" bgcolor="#BD141E" style="width:46px; height:46px; background-color:#BD141E; border-radius:23px; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:15px; font-weight:800; color:#FFFFFF; text-align:center;">04</td>
+                          </tr>
+                        </table>
+                        <p style="margin:0 0 8px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:18px; line-height:24px; color:#FFFFFF; font-weight:700;">Ponto de controle</p>
+                        <p style="margin:0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:15px; line-height:24px; color:#B7ADAD;">Monitora trajetos e paradas com precisão, do começo ao fim.</p>
+                      </td>
+                    </tr>
+                  </table>
+                </div>
+
+                <div class="araca-spacer">&nbsp;</div>
+
+              </div>
+
+            </td>
+          </tr>
+
+          <!-- indicadores -->
+          <tr>
+            <td align="center" style="padding:10px 44px 0 44px;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                  <td style="font-size:0; line-height:0;"><div style="width:26px; height:4px; background-color:#BD141E; border-radius:2px;"></div></td>
+                  <td style="font-size:0; line-height:0; width:7px;">&nbsp;</td>
+                  <td style="font-size:0; line-height:0;"><div style="width:10px; height:4px; background-color:#E2DCDC; border-radius:2px;"></div></td>
+                  <td style="font-size:0; line-height:0; width:7px;">&nbsp;</td>
+                  <td style="font-size:0; line-height:0;"><div style="width:10px; height:4px; background-color:#E2DCDC; border-radius:2px;"></div></td>
+                  <td style="font-size:0; line-height:0; width:7px;">&nbsp;</td>
+                  <td style="font-size:0; line-height:0;"><div style="width:10px; height:4px; background-color:#E2DCDC; border-radius:2px;"></div></td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- ============ BLOCO APLICATIVO ============ -->
+    <tr>
+      <td bgcolor="#FFFFFF" style="background-color:#FFFFFF; padding:36px 0 34px 0;">
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%;">
+          <tr>
+            <td class="araca-pad" style="padding:0 44px;">
+              <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="width:100%; background-color:#F5F5F5; border-radius:18px;">
+                <tr>
+                  <td class="araca-stack" width="200" valign="middle" align="center" style="width:200px; padding:22px 0 14px 12px;">
+                    <img src="https://aracaprotecaoveicular.com.br/wp-content/uploads/2025/02/Aplicativo-de-Rastreamento-Veicular-min-1.png" width="190" alt="Aplicativo de rastreamento veicular Araçá" style="width:190px; max-width:190px; height:auto; display:block; margin:0 auto;" />
+                  </td>
+                  <td class="araca-stack" valign="middle" align="left" style="padding:8px 26px 26px 12px;">
+                    <p style="margin:0 0 8px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:11px; line-height:15px; letter-spacing:2.2px; text-transform:uppercase; color:#BD141E; font-weight:700;">Aplicativo Araçá</p>
+                    <p style="margin:0 0 10px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:20px; line-height:27px; color:#171212; font-weight:700;">Seu veículo na tela, a qualquer hora</p>
+                    <p style="margin:0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:15px; line-height:25px; color:#4A4242;">Um toque para localizar, outro para bloquear. Simples assim, quando cada segundo conta.</p>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- ============ BLOCO MOTOS ============ -->
+    <tr>
+      <td class="araca-pad" bgcolor="#A11E26" align="left" style="background-color:#A11E26; padding:36px 44px 36px 44px;">
+        <p style="margin:0 0 10px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:11px; line-height:15px; letter-spacing:2.2px; text-transform:uppercase; color:#FFD4D6; font-weight:700;">Atenção especial</p>
+        <p class="araca-h2" style="margin:0 0 14px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:24px; line-height:32px; color:#FFFFFF; font-weight:800;">Motociclistas merecem atenção especial</p>
+        <p class="araca-p" style="margin:0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:17px; line-height:28px; color:#FFE7E8;">
+          Sabemos que a moto é um dos veículos mais visados por furtos. A Araçá pensou nisso ao desenvolver um sistema de rastreamento rápido e confiável.
+        </p>
+      </td>
+    </tr>
+
+    <!-- ============ CTA PRINCIPAL ============ -->
+    <tr>
+      <td class="araca-pad" bgcolor="#FFFFFF" align="center" style="background-color:#FFFFFF; padding:44px 44px 16px 44px;">
+        <p class="araca-p" style="margin:0 0 26px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:17px; line-height:28px; color:#2B2525; text-align:center;">
+          Veja como o rastreamento Araçá funciona por dentro.
+        </p>
+
+        <!--[if mso]>
+        <v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://aracaprotecaoveicular.com.br/solucoes/rastreamento-veicular/" style="height:56px;v-text-anchor:middle;width:360px;" arcsize="50%" stroke="f" fillcolor="#BD141E">
+          <w:anchorlock/>
+          <center style="color:#ffffff;font-family:Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;">Conhecer o rastreamento completo</center>
+        </v:roundrect>
+        <![endif]-->
+        <!--[if !mso]><!-->
+        <a class="araca-cta araca-btn" href="https://aracaprotecaoveicular.com.br/solucoes/rastreamento-veicular/" target="_blank"
+           style="display:inline-block; background-color:#BD141E; color:#FFFFFF; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:16px; line-height:20px; font-weight:700; letter-spacing:0.2px; padding:18px 38px; border-radius:40px; text-decoration:none; text-align:center;">
+          Conhecer o rastreamento completo
+        </a>
+        <!--<![endif]-->
+      </td>
+    </tr>
+
+    <!-- ============ CTA SECUNDÁRIO ============ -->
+    <tr>
+      <td class="araca-pad" bgcolor="#FFFFFF" align="center" style="background-color:#FFFFFF; padding:8px 44px 42px 44px;">
+        <p style="margin:0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:15px; line-height:25px; color:#6B6161; text-align:center;">
+          Já é associado?
+          <!-- TROCAR PELO LINK DA LOJA OU DA ÁREA DO ASSOCIADO -->
+          <a href="https://aracaprotecaoveicular.com.br/solucoes/rastreamento-veicular/" target="_blank" style="color:#BD141E; font-weight:700; text-decoration:underline;">Baixe o app e ative a âncora virtual</a>
+        </p>
+      </td>
+    </tr>
+
+    <!-- ============ FAIXA DE CONTATO ============ -->
+    <tr><td style="font-size:0; line-height:0; height:4px; background-color:#BD141E;">&nbsp;</td></tr>
+    <tr>
+      <td class="araca-pad" bgcolor="#171212" align="center" style="background-color:#171212; padding:34px 44px 12px 44px;">
+        <img src="https://aracaprotecaoveicular.com.br/wp-content/uploads/2025/02/araca-protecao-veicular-Branco.png" width="140" alt="Araçá Proteção Veicular" style="width:140px; max-width:140px; height:auto; display:block; margin:0 auto 18px auto;" />
+        <p style="margin:0 0 6px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:12px; line-height:16px; letter-spacing:2px; text-transform:uppercase; color:#8A8080; font-weight:700;">Atendimento 24 horas</p>
+        <p style="margin:0 0 20px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:26px; line-height:32px; color:#FFFFFF; font-weight:800;">
+          <a href="tel:4000-2207" style="color:#FFFFFF; text-decoration:none;">4000&nbsp;2207</a>
+        </p>
+
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" style="margin:0 auto 22px auto;">
+          <tr>
+            <td style="padding:0 6px;">
+              <a href="https://www.instagram.com/aracaprotecaoveicular/" target="_blank" style="display:inline-block; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:13px; line-height:18px; color:#FFFFFF; font-weight:600; border:1px solid #3A3232; border-radius:30px; padding:9px 20px; text-decoration:none;">Instagram</a>
+            </td>
+            <td style="padding:0 6px;">
+              <a href="https://www.facebook.com/aracaprotecaoveicular" target="_blank" style="display:inline-block; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:13px; line-height:18px; color:#FFFFFF; font-weight:600; border:1px solid #3A3232; border-radius:30px; padding:9px 20px; text-decoration:none;">Facebook</a>
+            </td>
+            <td style="padding:0 6px;">
+              <a href="https://aracaprotecaoveicular.com.br/" target="_blank" style="display:inline-block; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:13px; line-height:18px; color:#FFFFFF; font-weight:600; border:1px solid #3A3232; border-radius:30px; padding:9px 20px; text-decoration:none;">Site</a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+
+    <!-- ============ RODAPÉ LEGAL ============ -->
+    <tr>
+      <td class="araca-pad" bgcolor="#0E0B0B" align="center" style="background-color:#0E0B0B; padding:24px 44px 34px 44px;">
+        <p style="margin:0 0 10px 0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:12px; line-height:20px; color:#6E6565; text-align:center;">
+          Araçá Proteção Veicular &#183; Curitiba, Paraná<br />
+          Você recebeu este e-mail porque tem relacionamento com a Araçá Proteção Veicular.
+        </p>
+        <p style="margin:0; font-family:'Sarabun', Arial, Helvetica, sans-serif; font-size:12px; line-height:20px; color:#6E6565; text-align:center;">
+          <!-- SUBSTITUA PELA TAG DE DESCADASTRO DA SUA FERRAMENTA DE DISPARO -->
+          <a href="{{unsubscribe}}" style="color:#9A9090; text-decoration:underline;">Cancelar inscrição</a>
+          &nbsp;&#183;&nbsp;
+          <a href="https://aracaprotecaoveicular.com.br/" style="color:#9A9090; text-decoration:underline;">Preferências</a>
+        </p>
+      </td>
+    </tr>
+
+  </table>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
