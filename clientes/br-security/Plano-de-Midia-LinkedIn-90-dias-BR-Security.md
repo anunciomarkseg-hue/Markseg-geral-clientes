@@ -10,7 +10,7 @@
 | **Canal deste plano** | LinkedIn |
 | **Ciclo** | 28/09/2026 a 27/12/2026 |
 | **Entregas contratadas** | 4 conteúdos por mês, 12 no ciclo |
-| **Ponto focal de aprovação** | Anderson Magoo |
+| **Ponto focal de aprovação** | BR Security |
 | **Data** | Setembro de 2026 |
 
 ---
@@ -148,7 +148,7 @@ A BR Security é uma marca recente, com página em formação. Ao mesmo tempo, t
 
 | Ativo | Papel |
 |---|---|
-| Perfil do Anderson Magoo | Publica o conteúdo da semana. É de onde sai o alcance e a autoridade |
+| Perfil pessoal do porta-voz da BR Security | Publica o conteúdo da semana. É de onde sai o alcance e a autoridade |
 | Página da BR Security | Reposta no mesmo dia com uma linha de contexto. É o destino institucional de quem chega pelo perfil e a base de qualquer investimento pago |
 | Perfis do time comercial | Compartilham com comentário próprio e usam o conteúdo em prospecção |
 
@@ -159,7 +159,7 @@ Regra do ciclo, para manter a presença sem desgaste:
 | Formato | Quantidade | Observação |
 |---|---|---|
 | Texto assinado pelo perfil pessoal | 12 de 12 | Opinião de mercado, que é o esperado de quem lidera uma fabricante |
-| Vídeo com a figura do Anderson | 4 no ciclo | Semanas 5, 6, 9 e 11 |
+| Vídeo com a figura do porta-voz | 4 no ciclo | Semanas 5, 6, 9 e 11 |
 | Demais vídeos e imagens | Restante | Captação real de equipamento, instalação, teste de disparo e ambiente |
 
 Sugestão de produção: gravar os quatro vídeos em uma única diária, com roteiros aprovados com antecedência. Uma manhã de gravação cobre o trimestre.
@@ -179,7 +179,7 @@ Em 90 dias essa rotina forma um acervo de imagens que abastece o conteúdo do an
 
 ### 5.4 Newsletter
 
-Início no Mês 2, quando já houver oito semanas de conteúdo testado e for possível identificar os temas de melhor desempenho. Periodicidade quinzenal, publicada no perfil do Anderson.
+Início no Mês 2, quando já houver oito semanas de conteúdo testado e for possível identificar os temas de melhor desempenho. Periodicidade quinzenal, publicada no perfil do porta-voz.
 
 Título sugerido: **Segurança Ativa**.
 
@@ -208,9 +208,9 @@ Cada edição consolida e aprofunda os dois melhores conteúdos do período. Nã
 
 | Dia | Horário | Conteúdo | Origem |
 |---|---|---|---|
-| Terça | 08h00 | A entrega da semana | Produção nova da agência |
+| Terça | 08h00 | A entrega da semana | Produção nova, MarkSeg |
 | Quinta | 12h00 | Adaptação para LinkedIn de peça já aprovada no calendário social | Recorte de copy sobre criativo existente |
-| Sexta ou variável | Livre | Comentário do Anderson em post de terceiro, repost com opinião, bastidor de instalação ou de feira | Publicação orgânica, sem produção |
+| Sexta ou variável | Livre | Comentário do porta-voz em post de terceiro, repost com opinião, bastidor de instalação ou de feira | Publicação orgânica, sem produção |
 
 Três toques por semana, sendo um de produção nova. Os horários são ponto de partida baseado em padrão B2B brasileiro e serão revalidados com os dados da própria página na revisão do fim do Mês 1.
 
@@ -336,7 +336,7 @@ Cada resposta ancorada em especificação escrita: névoa branca e seca, atóxic
 
 **Semana 5, 27/10. O que muda quando a decisão sai do projeto isolado e vira política de rede**
 
-*Pilar P4. Vídeo horizontal, até 90 segundos, com o Anderson. Integrador e varejo.*
+*Pilar P4. Vídeo horizontal, até 90 segundos, com o porta-voz. Integrador e varejo.*
 
 **Abertura sugerida:**
 > Vender um equipamento para uma loja e padronizar uma rede inteira são dois negócios diferentes.
@@ -351,7 +351,7 @@ Cada resposta ancorada em especificação escrita: névoa branca e seca, atóxic
 
 **CTA:** convite direto ao integrador que atende rede ou multiunidade.
 
-**Insumo necessário:** autorização por escrito do cliente para citação nominal. Sem autorização, a peça vai ao ar em versão anonimizada, sem logo, sem cidade e sem número exato de equipamentos.
+**Insumo necessário:** autorização por escrito do cliente citado, para menção nominal. Sem autorização, a peça vai ao ar em versão anonimizada, sem logo, sem cidade e sem número exato de equipamentos.
 
 ---
 
@@ -431,7 +431,7 @@ Cada resposta ancorada em especificação escrita: névoa branca e seca, atóxic
 
 **Semana 9, 24/11. Quanto custa um furto na sua operação: modelo de cálculo em cinco linhas**
 
-*Pilar P3. Carrossel em PDF, artigo e vídeo com o Anderson. Varejo e seguro.*
+*Pilar P3. Carrossel em PDF, artigo e vídeo com o porta-voz. Varejo e seguro.*
 
 **Abertura sugerida:**
 > Quase nenhuma operação sabe quanto custa o próprio furto.
@@ -472,7 +472,7 @@ Cada resposta ancorada em especificação escrita: névoa branca e seca, atóxic
 
 **Semana 11, 08/12. Como especificar: NG500, NG1000 ou NG2000**
 
-*Pilar P2. Carrossel em PDF, artigo e vídeo com o Anderson. Integrador.*
+*Pilar P2. Carrossel em PDF, artigo e vídeo com o porta-voz. Integrador.*
 
 **Abertura sugerida:**
 > NG500, NG1000 ou NG2000.
@@ -626,8 +626,8 @@ As metas abaixo assumem uma página em estágio inicial. Elas serão recalibrada
 
 | Momento | Participantes | Pauta |
 |---|---|---|
-| Semanal, sexta | Agência | Desempenho da semana, ajuste de horário e formato |
-| Quinzenal | Agência e Anderson | Aprovação das próximas duas pautas e leitura das conversas abertas |
+| Semanal, sexta | MarkSeg | Desempenho da semana, ajuste de horário e formato |
+| Quinzenal | MarkSeg e BR Security | Aprovação das próximas duas pautas e leitura das conversas abertas |
 | 30/10 | Todos | Revalidação de horário, formato e pilares. Decisão sobre a newsletter |
 | 30/11 | Todos | Decisão sobre a verba de LinkedIn Ads do Mês 3 |
 | 27/12 | Todos | Balanço do ciclo, funil consolidado e calendário do Q1 |
@@ -706,22 +706,23 @@ Imagem e vídeo de produto, ambiente, instalação e disparo sempre em captaçã
 
 | Insumo | Responsável | Quando | Para que serve |
 |---|---|---|---|
-| Manual de identidade visual completo | Monique | Semana 0 | Produção de todos os carrosséis e artes |
-| Acesso administrativo à página do LinkedIn | Monique | Semana 0 | Publicação e leitura de analytics |
-| Acesso ao site para instalar a Insight Tag | Monique | Semana 0 | Remarketing e mensuração de tráfego |
-| Aprovação da assinatura de marca (seção 2.2) | Anderson | Semana 0 | Fecho das peças e dos vídeos |
-| Aprovação das 12 pautas | Anderson | Semana 0 | Início da produção |
-| Rotina de captação em campo (seção 5.3) | Equipe técnica | Semana 1 e contínuo | Acervo de vídeo e imagem real |
-| Exportação da base do RD Station | Anderson | Semana 2 | Público de clientes e público semelhante |
-| Mapa de vendas por cidade e região | Anderson | Semana 2 | Segmentação paga do Mês 3 |
-| Diária de gravação dos 4 vídeos | Anderson e Daniel | Semana 2 | Semanas 5, 6, 9 e 11 |
-| Autorização de citação do caso da Semana 5 | Anderson | Semana 3 | Define se a peça sai nominal ou anonimizada |
-| Tempo de comissionamento medido em campo | Equipe técnica | Semana 4 | Argumento central da Semana 6 |
-| Revisão jurídica da pauta da Semana 8 | Jurídico BR Security | Semana 6 | Liberação da peça |
+| Manual de identidade visual completo | BR Security | Semana 0 | Produção de todos os carrosséis e artes |
+| Acesso administrativo à página do LinkedIn | BR Security | Semana 0 | Publicação e leitura de analytics |
+| Acesso ao site para instalar a Insight Tag | BR Security | Semana 0 | Remarketing e mensuração de tráfego |
+| Aprovação da assinatura de marca (seção 2.2) | BR Security | Semana 0 | Fecho das peças e dos vídeos |
+| Aprovação das 12 pautas | BR Security | Semana 0 | Início da produção |
+| Rotina de captação em campo (seção 5.3) | BR Security, equipe técnica | Semana 1 e contínuo | Acervo de vídeo e imagem real |
+| Exportação da base do RD Station | BR Security | Semana 2 | Público de clientes e público semelhante |
+| Mapa de vendas por cidade e região | BR Security | Semana 2 | Segmentação paga do Mês 3 |
+| Definição da verba mensal de mídia | BR Security | Semana 2 | Dimensionamento das campanhas e decisão do teste do Mês 3 |
+| Diária de gravação dos 4 vídeos | BR Security e MarkSeg | Semana 2 | Semanas 5, 6, 9 e 11 |
+| Autorização de citação do caso da Semana 5 | BR Security | Semana 3 | Define se a peça sai nominal ou anonimizada |
+| Tempo de comissionamento medido em campo | BR Security, equipe técnica | Semana 4 | Argumento central da Semana 6 |
+| Revisão jurídica da pauta da Semana 8 | BR Security, jurídico | Semana 6 | Liberação da peça |
 
 ### 15.2 Fluxo de aprovação
 
-1. A agência entrega o lote quinzenal de pautas no Nantabi e no grupo de WhatsApp
+1. A MarkSeg entrega o lote quinzenal de pautas no Nantabi e no grupo de WhatsApp
 2. Aprovação ou ajuste em até 3 dias úteis
 3. Produção de arte e copy
 4. Entrega da peça finalizada com 4 dias úteis de antecedência da publicação
@@ -730,17 +731,21 @@ Imagem e vídeo de produto, ambiente, instalação e disparo sempre em captaçã
 
 Peça sem retorno até 24 horas antes da data agendada é remarcada, e a semana recebe uma pauta do banco de reserva, para não abrir buraco no calendário.
 
-### 15.3 Equipe
+### 15.3 Divisão de responsabilidades
 
-| Função | Responsável |
+| Frente | Responsável |
 |---|---|
-| Aprovação de estratégia e layout | Anderson Magoo |
-| Acessos, marca e materiais de apoio | Monique |
-| Atendimento e acompanhamento de entregas | Mariele |
-| Pauta, plano de mídia e roteiro | Lincon |
-| Criação e artes | Matheus |
-| Edição de vídeo | Daniel |
-| Estrutura, CRM e landing pages | Rafael |
+| Aprovação de estratégia, pauta e layout | BR Security |
+| Acessos, marca e materiais de apoio | BR Security |
+| Captação de imagem e vídeo em campo | BR Security |
+| Conteúdo técnico, dados de produto e revisão jurídica | BR Security |
+| Prospecção e atendimento comercial no LinkedIn | BR Security |
+| Atendimento e acompanhamento de entregas | MarkSeg |
+| Pauta, plano de mídia e roteiro | MarkSeg |
+| Criação e artes | MarkSeg |
+| Edição de vídeo | MarkSeg |
+| Estrutura, CRM e landing pages | MarkSeg |
+| Publicação, monitoramento e relatório | MarkSeg |
 
 ---
 
