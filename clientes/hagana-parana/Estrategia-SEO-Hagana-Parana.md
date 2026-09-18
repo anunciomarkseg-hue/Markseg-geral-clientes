@@ -307,6 +307,27 @@ Foco em **LinkedIn** (gestores de facilities, administradoras, síndicos profiss
 ### Modelo de reaproveitamento: 1 artigo → 10 ativos
 1 artigo no blog · 1 carrossel resumo · 1 carrossel checklist · 2 Reels · 1 post comparativo · 1 postagem de autoridade no LinkedIn · 3 sequências de Stories (bastidores + local) · 1 FAQ para Google Business Profile.
 
+### Desmembramento por artigo (blog → redes sociais)
+
+> **O blog é o conteúdo-mãe.** Cada artigo da estratégia é escrito primeiro para o blog (SEO) e depois **recortado** em peças para as redes, distribuídas ao longo da semana. A tabela abaixo desmembra os 12 artigos do plano de 90 dias. O fluxo semanal sugerido: **Carrossel (educativo) → Reel (gancho) → Stories (bastidores/prova) → Post ou LinkedIn (autoridade/CTA)**, todos com link/CTA para o artigo no blog e para "solicitar orçamento".
+
+| # | Artigo-mãe (blog) | Carrossel | Reel | Stories | Post / LinkedIn |
+|---|---|---|---|---|---|
+| 1 | Terceirização de limpeza e conservação | "5 erros ao contratar limpeza terceirizada" | Gancho: "sua limpeza é custo ou problema trabalhista?" | Bastidores de uma equipe de limpeza em operação | Post: limpeza própria x terceirizada (economia + segurança jurídica) |
+| 2 | Empresa de limpeza terceirizada em Curitiba | "O que avaliar numa empresa de limpeza em Curitiba" | Depoimento/tour de um contrato atendido na RMC | Cobertura por cidade (Curitiba + RMC) + Google Business Profile | Post local: atendemos Curitiba e Região |
+| 3 | Terceirização de serviços (guarda-chuva) | "1 parceiro para limpeza, portaria e segurança" | Gancho: "quantos fornecedores você gerencia hoje?" | Bastidores da supervisão regional | LinkedIn: facilities integrados para empresas |
+| 4 | Vale a pena terceirizar a limpeza? | Checklist: quando terceirizar compensa | Comparativo próprio x terceirizado em 40s | Enquete: "sua empresa terceiriza a limpeza?" | Post: custo-eficiência + gestão da mão de obra |
+| 5 | Terceirização de portaria e controle de acesso | Boas práticas de controle de acesso | Gancho: "a portaria é o 1º ponto de segurança" | Bastidores de uma portaria em operação | LinkedIn: controle de acesso para empresas |
+| 6 | Portaria terceirizada para condomínios | "Portaria terceirizada: como funciona e quanto custa" | Reel para síndicos: o que muda no dia a dia | Enquete para síndicos + FAQ | Post para administradoras de condomínio |
+| 7 | Portaria própria x terceirizada | Comparativo visual (custos, gestão, faltas) | Gancho: "e quando o porteiro falta?" (reposição de posto) | Stories de bastidores da reposição/escala | LinkedIn: segurança jurídica na terceirização |
+| 8 | Porteiro, controlador de acesso, vigia ou vigilante | Carrossel de nomenclatura (o que cada um faz) | Reel: "por que trocam porteiro por controlador?" | Quiz: "qual sua operação precisa?" | Post educativo de alta intenção |
+| 9 | Terceirização de vigilância patrimonial | "Como dimensionar a vigilância (A.I.S)" | Bastidores de treinamento (CTH/CCTF) | Stories da formação/reciclagem dos vigilantes | LinkedIn: vigilância dimensionada ao risco |
+| 10 | Vigilante x vigia / armada x desarmada | Comparativo: quem pode o quê e o custo | Reel: "só o vigilante pode deter" (diferencial legal) | FAQ em Stories | Post: quando seu ambiente exige vigilante |
+| 11 | Segurança e portaria para indústrias | Carrossel de riscos e camadas na indústria | Reel: controle de acesso de veículos/terceiros | Bastidores em ambiente industrial (se autorizado) | LinkedIn: segurança para indústrias no PR |
+| 12 | Empresa de terceirização regularizada (PF) | "Documentos que uma empresa regularizada deve ter" | Reel: por que regularização protege o contratante | Stories: selos/autorização PF, +90 empresas, desde 1997 | LinkedIn: autoridade e confiança (Grupo Haganá) |
+
+> Formatos transversais que se repetem sempre que houver material: **bastidores** (treinamento, supervisão, equipes), **caso real** (com autorização) e **conteúdo local** por cidade da cobertura. Reels e carrosséis podem virar anúncios (tráfego pago) para os serviços-foco.
+
 ---
 
 ## 9. Plano editorial inicial de 90 dias
