@@ -11,7 +11,9 @@
 | **Objetivo** | Posicionar o Haganá como **referência em terceirização no Paraná** |
 | **Data** | Setembro de 2026 |
 
-> Estratégia no modelo padrão de estratégia de conteúdo da MarkSeg. **Particularidade:** o site regional ainda não está no ar, então **não há auditoria/histórico de SEO** - as palavras-chave abaixo foram levantadas por pesquisa de mercado (não por exportação do site) e os volumes devem ser **validados no Keyword Planner/Ubersuggest (localização: Paraná/Curitiba)**. A ordem de prioridade dos serviços segue o que o cliente informou ter mais busca: **1) limpeza, 2) portaria e controle de acesso, 3) vigilância**, com recorte adicional por segmento (condomínios, indústrias).
+> Estratégia no modelo padrão de estratégia de conteúdo da MarkSeg. **Particularidade:** o site regional ainda não está no ar, então **não há auditoria/histórico de SEO** - as palavras-chave abaixo foram levantadas por pesquisa de mercado (não por exportação do site) e os volumes devem ser **validados no Keyword Planner/Ubersuggest (localização: Paraná/Curitiba)**. A ordem de prioridade dos serviços segue o que o cliente informou ter mais busca: **1) limpeza, 2) portaria e controle de acesso, 3) vigilância**, com recorte adicional por segmento (condomínios, indústrias) e por público + cidade.
+
+> **Norte da estratégia (confirmado pelo cliente):** construir **autoridade regional** no Paraná - a marca quer ser reconhecida como a referência local em terceirização. Três esclarecimentos de terminologia que orientam os clusters: **(1)** "limpeza" também é buscada como **zeladoria** e **serviços gerais**; **(2)** "controle de acesso" é o guarda-chuva que engloba **porteiro, controlador de acesso e vigia** (empresas trocam de função para reduzir custo); **(3)** o **vigilante** é o profissional premium - único autorizado a deter/inibir -, contratado por bancos, condomínios de alto padrão e indústrias, o que explica seu 3º lugar em volume, mas maior valor por contrato. Serviços secundários (recepção, jardinagem, concierge, operações de chão de fábrica) entram como apoio; o **setor público/licitação** - que é o que mais terceiriza - fica sinalizado como oportunidade futura.
 
 ---
 
@@ -98,21 +100,23 @@ Como o site é novo, a prioridade não é corrigir dívida técnica, e sim **nas
 
 | Palavra/tema | Prioridade | Decisão prática |
 |---|---|---|
-| terceirização de limpeza | Foco 1 | Prioridade máxima |
+| terceirização de limpeza (+ sinônimos: zeladoria, serviços gerais) | Foco 1 | Prioridade máxima |
 | empresa de limpeza terceirizada curitiba | Foco 1 (local) | Prioridade máxima |
 | terceirização de limpeza e conservação | Foco 1 | Prioridade máxima |
 | terceirização de portaria | Foco 2 | Prioridade máxima |
 | portaria terceirizada (condomínio/empresa) | Foco 2 | Prioridade máxima |
-| terceirização de controle de acesso | Foco 2 | Prioridade máxima |
+| terceirização de controle de acesso (engloba porteiro, controlador de acesso, vigia) | Foco 2 | Prioridade máxima |
 | terceirização de vigilância | Foco 3 | Prioridade máxima |
 | empresa de vigilância patrimonial curitiba | Foco 3 (local) | Prioridade máxima |
 | vigilância armada e desarmada | Foco 3 | Prioridade máxima |
 | terceirização de serviços curitiba | Guarda-chuva | Prioridade máxima |
 
-### Usar como long-tail e apoio (dúvidas de contratação)
+### Usar como long-tail e apoio (dúvidas de contratação e nomenclatura)
 
 | Palavra/tema | Decisão prática |
 |---|---|
+| diferença entre porteiro, controlador de acesso, vigia e vigilante | Usar como long-tail e apoio (alta intenção) |
+| diferença entre vigilante e vigia | Usar como long-tail e apoio |
 | vale a pena terceirizar a limpeza / portaria / vigilância | Usar como long-tail e apoio |
 | portaria própria x terceirizada: qual compensa | Usar como long-tail e apoio |
 | como escolher uma empresa de terceirização de serviços | Usar como long-tail e apoio |
@@ -146,21 +150,33 @@ Cada pilar tem uma página de serviço + guia pilar + conteúdos de apoio e dist
 
 ### Pilar 1. Terceirização de limpeza e conservação (FOCO 1)
 **Palavras-chave do pilar:** terceirização de limpeza, empresa de limpeza terceirizada, terceirização de limpeza e conservação, limpeza terceirizada curitiba, empresa de conservação e limpeza, serviço de limpeza para empresas e condomínios.
+**Sinônimos que compartilham a mesma intenção (mesma página):** terceirização de **zeladoria**, terceirização de **serviços gerais**, auxiliar de serviços gerais terceirizado. Devem reforçar a página pilar de limpeza, não gerar páginas concorrentes.
 
 **Por que este pilar foi escolhido:** é o serviço de **maior busca** segundo o cliente e a principal porta de entrada para facilities. Alta intenção de contratação B2B (empresas, condomínios).
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
-| Terceirização de limpeza e conservação: o guia para empresas e condomínios | terceirização de limpeza | Página pilar do foco 1. |
+| Terceirização de limpeza e conservação: o guia para empresas e condomínios | terceirização de limpeza | Página pilar do foco 1 (consolida zeladoria e serviços gerais). |
 | Empresa de limpeza terceirizada em Curitiba: como escolher | empresa de limpeza terceirizada curitiba | Recorte local de alta conversão. |
+| Limpeza, zeladoria ou serviços gerais: qual o seu condomínio precisa | terceirização de zeladoria | Captura os sinônimos e educa sobre o escopo. |
 | Vale a pena terceirizar a limpeza da sua empresa? | vale a pena terceirizar a limpeza | Conteúdo de decisão que quebra objeção. |
 | Limpeza própria x terceirizada: custo, gestão e segurança jurídica | limpeza terceirizada | Comparativo com o diferencial de custo-eficiência. |
 | Plano de Atendimento ao Cliente (P.A.C): como a Haganá dimensiona a limpeza | terceirização de limpeza e conservação | Diferencia o método da Haganá. |
 
 ### Pilar 2. Terceirização de portaria e controle de acesso (FOCO 2)
 **Palavras-chave do pilar:** terceirização de portaria, portaria terceirizada, terceirização de controle de acesso, portaria terceirizada para condomínio, empresa de portaria em curitiba, controle de acesso para empresas.
+**Guarda-chuva e funções (mesmo cluster):** "controle de acesso" é o termo-guarda-chuva que engloba as funções de **porteiro, controlador de acesso e vigia**. Muitas empresas trocam porteiro por **controlador de acesso** (e vigilante por **vigia**) para reduzir custo - por isso esses termos entram no mesmo cluster e viram conteúdo comparativo, que ajuda o contratante a escolher o profissional certo.
 
-**Por que este pilar foi escolhido:** segundo maior foco. Serviço de altíssima demanda em condomínios e empresas, com dúvidas claras de contratação (custo, própria x terceirizada, protocolos).
+**Por que este pilar foi escolhido:** segundo maior foco. Serviço de altíssima demanda em condomínios e empresas, com dúvidas claras de contratação (custo, própria x terceirizada, protocolos) e uma confusão real de nomenclatura (porteiro x controlador x vigia) que gera busca informacional de alto valor.
+
+| Tema recomendado | Keyword principal | Motivo da escolha |
+|---|---|---|
+| Terceirização de portaria e controle de acesso: guia completo | terceirização de portaria | Página pilar do foco 2 (guarda-chuva controle de acesso). |
+| Porteiro, controlador de acesso, vigia ou vigilante: qual seu ambiente precisa | diferença entre porteiro e controlador de acesso | Conteúdo de altíssima intenção que resolve a confusão de nomenclatura e orienta a contratação. |
+| Portaria terceirizada para condomínios: como funciona e quanto custa | portaria terceirizada condomínio | Recorte condomínio de alta intenção. |
+| Portaria própria x terceirizada: qual compensa para o seu condomínio | portaria própria x terceirizada | Comparativo decisório para síndicos. |
+| Controle de acesso de pessoas, veículos e prestadores: boas práticas | controle de acesso para empresas | Tema operacional B2B. |
+| Empresa de portaria em Curitiba: o que avaliar antes de contratar | empresa de portaria curitiba | Recorte local + confiança (PF, supervisão). |
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
@@ -173,13 +189,14 @@ Cada pilar tem uma página de serviço + guia pilar + conteúdos de apoio e dist
 ### Pilar 3. Terceirização de vigilância (armada e desarmada) (FOCO 3)
 **Palavras-chave do pilar:** terceirização de vigilância, vigilância patrimonial, vigilância armada e desarmada, empresa de vigilância curitiba, vigilância terceirizada, segurança patrimonial para empresas.
 
-**Por que este pilar foi escolhido:** terceiro foco e serviço de maior sensibilidade (risco). Rico em dúvidas (armada x desarmada, dimensionamento, 24h, própria x terceirizada) - a própria página de Vigilância já traz um FAQ forte.
+**Por que este pilar foi escolhido:** terceiro foco e serviço de **maior valor agregado**. O **vigilante é o único profissional da terceirização autorizado a deter/inibir** (função de maior responsabilidade e custo), por isso é contratado em ambientes de maior risco e ticket - **bancos, condomínios de alto padrão, indústrias**. Fica em 3º por volume, mas é o de maior valor por contrato. Rico em dúvidas (armada x desarmada, vigilante x vigia, dimensionamento, 24h, própria x terceirizada) - a página de Vigilância já traz um FAQ forte.
 
 | Tema recomendado | Keyword principal | Motivo da escolha |
 |---|---|---|
 | Terceirização de vigilância patrimonial: como proteger sua operação | terceirização de vigilância | Página pilar do foco 3. |
+| Vigilante x vigia: qual a diferença e por que o vigilante pode mais | diferença entre vigilante e vigia | Esclarece a distinção legal (só o vigilante pode deter) e justifica o valor. |
 | Vigilância armada x desarmada: qual a diferença e quando usar cada uma | diferença entre vigilância armada e desarmada | Long-tail direto do FAQ do site. |
-| Como é definido o número de vigilantes para a sua empresa (A.I.S) | quantos vigilantes minha empresa precisa | Explica o método (Análise Inicial de Segurança). |
+| Quando o seu ambiente exige vigilante (banco, condomínio de alto padrão, indústria) | vigilância para condomínio de alto padrão | Conecta o serviço premium aos segmentos de maior ticket. |
 | Vigilância própria x terceirizada: vale mais a pena? | vale mais a pena vigilância própria ou terceirizada | Conteúdo de decisão de alta conversão. |
 | Empresa de vigilância em Curitiba autorizada pela Polícia Federal | empresa de vigilância patrimonial curitiba | Recorte local + confiança/regularização. |
 
@@ -310,13 +327,13 @@ Foco em **LinkedIn** (gestores de facilities, administradoras, síndicos profiss
 | Semana 5 | Terceirização de portaria e controle de acesso: guia completo | terceirização de portaria | Carrossel de boas práticas de controle de acesso |
 | Semana 6 | Portaria terceirizada para condomínios: como funciona e quanto custa | portaria terceirizada condomínio | Reel para síndicos |
 | Semana 7 | Portaria própria x terceirizada: qual compensa | portaria própria x terceirizada | Comparativo visual |
-| Semana 8 | Terceirização para condomínios: portaria, limpeza e segurança | terceirização para condomínios | Carrossel para administradoras |
+| Semana 8 | Porteiro, controlador de acesso, vigia ou vigilante: qual seu ambiente precisa | diferença entre porteiro e controlador de acesso | Carrossel de nomenclatura (alta intenção) |
 
 ### Mês 3 - Foco 3, indústrias e local (vigilância)
 | Período | Artigo | Keyword | Distribuição social |
 |---|---|---|---|
-| Semana 9 | Terceirização de vigilância patrimonial: como proteger sua operação | terceirização de vigilância | Bastidores de treinamento (CCTF) |
-| Semana 10 | Vigilância armada x desarmada: qual usar em cada caso | diferença entre vigilância armada e desarmada | Carrossel do FAQ |
+| Semana 9 | Terceirização de vigilância patrimonial: como proteger sua operação | terceirização de vigilância | Bastidores de treinamento (CTH/CCTF) |
+| Semana 10 | Vigilante x vigia e armada x desarmada: as diferenças que mudam o seu custo | diferença entre vigilante e vigia | Carrossel do FAQ |
 | Semana 11 | Segurança e portaria para indústrias | segurança para indústrias | Post de autoridade no LinkedIn |
 | Semana 12 | Empresa de terceirização regularizada e autorizada pela PF: por que importa | empresa de terceirização regularizada | Card de confiança/autoridade |
 
@@ -356,11 +373,15 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. Como o 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
 | terceirização de limpeza | Cliente (foco 1) + mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| terceirização de zeladoria (sinônimo de limpeza) | Cliente (áudio) | a validar | Mesma intenção de limpeza; reforça a página pilar do foco 1. |
+| terceirização de serviços gerais (sinônimo de limpeza) | Cliente (áudio) | a validar | Mesma intenção de limpeza; reforça a página pilar do foco 1. |
 | terceirização de limpeza e conservação | Site + mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | empresa de limpeza terceirizada curitiba | Mercado (local) | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | terceirização de portaria | Cliente (foco 2) + mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | portaria terceirizada | Mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
-| terceirização de controle de acesso | Site + cliente | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| terceirização de controle de acesso | Site + cliente | a validar | Guarda-chuva que engloba porteiro, controlador de acesso e vigia. |
+| terceirização de controlador de acesso | Cliente (áudio) | a validar | Função do cluster de controle de acesso (contratada para baratear a portaria). |
+| terceirização de vigia / porteiro | Cliente (áudio) | a validar | Funções do cluster de controle de acesso; conteúdo comparativo de nomenclatura. |
 | empresa de portaria curitiba | Mercado (local) | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | terceirização de vigilância | Cliente (foco 3) | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | vigilância patrimonial | Site + mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
@@ -370,11 +391,14 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. Como o 
 | terceirização de mão de obra | Site + mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | facilities / facilities integrados | Site + mercado | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
 | recepção terceirizada | Site | a validar | Alta aderência ao portfólio e potencial de gerar demanda comercial ou sustentar autoridade temática. |
+| jardinagem / concierge / operações de chão de fábrica terceirizados | Cliente (áudio) | a validar | Serviços secundários; apoio ao guarda-chuva de terceirização. |
 
 ### Priorizar - conteúdo (dúvidas de contratação / long-tail)
 
 | Palavra-chave | Fonte(s) | Dados | Justificativa |
 |---|---|---|---|
+| diferença entre porteiro, controlador de acesso, vigia e vigilante | Cliente (áudio) | a validar | Long-tail de altíssima intenção; resolve confusão de nomenclatura e orienta a contratação. |
+| diferença entre vigilante e vigia | Cliente (áudio) | a validar | Esclarece a distinção legal (só o vigilante detém) e o valor agregado. |
 | vale a pena terceirizar a limpeza / portaria / vigilância | Mercado | a validar | Long-tail com dúvida clara; atrai o contratante em pesquisa e conduz ao orçamento. |
 | portaria própria x terceirizada | Mercado | a validar | Long-tail com dúvida clara; atrai o contratante em pesquisa e conduz ao orçamento. |
 | vale mais a pena vigilância própria ou terceirizada | Site (FAQ) | a validar | Long-tail com dúvida clara; atrai o contratante em pesquisa e conduz ao orçamento. |
@@ -414,7 +438,8 @@ Revisão mensal para desempenho e trimestral para decisões estruturais. Como o 
 ## Apêndice B - Fontes e limitações
 
 - **Páginas do novo site regional** (Home, A Haganá, Vigilância), fornecidas pelo cliente: negócio, serviços, segmentos, diferenciais (PF, CCTF, A.I.S, P.A.C, supervisão), cobertura (43 municípios) e contatos.
+- **Páginas do novo site regional** (Home, A Haganá, Vigilância, Portaria e Controle de Acesso, Recepção, Contato, estrutura de Blog e Artigo): serviços, segmentos, diferenciais (PF, CTH/CCTF, A.I.S, P.A.C, supervisão), FAQs e contatos.
 - **Site da matriz** (hagana.com.br) e institucional do Grupo Haganá: histórico (desde 1997), atuação em SP/RJ/PR/MG e portfólio ampliado (bombeiro civil, segurança eletrônica, monitoramento).
 - **Pesquisa de mercado** (setembro de 2026): terminologia de busca e concorrência em Curitiba/PR para terceirização de limpeza, portaria e vigilância.
 - **Sem auditoria de SEO:** o site regional ainda não está no ar; não há métricas de tráfego, backlinks ou palavras-chave orgânicas. Os volumes deste documento são **estimativas de intenção a validar** no Keyword Planner/Ubersuggest (Paraná/Curitiba).
-- **Áudios do cliente (2):** não processados nesta versão; o conteúdo será incorporado assim que resumido/transcrito pelo cliente.
+- **Áudios do cliente (2) - incorporados nesta versão:** confirmaram o norte de **autoridade regional**; a ordem de busca (limpeza > portaria/controle de acesso > vigilância); os sinônimos de limpeza (zeladoria, serviços gerais); o guarda-chuva de controle de acesso (porteiro, controlador de acesso, vigia) e a lógica de custo; o posicionamento premium do vigilante (único autorizado a deter; bancos, alto padrão, indústrias); o interesse em cruzar **público + cidade**; e a existência de serviços secundários (recepção, jardinagem, concierge, chão de fábrica) e do setor público/licitação como oportunidade futura.
