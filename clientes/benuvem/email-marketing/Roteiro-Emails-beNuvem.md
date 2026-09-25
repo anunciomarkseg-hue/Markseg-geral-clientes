@@ -51,13 +51,21 @@ A planilha recebida tem 594 usuários de 277 empresas. Antes de importar:
 * Resultado: **533 contatos enviáveis**. A lista tratada não fica neste repositório por conter dados pessoais; foi entregue separadamente.
 * Ponto de atenção: uma única empresa (Peter Graber) tem 44 usuários na base. Todos vão receber. Vale confirmar com o Luiz se ele quer isso ou só os gestores.
 
+## Dados do evento (conferidos nos sites oficiais em 25/09/2026)
+
+* **SegSummit 2026:** 21/10/2026, Distrito Anhembi, Av. Olavo Fontoura, 1209, Santana, São Paulo. Credenciamento às 7h. Entrada na feira gratuita, com inscrição em segsummit.com.br/inscreva-se.
+* **Monitorar | 4º Encontro Nacional de Centrais de Monitoramento:** 21/10/2026, Auditório B do Distrito Anhembi, pela manhã. Gratuito, só para empresas de monitoramento, até 3 convites por empresa, vagas limitadas. Inscrição separada no Sympla: sympla.com.br/evento/monitorar--4-encontro-nacional-de-centrais-de-monitoramento/3535461
+* **Divergência de horário:** o Sympla diz das 9h às 12h30, a programação no site do Monitorar vai das 8h30 às 12h e o site do SegSummit fala em 9h15 às 10h30. O email diz "pela manhã, programação a partir das 8h30", que funciona com qualquer uma das três versões.
+* **Pitch:** a programação do Monitorar tem dois espaços de "Pitch Comercial" (9h45 e 10h45). O email não cita horário porque não sabemos em qual deles a beNuvem entra.
+* A beNuvem não aparece na lista de expositores do SegSummit. Por isso o email não fala em estande.
+
 ## Pendências antes de agendar
 
-1. Datas, horários, local e estande do **Monitorar** e do **SegSummit** (email 1).
-2. **Cargo** e **número de WhatsApp** do Luiz (assinatura e botões).
-3. Luiz validar as afirmações técnicas dos emails 3 e 4 (detecção de humanos filtra sombra, galho e animal; gravação em nuvem continua acessível se o gravador for levado ou desligado).
-4. Confirmar se o pitch de 5 minutos no Monitorar está mantido (email 1 cita o pitch).
-5. Subir a foto `assets/luiz-vieira.jpg` no RD Station e trocar o caminho da imagem pela URL gerada.
-6. Trocar `[PRIMEIRO_NOME]` pelo campo de nome do RD, com saudação alternativa para quem estiver sem nome.
-7. Configurar o remetente com o email pessoal do Luiz e autenticar o domínio (SPF e DKIM) no RD Station.
-8. **Confirmar que as respostas chegam na caixa do Luiz.** A assinatura diz "Quem lê sou eu". Se as respostas forem para uma caixa que ninguém olha, a mensagem vira o oposto da proximidade que ele pediu.
+1. Confirmar o WhatsApp do Luiz. O número recebido, (31) 9164-0127, tem 8 dígitos depois do DDD. Celular hoje tem 9 (9 9164-0127). Testar o botão antes de disparar.
+2. Luiz validar as afirmações técnicas dos emails 3 e 4 (detecção de humanos filtra sombra, galho e animal; gravação em nuvem continua acessível se o gravador for levado ou desligado).
+3. Confirmar em qual horário é o pitch e se ele dura mesmo 5 minutos.
+4. Subir a foto `assets/luiz-vieira.jpg` no RD Station e trocar o caminho da imagem pela URL gerada.
+5. Trocar `[PRIMEIRO_NOME]` pelo campo de nome do RD, com saudação alternativa para quem estiver sem nome.
+6. Configurar o remetente com o email pessoal do Luiz e autenticar o domínio (SPF e DKIM) no RD Station.
+7. **Confirmar que as respostas chegam na caixa do Luiz.** A assinatura diz "Quem lê sou eu".
+8. O email 1 precisa sair até a primeira semana de outubro. Com vagas limitadas, se sair perto do evento o convite chega depois de as vagas acabarem.
