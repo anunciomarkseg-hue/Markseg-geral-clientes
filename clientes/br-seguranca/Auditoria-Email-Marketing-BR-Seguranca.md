@@ -8,28 +8,65 @@
 | **Ferramenta** | Mailchimp |
 | **Base analisada** | 976 registros exportados: 924 inscritos, 22 descadastrados, 30 limpos (bounce) |
 | **Envios analisados** | 9 campanhas regulares, de 22/06/2026 a 17/08/2026 |
-| **Fontes** | Export completo da audiência, relatório de campanhas (CSV) e prints do Painel de Marketing e da Análise de Público |
+| **Fontes** | Export completo da audiência, relatório de campanhas (CSV), prints do Painel de Marketing e da Análise de Público e reunião de alinhamento de 18/09/2026 |
 | **Data** | Setembro de 2026 |
 
 > Nenhum dado pessoal de contato está neste documento. Todos os números são agregados. A lista com as tags por contato foi gerada à parte, para reimportação no Mailchimp, e não fica no repositório.
 
 ---
 
+## 0. Atualização após a reunião de alinhamento (18/09/2026)
+
+A reunião com Monique Romanholo e Victor Binelli mudou uma premissa central deste documento. A primeira versão tratava o canal de segurança (integradores e revendas) como público prioritário, porque é isso que a base é. A direção da empresa é outra: **o foco é o público final, principalmente o comércio**. Pela experiência deles, o integrador não se esforça para vender o produto porque não é lucrativo o bastante para ele. A estratégia desejada é tornar o produto conhecido pelo usuário final, para que a demanda venha dele.
+
+### 0.1 O que isso muda, e o problema que isso cria
+
+**A base atual não é o público que a empresa quer atingir.** Dos 924 inscritos, só 133 (14%) são usuário final, e só 44 são de varejo e comércio. Os outros 753 são empresas de segurança e de tecnologia, exatamente o perfil que a empresa diz não priorizar. Consequências práticas:
+
+1. **O e-mail para a base atual não vai ser o motor de venda para o comércio.** Nenhum fluxo bem escrito transforma 44 contatos de varejo em volume de negócio. A base de usuário final precisa ser **construída**: tráfego pago com formulário de lead, conselhos de segurança do comércio (a Eliz ficou de levantar os que existem além de Curitiba), eventos do varejo e parcerias. Cada lead novo entra no Mailchimp com tag de origem e cai no fluxo de boas vindas (8.2).
+2. **Não usar a base inteira como semente de público semelhante.** A proposta da reunião é subir a lista no Meta e no LinkedIn. Para **remarketing** (mostrar anúncio para quem já está na lista) faz sentido. Para **público semelhante (lookalike)**, a lista inteira ensina o algoritmo a achar mais empresas de segurança, o oposto do objetivo. A semente para semelhante deve ser só o segmento Usuário final, ou melhor ainda, visitantes do site e leads de usuário final quando existirem. No LinkedIn, a audiência por lista exige no mínimo 300 contatos encontrados, então 133 não formam público sozinhos; lá a segmentação por setor e cargo funciona melhor.
+3. **Não descartar o canal antes de responder uma pergunta:** quando o comerciante se interessar pelo produto, quem instala e vende? Se for a própria BR Segurança, o canal vira público secundário. Se a instalação passar por integrador, os 572 contatos do canal são justamente quem vai atender a demanda criada, e precisam saber que ela vai chegar. A recomendação é manter o canal com envio **mensal** de baixo esforço (8.4) até essa resposta vir do Carlos.
+4. **A campanha "Farmácias" estava no caminho certo de mensagem, mas no público errado.** O conteúdo de dor do comércio é o que a empresa quer comunicar. Ele gerou 5 descadastros porque foi para uma base de empresas de segurança.
+
+### 0.2 Mensagem e slogan ainda não aprovados
+
+O Carlos (sócio) não quer mais o uso de "Interrompa" nas peças, e o novo slogan ainda está em aprovação. Há também uma reunião pendente dele com a Monique para fechar a direção de forma definitiva. Por isso:
+
+* **Todas as copies da seção 8 são provisórias** e não devem ser disparadas antes dessa devolutiva.
+* O assunto "NÃO ASSISTA O ROUBO. INTERROMPA." do histórico não deve ser reaproveitado.
+* A limpeza, a reimportação com tags e a configuração técnica (seções 6 e 7) **não dependem** da mensagem e podem andar já.
+
+### 0.3 O que foi confirmado
+
+| Ponto | O que a reunião confirmou |
+|---|---|
+| **Origem da lista de junho** | Exposec. Segundo a Monique, são pessoas que passaram no estande e deixaram contato. Isso explica o e-mail "Obrigado pela sua presença!" |
+| **Origem da lista de Belém** | Evento da Abese. A Abese envia a lista **de todos os inscritos no evento**, não só de quem viu a apresentação da BR Segurança. O campo "Presente no Evento" indica presença no evento, não contato com o produto. Estimativa da agência: cerca de 10% teve contato real com o produto |
+| **Contatos incluídos manualmente** | São internos (equipe BR Segurança). Sair dos envios e virar lista de teste |
+| **Ferramenta** | Continua o Mailchimp. A agência recebeu acesso de administrador (webdesign@markseg.com) |
+| **Limpeza** | Nenhuma exclusão será feita sem autorização do cliente. A seção 6 passa a ser uma proposta para aprovação |
+| **Automações** | Não existe nenhum fluxo. Os envios eram manuais e semanais, feitos pela Monique sem apoio |
+| **Planilha original** | A Monique se ofereceu para enviar o Excel com a lista completa. Pedir, para separar quem de fato passou no estande da Exposec |
+
+Os números citados na reunião (7.000 envios, 11% de abertura, 779 aberturas) são de um período maior que o painel de 90 dias usado aqui (5.720 envios, 10,3%, 580 aberturas). A leitura é a mesma.
+
+---
+
 ## 1. Resumo executivo
 
-A base é boa. O e-mail é que não está funcionando.
+A base é limpa o suficiente para ser recuperada, mas o e-mail não está funcionando, e a base não é o público que a empresa quer atingir (seção 0).
 
-São 924 contatos inscritos, quase todos do mercado de segurança, com 444 decisores (diretores, CEOs, sócios, gerentes). Para uma empresa que vende solução de segurança para revenda e integração, é um público de alto valor. O problema está no que foi enviado para ele:
+São 924 contatos inscritos, quase todos do mercado de segurança, com 444 decisores (diretores, CEOs, sócios, gerentes). É um público qualificado para parceria e instalação, mas pequeno para a meta de chegar ao comércio. O que foi enviado para ele:
 
 1. **Ninguém clica.** Em 90 dias foram 5.720 envios e 13 cliques reais (0,23%, com filtro de bots do próprio Mailchimp). Em 9 campanhas, a soma de cliques únicos é 27. Na prática, o e-mail não gera nenhuma ação comercial.
 2. **A abertura real é metade do que o relatório mostra.** O CSV de campanhas mostra 16% a 26% de abertura, mas o painel com filtro de bots mostra 10,3%. A diferença é abertura automática (Apple Mail e filtros corporativos). E mesmo a abertura inflada caiu de 26,3% para 15,7% em 8 semanas.
-3. **Conteúdo desalinhado com o público.** A base é majoritariamente de empresas de segurança (canal), mas campanhas como "Farmácias: o prejuízo pode ser evitado antes mesmo do furto" falam com o usuário final. Essa campanha teve o maior número de descadastros junto com "Stop Now" (5 cada).
+3. **Mensagem e público não se encontram.** A base é majoritariamente de empresas de segurança, mas campanhas como "Farmácias: o prejuízo pode ser evitado antes mesmo do furto" falam com o usuário final, que é o público que a empresa quer. Essa campanha teve o maior número de descadastros junto com "Stop Now" (5 cada). O problema não é a mensagem, é para quem ela foi.
 4. **"Origem" no Mailchimp não serve para nada hoje.** 972 dos 976 contatos aparecem como "List Import". A origem real só foi recuperada cruzando data de importação, tags e campos do cadastro (seção 3).
 5. **Higiene de lista fraca.** A lista não foi validada antes da importação: 16 hard bounces no primeiro envio, 30 contatos já limpos pelo Mailchimp e mais 37 inscritos com classificação 1 estrela, o padrão de quem dá bounce temporário em todo envio. A taxa de rejeição de 1,6% já está marcada como "precisa de atenção".
 6. **A base está parada há 6 semanas.** O último envio foi em 17/08. Voltar a disparar para todo mundo de uma vez, com a mesma fórmula, vai repetir o resultado e piorar a reputação do remetente.
 7. **Não existe nenhuma automação.** Todos os envios foram manuais. Zero fluxo de boas vindas, nutrição ou reengajamento.
 
-**Recomendação central:** parar os envios em massa semanais, limpar a base, reimportar com tags de origem, perfil e mercado, e trocar para fluxos segmentados em que cada e-mail tem um único objetivo comercial mensurável (clique para falar com o comercial, pedir tabela de revenda, agendar demonstração).
+**Recomendação central:** parar os envios em massa semanais, limpar a base, reimportar com tags de origem, perfil e mercado, e trocar para fluxos segmentados em que cada e-mail tem um único objetivo comercial mensurável. O usuário final recebe o conteúdo de dor e prova do produto. O canal recebe um contato mensal. E, em paralelo, a base de usuário final passa a ser construída com tráfego pago e parcerias, porque a base atual não tem volume de comércio.
 
 ---
 
@@ -66,13 +103,13 @@ O Mailchimp registrou quase tudo como "List Import from Upload de arquivo", ent�
 
 | Origem | Importação | Inscritos | Descad. | Limpos | Característica |
 |---|---|---:|---:|---:|---|
-| **Evento de junho** (lista de inscritos) | 19/06/2026 | 629 | 16 | 27 | Base nacional (SP 58%), com setor e cargo preenchidos. Mistura empresas de segurança, tecnologia e usuários finais |
-| **Abese Belém Jul26** | 23/07/2026 | 291 | 6 | 3 | 100% Pará, 100% empresas de segurança. Tem o campo "Presente no Evento" |
-| **Inclusão manual (Admin)** | 18/06, 06/07 e 17/08 | 4 | 0 | 0 | Provavelmente contatos internos ou de teste. Devem sair das métricas |
+| **Exposec 2026** (visitantes do estande) | 19/06/2026 | 629 | 16 | 27 | Base nacional (SP 58%), com setor e cargo preenchidos. Mistura empresas de segurança, tecnologia e usuários finais |
+| **Abese Belém Jul26** | 23/07/2026 | 291 | 6 | 3 | 100% Pará, 100% empresas de segurança. Lista geral de inscritos enviada pela Abese, não só quem viu a apresentação |
+| **Inclusão manual (Admin)** | 18/06, 06/07 e 17/08 | 4 | 0 | 0 | Equipe interna, confirmado na reunião. Devem sair das métricas |
 
-**Ponto que precisa ser confirmado com o cliente:** o primeiro e-mail enviado para a lista de junho foi "Obrigado pela sua presença!", mas só 2 dos 629 contatos têm "Presente no Evento = Sim". Ou o campo não foi preenchido nessa lista, ou o agradecimento foi enviado para quem se inscreveu e não foi. No segundo caso, isso explica parte dos 16 hard bounces e das 2 saídas logo no primeiro envio. Precisamos saber qual evento foi esse e se a lista é de inscritos ou de presentes.
+**Exposec:** só 2 dos 629 contatos têm "Presente no Evento = Sim", porque o campo não foi usado nessa importação. Pela reunião, a lista é de visitantes do estande. Mesmo assim, 16 hard bounces no primeiro envio mostram que parte dos e-mails foi digitada errado na captação. O Excel original que a Monique ofereceu ajuda a confirmar quem teve conversa real no estande.
 
-No evento de Belém o dado existe: **122 presentes e 169 inscritos que não compareceram**. São dois públicos diferentes e devem receber mensagens diferentes.
+No evento de Belém o dado existe: **122 presentes e 169 inscritos que não compareceram**. Atenção: "presente" aqui significa que a pessoa foi ao evento da Abese, não que viu a BR Segurança. A maior parte dessa lista nunca ouviu falar do produto, e o primeiro e-mail para ela precisa se apresentar em vez de agradecer.
 
 ---
 
@@ -97,11 +134,11 @@ Critérios usados:
 
 ### 4.2 Leitura estratégica
 
-1. **62% da base é canal de segurança.** O e-mail deve ser pensado primeiro como ferramenta de venda para revenda e integração: margem, diferencial frente à concorrência do integrador, suporte técnico, material de venda pronto.
-2. **Só 14% é usuário final.** Campanhas de dor do cliente final (farmácia, varejo, furto) só fazem sentido para esse grupo, ou para o canal quando vêm embaladas como "argumento de venda que você pode usar com seu cliente".
+1. **Só 14% é usuário final, e é esse o público prioritário da empresa.** Dos 133, 44 são de varejo e comércio, 28 de governo, 26 de facilities, 15 de indústria e 11 de logística. É o segmento que recebe o conteúdo de dor e prova do produto, com mais frequência e mais cuidado.
+2. **62% da base é canal de segurança.** Pela direção definida na reunião, deixa de ser o foco. Mas continua sendo quem instala e atende o comércio em boa parte do país. Recebe contato mensal, com a mensagem "seus clientes vão começar a pedir isso", até o Carlos definir o papel do canal.
 3. **Tecnologia e Telecom (181) é o segmento mais ambíguo.** Pode ser integrador de CFTV que se classificou como tecnologia, ou pode ser operadora. Tratar como canal potencial e observar os cliques.
 4. **Técnicos (204) querem outro conteúdo.** Instalação, especificação, comparação técnica, treinamento. Mandar para eles o mesmo e-mail comercial do diretor desperdiça o público.
-5. **Concentração geográfica:** SP (364) e PA (293) somam 71% da base. Belém tem um diferencial raro: é uma base regional inteira do mesmo setor, ideal para ação comercial com representante local.
+5. **Concentração geográfica:** SP (364) e PA (293) somam 71% da base. Belém é uma base regional inteira do mesmo setor, útil se a empresa tiver representante ou parceiro instalador no Pará.
 
 ---
 
@@ -145,12 +182,14 @@ Fazer antes de qualquer novo envio.
 |---|---:|---|
 | **Arquivar bounce recorrente** | 37 | Filtrar tag `Limpeza: bounce recorrente`, conferir no perfil de 2 ou 3 contatos que o histórico é de soft bounce e arquivar |
 | **Revisar domínio suspeito** | 1 | Tag `Limpeza: dominio suspeito`. Se não houver abertura, arquivar |
-| **Separar contatos internos** | 4 | Tag `Origem: Interno/Admin`. Excluir dos segmentos de envio e usar só como lista de teste |
+| **Separar contatos internos** | 4 | Tag `Origem: Interno` (equipe BR Segurança, confirmado). Excluir dos segmentos de envio e usar só como lista de teste |
 | **Apagar o campo CPF** | 303 com dado | Audience > Settings > Audience fields and merge tags. Não tem uso em e-mail e aumenta o risco LGPD |
 | **Corrigir nome, cidade e UF** | 669 nomes, 291 UFs | Reimportar o arquivo `BR-Seguranca-reimportacao-tags.csv` com "Update existing contacts" marcado |
 | **Validar a base restante** | 886 | Opcional, mas recomendado: passar os e-mails em um validador (ZeroBounce, NeverBounce ou similar) antes da campanha de reativação. Custo baixo para 900 contatos |
 | **Validar toda lista nova antes de importar** | Regra fixa | Nenhuma lista de evento entra sem validação |
 | **Regra de pôr do sol (sunset)** | Contínua | Quem não clicar em nada em 90 dias e não abrir nos últimos 5 envios sai dos envios regulares e entra no fluxo de despedida (seção 8.5) |
+
+Tudo nesta tabela é **proposta para aprovação do cliente**. Nada será arquivado ou apagado sem autorização, como combinado na reunião.
 
 Depois dessa limpeza a base ativa fica em torno de **886 contatos**. Parece menor, mas é a base que de fato recebe e-mail.
 
@@ -164,7 +203,7 @@ Depois dessa limpeza a base ativa fica em torno de **886 contatos**. Parece meno
 
 | Grupo | Tags |
 |---|---|
-| Origem | `Origem: Evento Jun26 (lista importada 19/06)`, `Origem: Abese Belem Jul26`, `Origem: Interno/Admin` |
+| Origem | `Origem: Exposec 2026`, `Origem: Abese Belem Jul26`, `Origem: Interno` |
 | Perfil | `Perfil: Decisor`, `Perfil: Coordenacao`, `Perfil: Tecnico`, `Perfil: Comercial`, `Perfil: Outros`, `Perfil: Estudante/SENAI` |
 | Mercado | `Mercado: Canal de seguranca`, `Mercado: Tecnologia e Telecom`, `Mercado: Usuario final`, `Mercado: Nao informado` |
 | Evento | `Evento: Presente`, `Evento: Inscrito ausente` |
@@ -176,10 +215,10 @@ Daqui para frente, toda lista nova entra com a tag `Origem: <evento ou canal> <m
 
 | Segmento | Regra | Tamanho aproximado | Uso |
 |---|---|---:|---|
-| **Canal decisor** | Mercado: Canal de seguranca OU Tecnologia e Telecom + Perfil: Decisor | 389 | Oferta de revenda, condição comercial, convite para reunião |
+| **Usuário final** (prioridade) | Mercado: Usuario final | 133 | Conteúdo de dor por segmento (comércio, farmácia, indústria), prova do produto, pedido de visita ou demonstração |
+| **Canal decisor** | Mercado: Canal de seguranca OU Tecnologia e Telecom + Perfil: Decisor | 389 | Envio mensal. Demanda do comércio que vai chegar, condição para parceiro instalador |
 | **Canal técnico** | Mercado: Canal ou Tecnologia + Perfil: Tecnico ou Coordenacao | 234 | Conteúdo técnico, instalação, treinamento |
 | **Canal comercial** | Mercado: Canal ou Tecnologia + Perfil: Comercial | 67 | Argumentos de venda e material pronto para o cliente final |
-| **Usuário final** | Mercado: Usuario final | 133 | Dor do segmento (varejo, farmácia, indústria) com indicação de parceiro |
 | **Belém presentes** | Origem: Abese Belem Jul26 + Evento: Presente | 122 | Ação regional, visita comercial |
 | **Belém ausentes** | Evento: Inscrito ausente | 169 | Material do evento e convite para próxima ação |
 | **Engajados** | Clicou em qualquer campanha nos últimos 90 dias OU abriu 2 das últimas 5 | A medir | Envio prioritário, lista de aquecimento de reputação |
@@ -202,7 +241,7 @@ Regras que valem para todos os fluxos:
 * **Personalização só depois da reimportação** que corrige o primeiro nome.
 * **Frequência máxima:** 1 e-mail por semana por contato somando campanhas e automações.
 
-As copies abaixo usam os produtos que já apareceram nos e-mails anteriores (Antintruder e Stop Now). O que estiver entre colchetes precisa de informação do cliente.
+As copies abaixo usam os produtos que já apareceram nos e-mails anteriores (Antintruder e Stop Now). O que estiver entre colchetes precisa de informação do cliente. **Todas são provisórias até a aprovação do novo slogan e da direção de mensagem pelo Carlos (seção 0.2).** Nenhuma usa "Interrompa".
 
 ### 8.1 Reativação da base (campanha em 3 envios, primeiro passo)
 
@@ -210,21 +249,21 @@ As copies abaixo usam os produtos que já apareceram nos e-mails anteriores (Ant
 **Objetivo:** separar quem tem interesse de quem não tem, e reconectar o contato com a origem dele.
 
 **E-mail 1 (dia 0)**
-* Assunto: `Você esteve com a gente em [evento]`
+* Assunto: `Você esteve com a gente na Exposec` (versão Belém: `Nos conhecemos no evento da Abese em Belém`)
 * Pré visualização: `E tem uma coisa que ficou faltando mostrar`
-* Corpo: "Olá, \*|FNAME|\*. Você recebe nossos e-mails porque se cadastrou em [nome do evento, cidade]. Nos últimos meses mandamos bastante coisa, e sendo honesto, pouca coisa foi útil para quem trabalha com segurança todo dia. A partir de agora vamos mandar menos e ir direto ao ponto: soluções que impedem a invasão em vez de só gravar, e como a sua empresa pode vender isso com margem. Se não fizer sentido para você, o link para sair está logo abaixo, sem ressentimento."
+* Corpo: "Olá, \*|FNAME|\*. Você recebe nossos e-mails porque se cadastrou em [Exposec 2026 / evento da Abese em Belém]. Nos últimos meses mandamos bastante coisa, e sendo honesto, pouca coisa foi útil. A partir de agora vamos mandar menos e ir direto ao ponto: como impedir que o invasor leve alguma coisa, em vez de só gravar a cena. Se não fizer sentido para você, o link para sair está logo abaixo, sem ressentimento."
 * Botão: `Quero ver como funciona na prática` (vídeo curto do Antintruder em ação)
 
 **E-mail 2 (dia 4, para quem não clicou)**
 * Assunto: `20 segundos que mudam o final de um assalto`
-* Corpo: vídeo ou GIF da névoa ocupando o ambiente, 3 linhas sobre o que acontece com o invasor, 1 linha sobre o que isso significa para o cliente do integrador (menos perda, menos chamado, cliente fiel).
+* Corpo: vídeo ou GIF da névoa ocupando o ambiente, 3 linhas sobre o que acontece com o invasor, 1 linha sobre o que isso significa para quem tem loja ou empresa (nada levado, nada para repor, operação no dia seguinte).
 * Botão: `Assistir ao vídeo`
 
 **E-mail 3 (dia 9, para quem ainda não clicou)**
 * Assunto: `Posso continuar te mandando isso?`
-* Corpo: "Quero mandar só para quem aproveita. Se quiser continuar recebendo conteúdo sobre [proteção ativa / revenda de soluções antintrusão], é só clicar abaixo. Se não, não precisa fazer nada, vamos parar de enviar em 30 dias."
+* Corpo: "Quero mandar só para quem aproveita. Se quiser continuar recebendo conteúdo sobre [proteção ativa contra invasão], é só clicar abaixo. Se não, não precisa fazer nada, vamos parar de enviar em 30 dias."
 * Botão: `Sim, quero continuar recebendo`
-* Quem clica ganha a tag `Engajado: reativado`. Quem não clicou em nenhum dos 3 entra no fluxo 8.5.
+* Quem clica ganha a tag `Engajado: reativado`. Quem não clicou em nenhum dos 3 entra no fluxo 8.6.
 
 ### 8.2 Fluxo de boas vindas pós evento (automação permanente)
 
@@ -235,31 +274,42 @@ As copies abaixo usam os produtos que já apareceram nos e-mails anteriores (Ant
 |---|---|---|---|---|
 | 1 | Até 48h depois do evento | `Obrigado por passar no nosso estande, *|FNAME|*` (presentes) ou `Faltou você em [evento]` (ausentes) | Resumo do que foi mostrado, foto do estande, contato direto do representante | `Ver o que apresentamos` |
 | 2 | Dia 3 | `Por que gravar o roubo não basta mais` | A tese da empresa: CFTV registra, névoa impede. Um caso real curto | `Ver o caso completo` |
-| 3 | Dia 7 | `Quanto um integrador ganha revendendo [produto]` | Modelo de revenda, margem, suporte, material de venda. Só para Canal | `Quero a tabela de revenda` |
-| 3b | Dia 7 | `Quanto custa um furto que a câmera só filmou` | Versão para Usuário final, com conta simples de prejuízo evitado | `Falar com um especialista` |
-| 4 | Dia 14 | `Uma pergunta rápida` | E-mail curto em texto puro, assinado por uma pessoa: "Faz sentido conversarmos 15 minutos sobre [produto] para a sua carteira de clientes?" | Responder o e-mail ou `Agendar conversa` |
+| 3 | Dia 7 | `Quanto custa um furto que a câmera só filmou` | Versão principal, para Usuário final: conta simples de prejuízo evitado | `Falar com um especialista` |
+| 3b | Dia 7 | `Seus clientes vão perguntar sobre isso` | Versão para Canal: o que é o produto e como atender quem pedir | `Quero ser parceiro instalador` |
+| 4 | Dia 14 | `Uma pergunta rápida` | E-mail curto em texto puro, assinado por uma pessoa: "Faz sentido conversarmos 15 minutos sobre [produto] para a sua loja ou empresa?" (no Canal: "para os seus clientes") | Responder o e-mail ou `Agendar conversa` |
 
-### 8.3 Nutrição do canal (automação contínua, 1 e-mail a cada 2 semanas)
+### 8.3 Nutrição do usuário final (prioridade, 1 e-mail a cada 2 semanas)
 
-**Para quem:** Canal decisor, Canal técnico e Canal comercial, cada um com sua versão.
+**Para quem:** segmento Usuário final e todo lead novo de usuário final que entrar por tráfego pago, LinkedIn ou parcerias. É o fluxo que cresce com a base nova.
 
-| Tema | Decisor | Técnico | Comercial |
-|---|---|---|---|
-| 1. Diferencial | Por que proteção ativa aumenta ticket e fidelização | Como a névoa funciona e onde não instalar | 3 frases que convencem o cliente final |
-| 2. Aplicação por segmento | Farmácias, varejo, depósitos: onde está a demanda | Dimensionamento por metragem | Argumento pronto por segmento (reaproveita o e-mail de farmácias) |
-| 3. Prova | Caso de parceiro que vendeu | Vídeo de instalação | Depoimento de cliente final |
-| 4. Oferta | Condição para novos parceiros | Convite para treinamento técnico | Kit de material de venda |
-| 5. Integração | Integração com alarme e monitoramento existente | Esquema de ligação com central de alarme | Como oferecer como adicional do contrato de monitoramento |
+| # | Tema | Assunto provisório | Conteúdo | Botão |
+|---|---|---|---|---|
+| 1 | Dor | `A câmera gravou. E a mercadoria?` | O limite do CFTV: registra, mas não evita a perda | `Ver como evitar` |
+| 2 | Segmento | `Farmácia, loja, depósito: onde o furto dói mais` | Versão por setor (reaproveita a campanha de farmácias, agora no público certo) | `Ver o caso do meu setor` |
+| 3 | Prova | `O que acontece nos primeiros 20 segundos` | Vídeo da névoa em ação e depoimento de cliente | `Assistir` |
+| 4 | Objeção | `É seguro para as pessoas e para a mercadoria?` | Respostas às dúvidas comuns: saúde, resíduo, disparo acidental, seguro | `Tirar minha dúvida` |
+| 5 | Oferta | `Uma visita técnica sem compromisso` | Convite para avaliação do local ou demonstração | `Agendar visita` |
 
-Cada clique em link de oferta, tabela ou agendamento adiciona a tag `Lead quente`.
+### 8.4 Relacionamento com o canal (1 e-mail por mês)
 
-### 8.4 Lead quente para o comercial
+**Para quem:** Canal decisor, Canal técnico e Canal comercial.
+**Objetivo:** manter o canal informado e pronto para atender a demanda do comércio, sem gastar esforço de venda com quem a empresa não prioriza. Revisar este fluxo depois da definição do Carlos sobre o papel do integrador.
+
+| Mês | Tema |
+|---|---|
+| 1 | O que é o produto e por que o comércio vai começar a perguntar sobre ele |
+| 2 | Como funciona a instalação e onde não instalar (versão técnica) |
+| 3 | Programa de parceiro instalador, se existir |
+
+Em todos os fluxos, cada clique em oferta, visita ou agendamento adiciona a tag `Lead quente`.
+
+### 8.5 Lead quente para o comercial
 
 **Gatilho:** tag `Lead quente`.
 **Ação:** automação envia e-mail de confirmação ao contato ("Recebemos seu interesse, [nome do vendedor] vai te chamar até amanhã") e o comercial recebe a lista diária. No Mailchimp isso pode ser feito com a notificação de tag por e-mail, integração com o CRM do cliente ou exportação diária do segmento.
 **Meta:** contato do comercial em até 24h. Sem esse passo, o e-mail continua gerando clique e nenhuma venda.
 
-### 8.5 Despedida (sunset)
+### 8.6 Despedida (sunset)
 
 **Gatilho:** entra no segmento Inativos, ou não clicou em nenhum e-mail da reativação.
 
@@ -268,12 +318,14 @@ Cada clique em link de oferta, tabela ou agendamento adiciona a tag `Lead quente
 * Botão: `Quero continuar`
 * Quem não clicar em 14 dias é arquivado. Arquivar não apaga o histórico e reduz o custo do plano.
 
-### 8.6 Belém (ação pontual)
+### 8.7 Belém (ação pontual)
 
-O evento foi em julho, então o timing de pós evento já passou. Uma única ação regional:
+O evento foi em julho, a lista é geral da Abese e 100% de empresas de segurança. Pela nova direção, Belém só vale uma ação se houver representante ou parceiro instalador no Pará. Se houver:
 
-* **Presentes (122):** `Novidade para as empresas de segurança de Belém`, convite para demonstração local ou visita do representante na região.
-* **Ausentes (169):** `O que você perdeu na Abese Belém`, vídeo ou material do evento e o mesmo convite.
+* **Presentes (122):** `Nos vimos no evento da Abese em Belém`, apresentação do produto e convite para demonstração local.
+* **Ausentes (169):** a mesma apresentação, sem citar presença.
+
+Se não houver, esses contatos seguem só o fluxo mensal do canal.
 
 ---
 
@@ -281,12 +333,12 @@ O evento foi em julho, então o timing de pós evento já passou. Uma única aç
 
 | Semana | Ação |
 |---|---|
-| 1 | Limpeza (seção 6), apagar campo CPF, reimportação com tags, verificação do domínio, criação dos segmentos |
-| 2 | Produção das copies e artes. Configurar UTM e nomes padronizados |
+| 1 | Aprovação da limpeza pelo cliente. Limpeza (seção 6), apagar campo CPF, reimportação com tags, verificação do domínio, criação dos segmentos. Subir o segmento Usuário final e a lista geral como público de remarketing no Meta |
+| 2 | Devolutiva do Carlos sobre slogan e papel do canal. Ajuste e aprovação das copies. Configurar UTM e nomes padronizados |
 | 3 | Reativação, e-mails 1 e 2. Envio primeiro para Engajados, depois para o restante |
-| 4 | Reativação, e-mail 3. Ação Belém |
+| 4 | Reativação, e-mail 3. Ação Belém, se houver parceiro no Pará |
 | 5 | Ligar despedida e lead quente. Arquivar quem não reagiu |
-| 6 | Ligar nutrição do canal e boas vindas pós evento (fica pronta para a próxima feira) |
+| 6 | Ligar nutrição do usuário final, relacionamento mensal do canal e boas vindas (recebe os leads novos de tráfego pago e eventos) |
 | 8 | Primeira revisão de resultados |
 
 ---
@@ -301,6 +353,7 @@ Com base no ponto de partida atual (abertura real ~10%, clique 0,23%):
 | Taxa de rejeição | 1,6% | abaixo de 0,5% | Entrega por canal |
 | Descadastro por envio | 0,3% a 0,5% | abaixo de 0,3% | Relatório da campanha |
 | Leads quentes por mês | não medido | 10 ou mais | Segmento Lead quente |
+| Novos contatos de usuário final por mês | 0 | Definir com a meta de tráfego | Tag de origem das campanhas pagas |
 | Reuniões ou pedidos de tabela vindos de e-mail | não medido | Definir com o cliente | CRM, via UTM |
 
 A abertura deixa de ser o indicador principal. Com o Apple Mail inflando os números, o que interessa é clique e lead passado para o comercial.
@@ -309,10 +362,13 @@ A abertura deixa de ser o indicador principal. Com o Apple Mail inflando os núm
 
 ## 11. O que falta do cliente
 
-1. **Qual foi o evento de junho** e se a lista é de inscritos ou de presentes.
-2. **Portfólio e modelo de venda:** confirmar se o foco é revenda para integradores (Antintruder, Stop Now e outros) e se existe tabela ou programa de parceiros.
-3. **Quem atende os leads** e em que CRM ou canal (WhatsApp, e-mail, planilha).
-4. **Plano do Mailchimp:** se é Essentials ou Standard. Customer Journeys com ramificação e múltiplos passos dependem do plano.
-5. **Status do domínio de envio** (SPF, DKIM, DMARC).
-6. **Material disponível:** vídeos de demonstração, casos de clientes, fotos de instalação. Os fluxos dependem disso para ter o que mostrar.
-7. **Atividade por campanha** (Opened e Clicked de cada relatório) se quiser a lista nominal de engajados e inativos antes da reativação.
+1. **Evento de junho:** respondido, Exposec, visitantes do estande.
+2. **Foco comercial:** respondido, público final, principalmente comércio. **Falta:** quem instala e atende o comerciante interessado (a própria BR Segurança ou integrador) e se existe programa de parceiro instalador.
+3. **Devolutiva do Carlos** sobre slogan, direção de mensagem e papel do canal. Bloqueia o disparo das copies.
+4. **Aprovação da limpeza** da seção 6.
+5. **Excel original das listas** que a Monique ofereceu, para separar quem conversou no estande.
+6. **Quem atende os leads** e em que CRM ou canal (WhatsApp, e-mail, planilha).
+7. **Plano do Mailchimp:** se é Essentials ou Standard (a Monique acredita que o limite é de 1.500 contatos). Customer Journeys com ramificação e múltiplos passos dependem do plano.
+8. **Status do domínio de envio** (SPF, DKIM, DMARC).
+9. **Material disponível:** vídeos de demonstração, casos de clientes, fotos de instalação. Os fluxos dependem disso para ter o que mostrar.
+10. **Atividade por campanha** (Opened e Clicked de cada relatório) se quiser a lista nominal de engajados e inativos antes da reativação.
