@@ -195,6 +195,24 @@ Depois dessa limpeza a base ativa fica em torno de **886 contatos**. Parece meno
 
 **Sobre autenticação do domínio:** conferir em Website > Domains se o domínio de envio está verificado e autenticado (SPF e DKIM) e se existe registro DMARC. A taxa de rejeição acima de 1,5% combinada com envio de domínio não autenticado é o caminho mais rápido para cair em spam no Gmail e no Outlook.
 
+### 6.1 Plano contratado e o que ele muda
+
+| Item | Situação (print da conta) |
+|---|---|
+| Plano | Standard |
+| Contatos cobrados | 1.169 de 1.500 (331 livres) |
+| Envios no ciclo atual | 225 de 18.000 |
+| Próxima cobrança | R$ 94,97 em 18/10/2026 |
+| Excedente | R$ 28,00 por mês a cada 150 contatos extras |
+| E-mails criados / automações / formulários | 10 / 0 / 1 |
+
+O que isso significa:
+
+1. **O plano comporta tudo o que este documento propõe.** O Standard libera Customer Journeys com vários passos e ramificação, envio no melhor horário por contato e testes A/B. Não é preciso trocar de plano nem de ferramenta. O problema nunca foi a ferramenta, é que nenhum recurso dela está sendo usado: zero automações.
+2. **Existem 223 contatos cobrados que não estão na audiência analisada.** A audiência "BR Security" tem 946 contatos contando descadastrados (os limpos não entram na cobrança). A conta cobra 1.169. As hipóteses são: uma segunda audiência na conta, contatos novos entrando pelo formulário ativo, ou uma importação feita depois do export. Os 225 envios já registrados neste ciclo, com o último e-mail em 17/08, reforçam que houve um disparo recente para um grupo de tamanho parecido. **Isso precisa ser verificado antes da limpeza**, em Audience > All contacts (trocar a audiência no seletor) e em Campaigns.
+3. **Sobra pouco espaço para crescer.** São 331 contatos livres. A estratégia de construir base de usuário final com tráfego pago pode encher isso em poucas semanas. Arquivar descadastrados, bounces recorrentes e, depois, os inativos da despedida (8.6) é o que mantém a conta dentro da faixa atual sem pagar excedente. Contatos arquivados não contam na cobrança.
+4. **A regra de pôr do sol deixa de ser só boa prática e vira economia.** Cada 150 contatos inativos mantidos custa R$ 28 por mês depois que a faixa estourar.
+
 ---
 
 ## 7. Segmentação
@@ -333,7 +351,7 @@ Se não houver, esses contatos seguem só o fluxo mensal do canal.
 
 | Semana | Ação |
 |---|---|
-| 1 | Aprovação da limpeza pelo cliente. Limpeza (seção 6), apagar campo CPF, reimportação com tags, verificação do domínio, criação dos segmentos. Subir o segmento Usuário final e a lista geral como público de remarketing no Meta |
+| 1 | Localizar os 223 contatos cobrados fora da audiência analisada. Aprovação da limpeza pelo cliente. Limpeza (seção 6), apagar campo CPF, reimportação com tags, verificação do domínio, criação dos segmentos. Subir o segmento Usuário final e a lista geral como público de remarketing no Meta |
 | 2 | Devolutiva do Carlos sobre slogan e papel do canal. Ajuste e aprovação das copies. Configurar UTM e nomes padronizados |
 | 3 | Reativação, e-mails 1 e 2. Envio primeiro para Engajados, depois para o restante |
 | 4 | Reativação, e-mail 3. Ação Belém, se houver parceiro no Pará |
@@ -368,7 +386,7 @@ A abertura deixa de ser o indicador principal. Com o Apple Mail inflando os núm
 4. **Aprovação da limpeza** da seção 6.
 5. **Excel original das listas** que a Monique ofereceu, para separar quem conversou no estande.
 6. **Quem atende os leads** e em que CRM ou canal (WhatsApp, e-mail, planilha).
-7. **Plano do Mailchimp:** se é Essentials ou Standard (a Monique acredita que o limite é de 1.500 contatos). Customer Journeys com ramificação e múltiplos passos dependem do plano.
+7. **Contatos a mais na conta:** o plano cobra 1.169 contatos, mas a audiência exportada tem 946 (sem os limpos). Descobrir de onde vêm os 223 de diferença (seção 6.1).
 8. **Status do domínio de envio** (SPF, DKIM, DMARC).
 9. **Material disponível:** vídeos de demonstração, casos de clientes, fotos de instalação. Os fluxos dependem disso para ter o que mostrar.
 10. **Atividade por campanha** (Opened e Clicked de cada relatório) se quiser a lista nominal de engajados e inativos antes da reativação.
