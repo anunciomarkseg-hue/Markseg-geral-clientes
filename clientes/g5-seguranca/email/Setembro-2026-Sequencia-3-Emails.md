@@ -16,7 +16,7 @@ Três disparos derivados dos temas de blog de setembro (Conecta Muralha, anális
 
 | Data | E-mail | Segmento | Técnica | Artigo de destino |
 |---|---|---|---|---|
-| Terça, 15/09 | 1. Conecta Muralha | Base completa | PAS | Como escolher uma empresa de segurança confiável |
+| A definir, outubro | 1. Conecta Muralha | Base completa | PAS | G5 passa a integrar o Conecta Muralha |
 | Terça, 22/09 | 2. Análise inteligente e leitura de placas | B2B | Story-Selling + Before/After | CFTV empresarial: como planejar |
 | Terça, 29/09 | 3. Decisão do STJ sobre controle de acesso | Condominial | Gancho de autoridade + PAS | Visita técnica, sem página de blog |
 
@@ -26,8 +26,8 @@ Todos os CTAs levam a textos que já estão prontos e revisados. Nenhum e-mail d
 
 | E-mail | Artigo de destino | URL |
 |---|---|---|
-| 1 | Como escolher uma empresa de segurança confiável | /blog/como-escolher-empresa-de-seguranca-confiavel |
-| 2 | CFTV empresarial: como planejar câmeras, gravação e monitoramento | /blog/cftv-empresarial-como-planejar |
+| 1 | G5 Segurança passa a integrar o Conecta Muralha | /g5-seguranca-passa-a-integrar-o-conecta-muralha/ |
+| 2 | CFTV empresarial: como planejar câmeras, gravação e monitoramento | /cftv-empresarial-como-planejar/ |
 | 3 | Visita técnica agendada por resposta ou formulário | /fale-conosco/ (matéria do STJ como link no corpo) |
 
 O tema da Muralha Digital continua sendo o gancho de abertura dos três e-mails, porque é o que diferencia a G5 no momento. O que muda é o destino do clique: em vez de prometer um guia que ainda não existe, cada e-mail entrega a informação da Muralha no próprio corpo e leva o leitor para um conteúdo publicado que responde à pergunta seguinte.
@@ -57,13 +57,13 @@ Foi para resolver isso que a Prefeitura criou o Conecta Muralha, o programa que 
 
 Integrar não é ligar um cabo. O interessado precisa ser pessoa jurídica ou condomínio, a empresa de segurança envolvida precisa ser credenciada na Polícia Federal e estar com tributos e alvarás em dia, e o projeto técnico passa pela análise do Comitê Gestor de Videomonitoramento antes da autorização.
 
-[BLOCO DE PROVA: status da G5 no programa. Preencher com a informação confirmada, por exemplo número de câmeras já integradas ou data do licenciamento. Não publicar sem confirmação documental.]
+A G5 integra o Conecta Muralha. Na prática, isso significa que passamos pelo mesmo filtro que o programa exige de qualquer participante: credenciamento na Polícia Federal, regularidade fiscal e projeto técnico aprovado pelo Comitê Gestor de Videomonitoramento da Prefeitura. Não é um selo de marketing, é uma checagem documental.
 
 Repare no que esses requisitos revelam. Uma empresa que não é credenciada na Polícia Federal, que não tem projeto técnico em ordem e que não consegue aprovar uma análise da Prefeitura simplesmente não integra nada. O programa acabou virando um filtro de qualidade de fornecedor, e vale usar esse critério mesmo que você não pretenda integrar câmera nenhuma.
 
-Reunimos em um guia os pontos que separam uma empresa de segurança preparada de uma que vende equipamento com mensalidade: central própria ou terceirizada, protocolo de atendimento por escrito, escopo real de manutenção e o que perguntar antes de assinar.
+Escrevemos no blog o que o programa é, quem pode participar e o que muda quando a câmera privada passa a conversar com a malha pública da cidade.
 
-**[BOTÃO: Ver os critérios para avaliar sua empresa de segurança]**
+**[BOTÃO: Ver como a G5 participa do Conecta Muralha]**
 
 Um abraço,
 [Nome] | [Cargo]
@@ -181,7 +181,7 @@ Amanda Sanchez
 
 # Notas de execução
 
-**Antes de disparar o E-mail 1:** confirmar documentalmente o status da G5 no Conecta Muralha. A afirmação é verificável junto à Prefeitura e não deve ir ao ar sem comprovação. Se o licenciamento ainda estiver em análise, trocar o bloco de prova por uma formulação factual, como "estamos em processo de licenciamento", que também comunica movimento sem risco.
+**Bloco de prova do E-mail 1:** está na versão segura, que repete apenas o que a G5 já publicou no próprio site e destaca o filtro de credenciamento exigido pelo programa. Não cita número de câmeras nem data de licenciamento, porque não existe fonte pública para esses dados. Quando o cliente enviar o licenciamento emitido pela Secretaria de Defesa Social e Trânsito, com protocolo e data, o bloco pode ser trocado pela versão com números.
 
 **Prova social:** os e-mails usam apenas números públicos da Prefeitura. Qualquer dado da própria G5, como número de câmeras monitoradas, tempo médio de resposta ou depoimento de cliente, deve entrar somente com dado real e autorização de uso.
 
