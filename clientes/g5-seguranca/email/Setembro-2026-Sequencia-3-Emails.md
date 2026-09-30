@@ -18,7 +18,7 @@ Três disparos derivados dos temas de blog de setembro (Conecta Muralha, anális
 |---|---|---|---|---|
 | Terça, 15/09 | 1. Conecta Muralha | Base completa | PAS | Como escolher uma empresa de segurança confiável |
 | Terça, 22/09 | 2. Análise inteligente e leitura de placas | B2B | Story-Selling + Before/After | CFTV empresarial: como planejar |
-| Terça, 29/09 | 3. Condomínio na Muralha | Condominial | PASTOR comprimido + urgência real | Como melhorar a segurança do condomínio |
+| Terça, 29/09 | 3. Decisão do STJ sobre controle de acesso | Condominial | Gancho de autoridade + PAS | Visita técnica, sem página de blog |
 
 ## Para onde cada botão aponta
 
@@ -28,7 +28,7 @@ Todos os CTAs levam a textos que já estão prontos e revisados. Nenhum e-mail d
 |---|---|---|
 | 1 | Como escolher uma empresa de segurança confiável | /blog/como-escolher-empresa-de-seguranca-confiavel |
 | 2 | CFTV empresarial: como planejar câmeras, gravação e monitoramento | /blog/cftv-empresarial-como-planejar |
-| 3 | Como melhorar a segurança do condomínio | /blog/como-melhorar-seguranca-do-condominio |
+| 3 | Visita técnica agendada por resposta ou formulário | /fale-conosco/ (matéria do STJ como link no corpo) |
 
 O tema da Muralha Digital continua sendo o gancho de abertura dos três e-mails, porque é o que diferencia a G5 no momento. O que muda é o destino do clique: em vez de prometer um guia que ainda não existe, cada e-mail entrega a informação da Muralha no próprio corpo e leva o leitor para um conteúdo publicado que responde à pergunta seguinte.
 
@@ -119,46 +119,63 @@ G5 Segurança Integrada
 ---
 
 # E-MAIL 3 | Terça, 29/09 | Segmento condominial
-**Técnica: PASTOR comprimido com urgência legítima.** O prazo de análise do projeto técnico é real e cria a urgência sem precisar inventar escassez. É o e-mail de conversão da sequência.
+**Versão 2, substitui a anterior.** O cliente considerou a primeira versão repetitiva em relação ao E-mail 1, que já tratava da Muralha. Esta versão usa como gancho a decisão do STJ sobre responsabilidade do condomínio por falha no controle de acesso, o mesmo tema do vídeo produzido para as redes.
+
+**Técnica: gancho de autoridade com PAS comprimido.** A notícia faz o trabalho de agitação sozinha, então o corpo vai direto ao ponto decisivo da decisão e fecha em ação. É o e-mail de conversão do mês.
 
 **Linha de assunto (teste A/B)**
-- A: `Síndico: seu condomínio pode entrar na Muralha` (46 caracteres)
-- B: `Quem entrar agora só integra a Muralha em novembro` (50 caracteres)
+- A: `O porteiro liberou. O condomínio pagou a conta.` (47 caracteres)
+- B: `STJ: falha na portaria responsabiliza o condomínio` (50 caracteres)
 
-**Pré-header:** `A análise do projeto técnico leva cerca de 45 dias.`
+**Pré-header:** `A 3ª Turma manteve a condenação em 14 de setembro.`
 
 **Corpo:**
 
 Olá, [Nome].
 
-A pergunta chegou de três síndicos diferentes nas últimas semanas: o condomínio pode integrar as câmeras à Muralha Digital de Curitiba?
+Em 14 de setembro, a 3ª Turma do Superior Tribunal de Justiça manteve, por unanimidade, a condenação de um condomínio do Rio de Janeiro por um furto ocorrido dentro de um apartamento.
 
-Pode. E vale entender o processo antes da próxima assembleia, por um motivo prático que aparece no fim deste e-mail.
+Vale prestar atenção no que foi decisivo, porque não é o que a maioria imagina.
 
-**O que o condomínio precisa ter**
+O condomínio não foi responsabilizado por não ter segurança. Ele foi responsabilizado porque os criminosos entraram no prédio sem que a identidade fosse verificada e sem que o morador tivesse autorizado a entrada. A liberação partiu de um preposto do condomínio. A falha estava no procedimento, não no equipamento.
 
-O licenciamento é eletrônico, feito pelo Guia de Serviços da Prefeitura, e o Comitê Gestor de Videomonitoramento analisa o projeto técnico antes de autorizar. Na prática, o condomínio precisa de câmeras com qualidade suficiente para identificação, conectividade estável, posicionamento voltado à via pública e o acompanhamento de uma empresa de segurança credenciada na Polícia Federal.
+O condomínio ainda argumentou que a convenção não previa responsabilidade por furtos dentro das unidades. O argumento foi rejeitado.
 
-**O que costuma travar na assembleia**
+A decisão é o Recurso Especial 2.264.505, de relatoria da ministra Nancy Andrighi. [Leia a matéria completa aqui](https://www.condominiointerativo.com.br/noticia/5397/noticias/stj-mantem-condenacao-de-condominio-por-furto-apos-falha-no-controle-de-acesso.html).
 
-A objeção mais comum é a privacidade dos moradores, e ela merece resposta clara: a câmera integrada mira o espaço público, não o interior do condomínio. Áreas comuns, garagem e circulação interna continuam sob controle exclusivo do condomínio. Vale registrar essa decisão em ata junto com a política de acesso às imagens.
+**O que isso significa na prática**
 
-**Por que decidir agora**
+A responsabilidade do condomínio por crime praticado por terceiro não é automática. Ela aparece quando existe ação ou omissão negligente que contribui para o crime. E o que o tribunal examinou foi justamente o procedimento de identificação e liberação da portaria.
 
-A análise do projeto leva cerca de 45 dias. Um condomínio que aprovar o assunto na assembleia de outubro dificilmente estará integrado antes de novembro, e a adequação técnica que antecede o pedido também consome tempo. Quem começa em setembro entra na fila com folga.
+Traduzindo para a rotina: quem autorizou, como confirmou e onde isso ficou registrado deixaram de ser detalhe operacional e passaram a ser prova.
 
-Antes do formulário da Prefeitura, porém, vem uma pergunta mais simples: as câmeras do seu condomínio identificam placa e rosto nos acessos? Câmera que não identifica não serve para a integração, e também não serve para o condomínio.
+**E a conversa fica mais exigente daqui para frente**
 
-Reunimos em um guia as falhas de segurança que mais aparecem em condomínios de Curitiba, com a ordem de correção que dá mais resultado por menos investimento. É por aí que a conversa começa.
+A reforma do Código Civil, que tramita no Senado como Projeto de Lei 4 de 2025 e tem votação projetada para este semestre, caminha na mesma direção: profissionalização da gestão condominial, consolidação das assembleias eletrônicas e regras mais claras de responsabilidade. Enquanto o texto não é aprovado, valem as regras atuais. Mas a direção da discussão é uma só, e ela cobra procedimento documentado.
 
-**[BOTÃO: Ver as falhas mais comuns na segurança de condomínios]**
+**Quatro perguntas para levar à próxima assembleia**
 
-Se preferir avançar direto, respondemos este e-mail com uma visita técnica agendada. Avaliamos o que o seu condomínio já tem, o que falta e quanto custa a adequação, sem compromisso.
+Um visitante consegue entrar hoje sem confirmação do morador?
 
-Um abraço,
-[Nome] | [Cargo]
-G5 Segurança Integrada
-[Telefone] | [WhatsApp]
+Existe registro de quem autorizou cada liberação, com data e hora?
+
+Prestadores recorrentes têm credencial com validade ou entram no reconhecimento do porteiro?
+
+O condomínio consegue reconstituir uma entrada de três meses atrás?
+
+Se a resposta de alguma delas for incômoda, o problema não está na tecnologia, está no protocolo. E protocolo se resolve antes do incidente, não depois.
+
+A G5 reúne portaria remota, controle de acesso e monitoramento 24 horas para organizar cada etapa do acesso, com protocolos definidos para a operação de cada condomínio e registro consultável de todas as liberações.
+
+**[BOTÃO: Avaliar o controle de acesso do meu condomínio]**
+
+A visita técnica é gratuita. Avaliamos o que o seu condomínio já tem, onde estão as brechas de procedimento e o que precisa mudar, sem compromisso.
+
+Abraços,
+Amanda Sanchez
+(41) 3045-9518
+
+*P.S. A decisão não criou regra nova. Ela aplicou a regra que já existe a um caso concreto de portaria. É por isso que ela funciona tão bem como pauta de assembleia.*
 
 ---
 
