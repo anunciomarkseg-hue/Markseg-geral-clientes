@@ -106,7 +106,7 @@ Quer conhecer de perto a estrutura de gerenciamento de riscos da Global5? Conver
 
 **Meta description:** Em entrevista à Revista Seguro Total, Kelly Simões fala de liderança, tecnologia própria, Estatuto da Segurança Privada e do futuro do gerenciamento de riscos.
 
-**Slug:** /global5-capa-revista-seguro-total/
+**Slug:** /revista-seguro-total-capa-com-kelly-simoes-global5/ (publicado)
 
 **Imagem de destaque:** Destaque-Global5-Revista-Seguro-Total.jpg (1680 x 944)
 
