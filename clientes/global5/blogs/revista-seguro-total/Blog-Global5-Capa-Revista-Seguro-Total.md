@@ -90,7 +90,7 @@ A entrevista na íntegra e todos os conteúdos da edição 262 estão disponíve
 
 [Acesse a publicação original na Revista Seguro Total](https://revistasegurototal.com.br/2026/10/01/revista-seguro-total-riscos-inovacao-seguranca/)
 
-*Crédito: entrevista e informações publicadas pela Revista Seguro Total, edição 262. Imagem de capa reproduzida da publicação.*
+*Crédito: entrevista e informações publicadas pela Revista Seguro Total, edição 262.*
 
 Quer conhecer de perto a estrutura de gerenciamento de riscos da Global5? Converse com um especialista pelo (41) 98748-3673 ou acesse [www.global5.com.br](https://www.global5.com.br).
 
@@ -110,7 +110,7 @@ Quer conhecer de perto a estrutura de gerenciamento de riscos da Global5? Conver
 
 **Imagem de destaque:** Destaque-Global5-Revista-Seguro-Total.jpg (1680 x 944)
 
-**Texto alternativo da imagem:** Logo da Global5 ao lado da capa da edição 262 da Revista Seguro Total com Kelly Simões
+**Texto alternativo da imagem:** Logo da Global5 sobre fundo azul com rede de pontos conectados representando monitoramento e inteligência de dados
 
 **Links internos:** Blog 1 (O que é gerenciamento de risco no transporte de cargas) no trecho sobre a Torre de Controle; Blog 4 (Análise cadastral de motoristas e veículos), quando publicado, no trecho sobre tecnologia própria.
 
