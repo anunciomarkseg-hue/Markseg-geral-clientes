@@ -262,7 +262,7 @@ Usar de 3 a 5 por post, sempre sem acento, para não dividir a busca:
 
 1. **A palavra-chave aparece nas duas primeiras linhas.** Essas linhas aparecem antes do "ver mais" e são as que mais pesam na busca.
 2. **A primeira linha é um gancho**, uma afirmação forte ou um dado, nunca "Você sabia que...".
-3. **Texto entre 600 e 1.300 caracteres** para posts de conteúdo, com parágrafos curtos.
+3. **Texto entre 1.800 e 2.900 caracteres** para posts de conteúdo, denso e reflexivo, com parágrafos curtos para facilitar a leitura no celular. O limite do LinkedIn é de 3.000 caracteres.
 4. **Link para o blog no primeiro comentário**, não no corpo do post. Profissionais do LinkedIn observam que posts com link externo no texto tendem a ser menos distribuídos. No post, escreva "link do artigo completo nos comentários".
 5. **Pergunta no fim**, para estimular comentários de quem é do setor.
 6. **De 3 a 5 hashtags padronizadas**, no fim do texto.

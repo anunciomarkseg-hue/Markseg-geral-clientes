@@ -1,0 +1,452 @@
+# Global5 | Textos para o LinkedIn | Mês 1
+## Autoridade e reconhecimento (19/10 a 15/11/2026)
+
+Os textos seguem o calendário do plano estratégico. Os posts principais são mais longos e reflexivos, entre 1.800 e 2.300 caracteres, abaixo do limite de 3.000 do LinkedIn. Vídeo e enquete têm textos mais curtos, porque o formato pede. Todo link vai no primeiro comentário, com marcação de campanha para medir no Analytics.
+
+Os posts da Kelly estão escritos em primeira pessoa, com base no que ela disse na entrevista à Revista Seguro Total. Mesmo assim, precisam da aprovação dela antes de sair, e ela pode ajustar qualquer frase para soar mais com o jeito dela de falar.
+
+---
+
+## SEMANA 1
+
+### Post 1 | Página da empresa | Terça, 20/10
+**Formato:** documento em PDF (carrossel de 8 telas)
+**Palavra-chave:** gerenciadora de risco
+**Título do documento no LinkedIn:** 5 lições sobre gerenciamento de risco, da entrevista da CEO da Global5 à Revista Seguro Total
+
+**Texto do post:**
+
+Toda gerenciadora de risco diz que é rápida. Poucas conseguem explicar o que fazem para que essa velocidade não vire risco.
+
+Essa foi a pergunta que atravessou a entrevista da nossa CEO, Kelly Simões, capa da edição 262 da Revista Seguro Total. E a resposta dela cabe em uma frase: em gerenciamento de risco, não basta decidir rápido, é preciso decidir rápido e com segurança.
+
+Parece óbvio. Na prática, não é.
+
+No transporte de cargas, a pressão por agilidade é real. Um veículo parado esperando a liberação de um cadastro custa dinheiro. Uma decisão que demora durante a viagem pode custar muito mais. Por isso, o mercado aprendeu a valorizar quem responde rápido.
+
+O problema é que a velocidade, sozinha, não diz nada sobre a qualidade da decisão. Liberar um motorista em cinco minutos sem conferir o que precisava ser conferido não é eficiência. É risco transferido para a estrada.
+
+Reunimos neste documento cinco lições da entrevista que ajudam a pensar essa equação:
+
+1. Velocidade sem critério é só pressa.
+2. A tecnologia deve preparar a decisão, não substituir quem decide.
+3. Qualidade não pode depender de quem está de plantão.
+4. Monitorar não é só saber onde o veículo está.
+5. Quando o mercado eleva a régua, ganha espaço quem investiu antes.
+
+Nenhuma delas é uma fórmula pronta. São princípios que orientam como a Global5 estrutura a análise cadastral, o monitoramento 24 horas e a torre de controle, e que valem para qualquer operação que queira olhar para o próprio gerenciamento de risco com mais honestidade.
+
+Uma pergunta para quem está na operação: na sua empresa, quando a pressa e o critério entram em conflito, quem decide qual dos dois vence?
+
+A entrevista completa está no link do primeiro comentário.
+
+#Global5 #GerenciamentoDeRisco #TransporteDeCargas #SeguroDeTransporte #Logistica
+
+**Primeiro comentário:**
+A matéria completa sobre a entrevista da Kelly Simões à Revista Seguro Total está aqui: https://global5.com.br/revista-seguro-total-capa-com-kelly-simoes-global5/?utm_source=linkedin&utm_medium=social&utm_campaign=revista
+
+**Marcações:** Revista Seguro Total (página) e Kelly Simões (perfil).
+
+**Telas do documento:**
+
+| Tela | Texto |
+|---|---|
+| 1 | **5 lições sobre gerenciamento de risco** · Da entrevista da CEO da Global5, Kelly Simões, à Revista Seguro Total |
+| 2 | **1. Velocidade sem critério é só pressa** · Liberar rápido é fácil. Liberar rápido com segurança exige processo, dados e regras claras. |
+| 3 | **2. A tecnologia prepara a decisão** · Biometria facial, OCR e regras automatizadas aceleram a análise para que a equipe tenha tempo para o que exige olhar humano. |
+| 4 | **3. Qualidade não depende do plantão** · Manuais de decisão por nível de risco, simulações e processos documentados garantem o mesmo padrão em qualquer horário. |
+| 5 | **4. Monitorar vai além da localização** · A torre de controle transforma dados da viagem em alertas, indicadores e decisões. |
+| 6 | **5. O mercado está elevando a régua** · O Novo Estatuto da Segurança Privada valoriza quem tem estrutura, processo, tecnologia e gente preparada. |
+| 7 | **"Em gerenciamento de risco, não basta decidir rápido. É preciso decidir rápido e com segurança."** · Kelly Simões, CEO da Global5 |
+| 8 | **Leia a entrevista completa** · Revista Seguro Total, edição 262 · global5.com.br |
+
+---
+
+### Post 2 | Perfil da Kelly Simões | Quinta, 22/10
+**Formato:** texto com foto da capa da revista ou foto profissional dela
+**Palavra-chave:** gerenciamento de risco no transporte
+
+**Texto do post:**
+
+Em 1998, quando entrei no setor de segurança privada, eu não tinha um plano de carreira desenhado. Foi uma circunstância do momento. Eu vinha de uma estrutura de negócios familiar, onde aprendi gestão passando por cada área antes de liderar qualquer uma delas.
+
+Levei isso comigo: organização, processo e a capacidade de decidir com segurança, independentemente da complexidade.
+
+Ser mulher em um ambiente predominantemente masculino gerou atenção em alguns momentos, sim. Mas quando você entrega resultado, essa atenção vira respeito.
+
+O que esses anos me ensinaram, acima de tudo, foi a ler uma operação de verdade. Nessa área, os erros aparecem rápido e custam caro. Não existe espaço para improviso quando uma carga está na estrada e alguém precisa decidir o próximo passo.
+
+Foi assim que entendi uma coisa que hoje guia tudo o que fazemos na Global5: liderar não é estar em tudo, é garantir que tudo funcione mesmo quando você não está.
+
+Isso muda a forma de construir uma empresa. Em vez de concentrar decisões, você investe em processos definidos, em um time bem preparado e na confiança nas pessoas que colocou em cada posição. A qualidade passa a ser do sistema, não de quem está presente naquele dia.
+
+Neste mês, sou capa da edição 262 da Revista Seguro Total. É um reconhecimento que tem um significado especial para mim, porque representa o trabalho de muita gente.
+
+Se eu penso na mulher que entrou nesse setor em 1998, ela não imaginava chegar até aqui. Talvez nem soubesse o quanto precisaria provar, todos os dias, que merecia estar na sala. Hoje eu não sinto mais essa necessidade. Não porque parei de ser observada, mas porque aprendi a confiar no que construí e em quem me tornei ao longo do caminho.
+
+Na entrevista, falei sobre isso e sobre outros temas que considero decisivos para o nosso mercado: tecnologia própria, o Novo Estatuto da Segurança Privada, o papel do corretor especializado em transporte e o futuro do gerenciamento de risco no Brasil.
+
+Agradeço à Revista Seguro Total pelo espaço e a cada pessoa da Global5 que faz isso acontecer todos os dias.
+
+Deixo o link da entrevista nos comentários.
+
+#GerenciamentoDeRisco #Lideranca #TransporteDeCargas #SegurancaPrivada #Global5
+
+**Primeiro comentário:**
+A matéria completa está aqui: https://global5.com.br/revista-seguro-total-capa-com-kelly-simoes-global5/?utm_source=linkedin&utm_medium=social&utm_campaign=revista_kelly
+
+---
+
+## SEMANA 2
+
+### Post 3 | Página da empresa | Terça, 27/10
+**Formato:** texto com imagem de capa do Blog 1
+**Palavra-chave:** gerenciamento de risco no transporte de cargas
+
+**Texto do post:**
+
+Ter um rastreador no caminhão não significa ter gerenciamento de risco no transporte de cargas.
+
+Essa confusão é mais comum do que parece, e custa caro. Muitas empresas acreditam que estão protegidas porque conseguem ver onde o veículo está a qualquer momento. Só que saber a localização é apenas um dado. O que importa é o que se faz com ele.
+
+Pense em uma parada não prevista às duas da manhã. O rastreador mostra que o veículo está parado. Mas está parado por quê? É um posto autorizado ou um ponto fora da rota? O motorista avisou? Aquele trecho tem histórico de ocorrências? A parada está dentro do tempo esperado para aquela operação?
+
+O rastreamento responde onde. O gerenciamento de risco responde o que isso significa e o que fazer agora.
+
+Por isso, uma estrutura de gerenciamento de risco começa antes de o veículo sair e envolve etapas que o rastreador, sozinho, não cobre:
+
+Análise das características da operação. Tipo de carga, rota, horários e exigências do embarcador e da apólice mudam o nível de exposição.
+
+Análise cadastral de motoristas e veículos. A qualidade da informação antes da viagem define a qualidade do acompanhamento durante a viagem.
+
+Definição de parâmetros. Sem saber o que é comportamento esperado, ninguém consegue identificar o que é desvio.
+
+Monitoramento com interpretação. Não basta receber alertas. É preciso alguém preparado para entender o contexto e agir.
+
+Resposta. Quanto menor o tempo entre perceber uma situação fora do padrão e decidir o que fazer, maior a capacidade de proteger a carga e o motorista.
+
+Nada disso elimina o risco. Risco zero não existe em operação logística. O objetivo é mitigar a exposição, ampliar a capacidade de perceber o que está fora do padrão e melhorar a resposta quando algo acontece.
+
+A diferença entre uma empresa que tem rastreador e uma empresa que gerencia risco aparece justamente nos momentos em que algo sai do planejado.
+
+Escrevemos um guia completo sobre o tema, com cada etapa explicada. O link está no primeiro comentário.
+
+E fica a pergunta: na sua operação, quando um alerta dispara de madrugada, quem decide o que fazer e com base em quê?
+
+#Global5 #GerenciamentoDeRisco #TransporteDeCargas #RastreamentoDeCargas #Logistica
+
+**Primeiro comentário:**
+Guia completo: O que é gerenciamento de risco no transporte de cargas. https://global5.com.br/gerenciamento-de-risco-transporte-de-cargas/?utm_source=linkedin&utm_medium=social&utm_campaign=blog1
+
+---
+
+### Post 4 | Perfil da Kelly Simões | Quinta, 29/10
+**Formato:** texto
+**Palavra-chave:** Estatuto da Segurança Privada
+
+**Texto do post:**
+
+Durante muito tempo, o gerenciamento de risco no transporte de cargas foi uma atividade fundamental para a logística brasileira, mas sem um enquadramento regulatório claro.
+
+Isso está mudando com o Novo Estatuto da Segurança Privada. E eu vejo essa mudança como uma das mais importantes para o nosso setor nos últimos anos.
+
+A aproximação entre gerenciamento de risco e segurança privada reconhece algo que quem está na operação sempre soube: proteger uma carga não é só uma questão de tecnologia. É prevenção, inteligência, capacidade de resposta e gente preparada, tudo funcionando de forma integrada.
+
+Para a Global5, essa conexão é natural. Nascemos em 2009 com o DNA da segurança privada, e essa origem está na forma como estruturamos processos, desenvolvemos nossa tecnologia e, principalmente, enxergamos a prevenção.
+
+Mas quero falar do impacto para o mercado como um todo.
+
+O novo ambiente regulatório tende a elevar o nível de exigência. Empresas com estrutura, processos bem definidos, equipes qualificadas e tecnologia ganham espaço. Quem trabalhava no improviso vai sentir a diferença.
+
+Isso também muda a conversa para quem contrata. A escolha de uma gerenciadora de risco passa a envolver perguntas que antes nem sempre eram feitas: essa empresa está preparada para as novas exigências? Os processos são documentados? A equipe é treinada? A tecnologia acompanha o que a regulação pede?
+
+E muda a conversa para corretores e seguradoras, que precisam entender o novo cenário para orientar seus clientes e avaliar com mais critério a gestão de risco das operações que seguram. No Caderno de Gerenciamento de Riscos da mesma edição da Revista Seguro Total, a GRISTEC detalha esse impacto e lembra que o prazo de adequação vai até setembro de 2027.
+
+Não vejo a regulamentação como um peso. Vejo como uma oportunidade de profissionalizar ainda mais um setor que faz um trabalho essencial nos bastidores da economia.
+
+No fim, quando o mercado eleva a régua, quem investe continuamente em estrutura, tecnologia, pessoas e processos também ganha espaço para crescer.
+
+Quero ouvir quem está do outro lado: transportadores, corretores e seguradoras, como vocês estão se preparando para essa mudança?
+
+#SegurancaPrivada #GerenciamentoDeRisco #TransporteDeCargas #SeguroDeTransporte #Global5
+
+**Primeiro comentário:**
+Falei mais sobre o Estatuto na entrevista à Revista Seguro Total: https://global5.com.br/revista-seguro-total-capa-com-kelly-simoes-global5/?utm_source=linkedin&utm_medium=social&utm_campaign=estatuto_kelly
+
+---
+
+## SEMANA 3
+
+### Post 5 | Página da empresa | Terça, 03/11
+**Formato:** documento em PDF (carrossel de 9 telas)
+**Palavra-chave:** roubo de carga
+**Título do documento no LinkedIn:** 7 estratégias para reduzir o roubo de carga no transporte rodoviário
+
+**Texto do post:**
+
+Não existe uma única medida capaz de evitar o roubo de carga. Quem promete isso está vendendo uma ilusão.
+
+O que existe é um conjunto de camadas que, juntas, reduzem a exposição da operação e aumentam a capacidade de resposta quando algo foge do padrão. E a maioria dos problemas que vemos no dia a dia não acontece por falta de tecnologia, mas por falta de conexão entre as etapas.
+
+Uma empresa faz uma boa análise antes da viagem, mas o monitoramento não conhece os critérios definidos. Outra tem um ótimo rastreador, mas ninguém interpreta os alertas fora do horário comercial. Uma terceira tem tudo isso, mas cada informação está em um sistema diferente, e a equipe perde minutos preciosos juntando as peças.
+
+Em segurança de carga, minutos fazem diferença.
+
+Reunimos no documento sete estratégias que, combinadas, formam uma estrutura de prevenção:
+
+1. Conhecer o perfil de risco de cada operação, em vez de aplicar o mesmo controle para todas as viagens.
+2. Fazer a análise cadastral de motoristas e veículos, juntos e no mesmo contexto.
+3. Definir parâmetros antes de a viagem começar, para saber o que é normal e o que é desvio.
+4. Não confundir rastreamento com gerenciamento de risco.
+5. Manter monitoramento durante toda a operação, inclusive de madrugada, nos fins de semana e nos feriados.
+6. Centralizar as informações em uma torre de controle.
+7. Reduzir o tempo entre identificar uma situação e responder a ela.
+
+Um ponto merece atenção especial: segurança e eficiência não são objetivos opostos. Processos manuais e burocráticos tornam a operação lenta e não aumentam a proteção na mesma proporção. Com tecnologia bem aplicada, é possível ter controles mais rigorosos e respostas mais rápidas ao mesmo tempo.
+
+Outro ponto: a responsabilidade não pode ficar só com o motorista. Ele é peça central, mas precisa de processos claros, orientação e uma equipe de monitoramento que funcione como apoio, não como fiscal.
+
+Salve este documento para revisar com a sua equipe. O artigo completo, com cada estratégia explicada, está no primeiro comentário.
+
+Qual dessas sete etapas é hoje a mais frágil na sua operação?
+
+#Global5 #RouboDeCarga #GerenciamentoDeRisco #TransporteDeCargas #SegurancaNoTransporte
+
+**Primeiro comentário:**
+Artigo completo: Como reduzir o roubo de carga no transporte rodoviário. https://global5.com.br/como-reduzir-roubo-de-carga-transporte-rodoviario/?utm_source=linkedin&utm_medium=social&utm_campaign=blog2
+
+**Telas do documento:**
+
+| Tela | Texto |
+|---|---|
+| 1 | **7 estratégias para reduzir o roubo de carga** · No transporte rodoviário, a prevenção é feita em camadas |
+| 2 | **1. Conheça o perfil de risco** · Carga, rota, horário e exigências da apólice mudam a exposição. Cada viagem pede critérios próprios. |
+| 3 | **2. Analise motorista e veículo** · A análise cadastral precisa considerar os dois, no mesmo contexto, antes da liberação. |
+| 4 | **3. Defina parâmetros antes de sair** · Sem saber o que é esperado, ninguém identifica o que é desvio. |
+| 5 | **4. Rastrear não é gerenciar** · O rastreador mostra onde o veículo está. O gerenciamento de risco interpreta o que isso significa. |
+| 6 | **5. Monitore 24 horas** · O risco não respeita horário comercial. Madrugadas, fins de semana e feriados também precisam de acompanhamento. |
+| 7 | **6. Centralize na torre de controle** · Informação espalhada em vários sistemas atrasa a decisão. |
+| 8 | **7. Reduza o tempo de resposta** · Quanto antes uma situação é percebida e analisada, maior a chance de agir a tempo. |
+| 9 | **Segurança e eficiência caminham juntas** · Artigo completo em global5.com.br |
+
+---
+
+### Post 6 | Perfil da Kelly Simões | Quinta, 05/11
+**Formato:** texto
+**Palavra-chave:** tecnologia no gerenciamento de risco
+
+**Texto do post:**
+
+Vivemos um momento em que quase toda empresa quer automatizar tudo. No gerenciamento de risco, eu defendo um caminho diferente.
+
+A tecnologia nunca deve substituir o julgamento humano nos momentos que realmente importam. Ela deve preparar o terreno para que esse julgamento seja mais rápido e mais preciso.
+
+Vou dar um exemplo concreto. Na Global5, desenvolvemos uma plataforma própria de análise cadastral que combina biometria facial, OCR, integrações com diferentes fontes de informação e regras automatizadas. Ela valida dados, identifica divergências e direciona para a equipe aquilo que realmente exige avaliação mais aprofundada.
+
+Por que fizemos isso? Não foi para tirar pessoas do processo. Foi para liberar o tempo e a atenção delas para o que exige olhar humano: uma ocorrência em rota, uma decisão de risco em tempo real, um chamado de emergência.
+
+É por isso que mantemos atendimento humanizado e equipes de pronta resposta. A torre de controle entrega o dado e o alerta na velocidade certa, mas quem decide o próximo passo em uma emergência é gente treinada para isso, não um algoritmo.
+
+Existe uma ideia sedutora no mercado de que, quanto mais automatizado, melhor. Eu entendo o apelo. Mas automação sem suporte próximo vira eficiência vazia. Quando uma carga está em risco às três da manhã, o transportador não quer falar com um sistema. Ele quer alguém do outro lado que entenda o que está acontecendo e saiba agir.
+
+O equilíbrio que buscamos é este: tecnologia para dar velocidade, padronização e informação; pessoas para interpretar, decidir e responder.
+
+E existe um motivo estratégico para termos desenvolvido nossa própria tecnologia: autonomia. Conseguimos criar novas regras, integrar novas fontes e adaptar a solução à realidade de cada operação, sem depender do cronograma de outra empresa. Em um mercado que muda tão rápido, isso faz diferença.
+
+Nosso diferencial não é ter tecnologia. Hoje, muita gente tem. É usar a tecnologia para ampliar a capacidade humana, não para substituí-la.
+
+Para quem trabalha com operação: onde vocês acham que a automação ajuda de verdade, e onde ela ainda não substitui a experiência de quem está há anos na estrada?
+
+#GerenciamentoDeRisco #Tecnologia #TransporteDeCargas #TorreDeControle #Global5
+
+---
+
+## SEMANA 4
+
+### Post 7 | Página da empresa | Terça, 10/11
+**Formato:** texto com foto da equipe com o troféu
+**Palavra-chave:** inovação no gerenciamento de risco
+
+**Texto do post:**
+
+Gerenciamento de risco é, por natureza, um trabalho de bastidores. Quando tudo dá certo, ninguém vê. A carga chega, o motorista volta para casa, o cliente segue sua rotina. O sucesso do nosso trabalho é, muitas vezes, aquilo que não aconteceu.
+
+Por isso, premiações como o Troféu Gaivota de Ouro têm um significado especial para quem atua nesse setor.
+
+Em agosto, a Global5 foi uma das empresas premiadas na categoria Inovação. O reconhecimento destacou a forma como transformamos dados, monitoramento em tempo real e soluções próprias em ferramentas concretas de prevenção e redução de perdas. Entre os pontos citados estão a evolução da nossa torre de controle, a pesquisa cadastral com biometria e OCR e o desenvolvimento de plataformas e aplicativos próprios.
+
+Mas queremos falar sobre o que está por trás do troféu.
+
+Inovação, para nós, não é uma ferramenta nova a cada ano. É uma decisão tomada lá atrás, de investir em tecnologia própria, e sustentada todos os dias por processos, treinamento e atendimento próximo. É o analista que identifica uma divergência no cadastro. É o operador da torre de controle que percebe que uma parada fora do padrão merece uma ligação. É o time que constrói, testa e melhora as regras de segurança.
+
+Como disse nossa CEO, Kelly Simões, "é um prêmio que carrega décadas de tradição e credibilidade no mercado, avaliado com critério técnico e isenção". Para ela, a conquista confirma um caminho: investir continuamente em tecnologia, processo e atendimento é o que sustenta resultado ao longo do tempo, e não apenas no curto prazo.
+
+Quando recebemos o troféu, a Kelly entregou medalhas a cada colaborador. Não foi um gesto simbólico. Foi o reconhecimento de que nenhum prêmio de inovação existe sem as pessoas que transformam tecnologia em proteção real para transportadoras, embarcadores, corretores e seguradoras.
+
+Seguimos com o mesmo compromisso: crescer com consistência e merecer, todos os dias, a confiança de quem está do nosso lado.
+
+Obrigado a cada pessoa da Global5 e a cada cliente que confia no nosso trabalho.
+
+#Global5 #Inovacao #GerenciamentoDeRisco #TransporteDeCargas #NossaEquipe
+
+**Marcações:** colaboradores que aparecem na foto, com autorização.
+
+---
+
+### Post 8 | Newsletter da Kelly "Decidir com Segurança" | 1ª edição | Quinta, 12/11
+**Formato:** artigo de newsletter no LinkedIn
+**Palavra-chave:** Estatuto da Segurança Privada e gerenciamento de risco
+**Título do artigo (vira título no Google):** O Novo Estatuto da Segurança Privada e o que muda no gerenciamento de risco do transporte
+**Descrição da newsletter (preencher uma vez, ao criar):** Uma conversa mensal sobre gerenciamento de risco no transporte de cargas, tecnologia, regulação e liderança, por Kelly Simões, CEO da Global5.
+**Imagem de capa do artigo:** imagem de destaque da Global5 sem a capa da revista.
+
+**Texto do artigo:**
+
+Abro esta newsletter com um tema que considero dos mais importantes para o nosso setor nos últimos anos: a aproximação entre o gerenciamento de risco e a segurança privada, trazida pelo Novo Estatuto da Segurança Privada.
+
+A ideia desta newsletter é simples. Uma vez por mês, quero compartilhar uma reflexão sobre gerenciamento de risco no transporte de cargas a partir do que vejo na operação da Global5 e nas conversas com transportadores, corretores e seguradoras. Não é um espaço de propaganda. É um espaço para pensar junto.
+
+**Um setor essencial que trabalhava sem um enquadramento claro**
+
+O gerenciamento de risco é uma das bases da logística brasileira. Ele está por trás de boa parte das cargas que circulam pelas rodovias do país, protegendo mercadorias, motoristas e operações. Ainda assim, até pouco tempo, era uma atividade que carecia de um enquadramento regulatório mais claro.
+
+Na prática, isso gerou um mercado muito desigual. De um lado, empresas com estrutura, processos, tecnologia e equipes preparadas. De outro, operações que funcionavam no improviso. Para quem contratava, nem sempre era fácil enxergar a diferença antes de um problema acontecer.
+
+O Novo Estatuto muda esse cenário ao aproximar o gerenciamento de risco do universo da segurança privada. Segundo a GRISTEC, no Caderno de Gerenciamento de Riscos da Revista Seguro Total, a regulamentação do gerenciamento de risco e do rastreamento tem prazo de adequação até setembro de 2027.
+
+**Por que vejo essa mudança com bons olhos**
+
+Para a Global5, essa conexão é natural. Nascemos em 2009 com o DNA da segurança privada. Essa origem está na forma como estruturamos nossos processos, como desenvolvemos nossa tecnologia e, principalmente, como enxergamos a prevenção.
+
+Mas o motivo principal pelo qual vejo a mudança com bons olhos é outro. Ela reconhece algo que sempre defendemos: prevenção, tecnologia, inteligência e capacidade de resposta precisam atuar de forma integrada. Gerenciamento de risco não é um sistema instalado no caminhão. É uma estrutura completa, que começa antes da viagem e só termina quando a carga chega ao destino.
+
+**O que muda para quem contrata**
+
+Para transportadoras e embarcadores, a escolha de uma gerenciadora de risco tende a ficar mais criteriosa. Algumas perguntas, que antes nem sempre eram feitas, passam a ser essenciais:
+
+A empresa tem processos documentados e replicáveis, ou depende de quem está de plantão?
+
+A equipe é treinada para decidir em situações críticas, com manuais por nível de risco e simulações?
+
+A tecnologia é própria ou depende de terceiros para evoluir?
+
+Existe monitoramento 24 horas de verdade, com capacidade de resposta?
+
+Os resultados são acompanhados por indicadores como sinistralidade e tempo de resposta?
+
+Essas perguntas não servem só para avaliar a Global5. Servem para avaliar qualquer parceiro.
+
+**O que muda para corretores e seguradoras**
+
+O corretor especializado em transporte tem um papel estratégico nesse novo cenário. Ele conhece as necessidades do segurado, entende as particularidades de cada operação e acompanha de perto as exigências das seguradoras.
+
+Com a regulamentação, o corretor ganha mais um critério objetivo para orientar seus clientes e para avaliar a qualidade da gestão de risco das contas que acompanha. Acredito que uma relação mais próxima entre corretor e gerenciadora potencializa os resultados das operações. Quando existe alinhamento, confiança e conhecimento entre as partes, conseguimos atuar de forma mais assertiva e contribuir para melhores resultados para o cliente.
+
+**Adequação ou oportunidade?**
+
+Toda nova regulamentação pode ser vista de duas formas. Como uma obrigação a cumprir ou como uma oportunidade de evoluir.
+
+Escolho a segunda. Quando o mercado eleva a régua, quem investe continuamente em estrutura, tecnologia, pessoas e processos ganha espaço para crescer. E o setor como um todo ganha credibilidade, o que é bom para todos que dependem do transporte de cargas.
+
+Ainda há muitos pontos a acompanhar até setembro de 2027, e vou trazer essas atualizações por aqui. Por enquanto, deixo uma pergunta para você que lê esta primeira edição: na sua operação, o que precisa mudar para que o gerenciamento de risco esteja à altura do que o mercado vai exigir?
+
+Responda nos comentários. As melhores conversas vão inspirar as próximas edições.
+
+Kelly Simões
+CEO da Global5
+
+*Para saber mais sobre como a Global5 trabalha o gerenciamento de risco no transporte de cargas, acesse global5.com.br.*
+
+**Post de divulgação da newsletter, no perfil da Kelly, no mesmo dia:**
+
+Lancei hoje a primeira edição da minha newsletter no LinkedIn, "Decidir com Segurança".
+
+Uma vez por mês, vou compartilhar uma reflexão sobre gerenciamento de risco no transporte de cargas, tecnologia, regulação e liderança.
+
+Nesta primeira edição, escrevi sobre o Novo Estatuto da Segurança Privada e o que ele muda para transportadores, embarcadores, corretores e seguradoras.
+
+Se o tema faz parte do seu dia a dia, inscreva-se para receber as próximas edições.
+
+#GerenciamentoDeRisco #SegurancaPrivada #TransporteDeCargas
+
+---
+
+## POSTS EXTRAS DO MÊS
+
+### Extra 1 | Página da empresa | Sexta, 23/10
+**Formato:** vídeo curto da torre de controle (até 60 segundos), com legenda na tela
+**Palavra-chave:** torre de controle e monitoramento 24h
+
+**Roteiro do vídeo:**
+
+| Tempo | Imagem | Texto na tela |
+|---|---|---|
+| 0 a 5s | Torre de controle à noite, telas com mapas sem dados sensíveis | Enquanto a maioria das empresas está fechada... |
+| 5 a 15s | Operador acompanhando as telas | ...a torre de controle da Global5 segue acompanhando cada viagem. |
+| 15 a 30s | Close em alerta na tela, sem placa ou nome de cliente | Um alerta não é só um aviso. É um momento de decisão. |
+| 30 a 45s | Operador ao telefone | Tecnologia entrega o dado. Gente treinada decide o próximo passo. |
+| 45 a 60s | Logo da Global5 | Monitoramento 24h. Global5. |
+
+**Cuidado na gravação:** nenhuma placa, rota, nome de cliente ou tipo de carga pode aparecer nas telas.
+
+**Texto do post:**
+
+Às duas da manhã, a maior parte das empresas está fechada. Na estrada, não.
+
+Cargas seguem viagem, motoristas fazem paradas, rotas mudam por causa do trânsito ou do clima. E é exatamente nesses horários, quando há menos gente olhando, que uma estrutura de monitoramento 24 horas mostra o seu valor.
+
+Na torre de controle da Global5, o trabalho não para. A tecnologia centraliza as informações das viagens e gera alertas na velocidade certa. Mas um alerta, sozinho, não protege nada. Ele precisa de alguém preparado para entender o contexto e decidir o que fazer.
+
+Uma parada fora do previsto pode ser só um motorista descansando em um posto autorizado. Ou pode ser o primeiro sinal de uma situação que exige ação imediata. A diferença está na interpretação, e interpretação exige processo, treinamento e experiência.
+
+É por isso que dizemos que monitorar é acompanhar, e responder é transformar informação em ação.
+
+Neste vídeo, mostramos um pouco da rotina de quem faz esse trabalho enquanto o país dorme.
+
+#Global5 #Monitoramento24h #TorreDeControle #GerenciamentoDeRisco #TransporteDeCargas
+
+---
+
+### Extra 2 | Página da empresa | Sexta, 13/11
+**Formato:** enquete (duração de 1 semana)
+**Palavra-chave:** riscos no transporte de fim de ano
+
+**Texto do post:**
+
+O fim de ano é um dos períodos mais desafiadores para o transporte de cargas.
+
+O volume de entregas aumenta, os prazos ficam mais curtos, as equipes trabalham sob pressão e as rodovias ficam mais cheias. Tudo isso muda o perfil de risco das operações, às vezes de forma que só percebemos depois que algo acontece.
+
+Por isso, queremos ouvir quem está na linha de frente. Em períodos de alta demanda, qual destes pontos mais preocupa na sua operação?
+
+Depois de encerrada a enquete, vamos compartilhar os resultados e um checklist com cuidados para cada um desses pontos.
+
+#Global5 #GerenciamentoDeRisco #TransporteDeCargas #GestaoDeFrotas #Logistica
+
+**Pergunta da enquete:** Em períodos de alta demanda, o que mais preocupa na sua operação?
+**Opções:**
+1. Roubo de carga
+2. Atrasos e prazos
+3. Cansaço dos motoristas
+4. Falta de visibilidade da viagem
+
+---
+
+## Resumo do mês
+
+| Data | Quem publica | Formato | Tema |
+|---|---|---|---|
+| Ter 20/10 | Página | PDF | 5 lições da entrevista |
+| Qui 22/10 | Kelly | Texto | Trajetória desde 1998 e a capa |
+| Sex 23/10 | Página | Vídeo | Torre de controle de madrugada |
+| Ter 27/10 | Página | Texto | Rastrear não é gerenciar risco (Blog 1) |
+| Qui 29/10 | Kelly | Texto | Novo Estatuto da Segurança Privada |
+| Ter 03/11 | Página | PDF | 7 estratégias contra o roubo de carga (Blog 2) |
+| Qui 05/11 | Kelly | Texto | Tecnologia apoia, gente decide |
+| Ter 10/11 | Página | Texto e foto | Troféu Gaivota de Ouro |
+| Qui 12/11 | Kelly | Newsletter | 1ª edição: o Estatuto e o gerenciamento de risco |
+| Sex 13/11 | Página | Enquete | Riscos do fim de ano |
+
+**Melhores horários sugeridos:** entre 8h e 10h, de terça a quinta. Ajustar depois do primeiro mês com os dados do painel.
+
+**Rotina depois de publicar:** a Kelly, as lideranças e o time comentam nas duas primeiras horas, e a página responde todos os comentários no mesmo dia.
