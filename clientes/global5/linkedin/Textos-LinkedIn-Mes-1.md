@@ -10,10 +10,9 @@ Os posts da Kelly estão escritos em primeira pessoa, com base no que ela disse 
 ## SEMANA 1
 
 ### Post 1 | Página da empresa | Terça, 20/10
-**Formato:** documento em PDF (carrossel de 8 telas)
-**Palavra-chave:** gerenciadora de risco
-**Título do documento no LinkedIn:** 5 lições sobre gerenciamento de risco, da entrevista da CEO da Global5 à Revista Seguro Total
-
+**Formato:** documento em PDF (carrossel de 8 telas)  
+**Palavra-chave:** gerenciadora de risco  
+**Título do documento no LinkedIn:** 5 lições sobre gerenciamento de risco, da entrevista da CEO da Global5 à Revista Seguro Total  
 **Texto do post:**
 
 Toda gerenciadora de risco diz que é rápida. Poucas conseguem explicar o que fazem para que essa velocidade não vire risco.
@@ -63,9 +62,8 @@ A matéria completa sobre a entrevista da Kelly Simões à Revista Seguro Total 
 ---
 
 ### Post 2 | Perfil da Kelly Simões | Quinta, 22/10
-**Formato:** texto com foto da capa da revista ou foto profissional dela
-**Palavra-chave:** gerenciamento de risco no transporte
-
+**Formato:** texto com foto da capa da revista ou foto profissional dela  
+**Palavra-chave:** gerenciamento de risco no transporte  
 **Texto do post:**
 
 Em 1998, quando entrei no setor de segurança privada, eu não tinha um plano de carreira desenhado. Foi uma circunstância do momento. Eu vinha de uma estrutura de negócios familiar, onde aprendi gestão passando por cada área antes de liderar qualquer uma delas.
@@ -100,9 +98,8 @@ A matéria completa está aqui: https://global5.com.br/revista-seguro-total-capa
 ## SEMANA 2
 
 ### Post 3 | Página da empresa | Terça, 27/10
-**Formato:** texto com imagem de capa do Blog 1
-**Palavra-chave:** gerenciamento de risco no transporte de cargas
-
+**Formato:** texto com imagem de capa do Blog 1  
+**Palavra-chave:** gerenciamento de risco no transporte de cargas  
 **Texto do post:**
 
 Ter um rastreador no caminhão não significa ter gerenciamento de risco no transporte de cargas.
@@ -141,9 +138,8 @@ Guia completo: O que é gerenciamento de risco no transporte de cargas. https://
 ---
 
 ### Post 4 | Perfil da Kelly Simões | Quinta, 29/10
-**Formato:** texto
-**Palavra-chave:** Estatuto da Segurança Privada
-
+**Formato:** texto  
+**Palavra-chave:** Estatuto da Segurança Privada  
 **Texto do post:**
 
 Durante muito tempo, o gerenciamento de risco no transporte de cargas foi uma atividade fundamental para a logística brasileira, mas sem um enquadramento regulatório claro.
@@ -178,10 +174,9 @@ Falei mais sobre o Estatuto na entrevista à Revista Seguro Total: https://globa
 ## SEMANA 3
 
 ### Post 5 | Página da empresa | Terça, 03/11
-**Formato:** documento em PDF (carrossel de 9 telas)
-**Palavra-chave:** roubo de carga
-**Título do documento no LinkedIn:** 7 estratégias para reduzir o roubo de carga no transporte rodoviário
-
+**Formato:** documento em PDF (carrossel de 9 telas)  
+**Palavra-chave:** roubo de carga  
+**Título do documento no LinkedIn:** 7 estratégias para reduzir o roubo de carga no transporte rodoviário  
 **Texto do post:**
 
 Não existe uma única medida capaz de evitar o roubo de carga. Quem promete isso está vendendo uma ilusão.
@@ -232,9 +227,8 @@ Artigo completo: Como reduzir o roubo de carga no transporte rodoviário. https:
 ---
 
 ### Post 6 | Perfil da Kelly Simões | Quinta, 05/11
-**Formato:** texto
-**Palavra-chave:** tecnologia no gerenciamento de risco
-
+**Formato:** texto  
+**Palavra-chave:** tecnologia no gerenciamento de risco  
 **Texto do post:**
 
 Vivemos um momento em que quase toda empresa quer automatizar tudo. No gerenciamento de risco, eu defendo um caminho diferente.
@@ -264,9 +258,8 @@ Para quem trabalha com operação: onde vocês acham que a automação ajuda de 
 ## SEMANA 4
 
 ### Post 7 | Página da empresa | Terça, 10/11
-**Formato:** texto com foto da equipe com o troféu
-**Palavra-chave:** inovação no gerenciamento de risco
-
+**Formato:** texto com foto da equipe com o troféu  
+**Palavra-chave:** inovação no gerenciamento de risco  
 **Texto do post:**
 
 Gerenciamento de risco é, por natureza, um trabalho de bastidores. Quando tudo dá certo, ninguém vê. A carga chega, o motorista volta para casa, o cliente segue sua rotina. O sucesso do nosso trabalho é, muitas vezes, aquilo que não aconteceu.
@@ -294,12 +287,11 @@ Obrigado a cada pessoa da Global5 e a cada cliente que confia no nosso trabalho.
 ---
 
 ### Post 8 | Newsletter da Kelly "Decidir com Segurança" | 1ª edição | Quinta, 12/11
-**Formato:** artigo de newsletter no LinkedIn
-**Palavra-chave:** Estatuto da Segurança Privada e gerenciamento de risco
-**Título do artigo (vira título no Google):** O Novo Estatuto da Segurança Privada e o que muda no gerenciamento de risco do transporte
-**Descrição da newsletter (preencher uma vez, ao criar):** Uma conversa mensal sobre gerenciamento de risco no transporte de cargas, tecnologia, regulação e liderança, por Kelly Simões, CEO da Global5.
-**Imagem de capa do artigo:** imagem de destaque da Global5 sem a capa da revista.
-
+**Formato:** artigo de newsletter no LinkedIn  
+**Palavra-chave:** Estatuto da Segurança Privada e gerenciamento de risco  
+**Título do artigo (vira título no Google):** O Novo Estatuto da Segurança Privada e o que muda no gerenciamento de risco do transporte  
+**Descrição da newsletter (preencher uma vez, ao criar):** Uma conversa mensal sobre gerenciamento de risco no transporte de cargas, tecnologia, regulação e liderança, por Kelly Simões, CEO da Global5.  
+**Imagem de capa do artigo:** imagem de destaque da Global5 sem a capa da revista.  
 **Texto do artigo:**
 
 Abro esta newsletter com um tema que considero dos mais importantes para o nosso setor nos últimos anos: a aproximação entre o gerenciamento de risco e a segurança privada, trazida pelo Novo Estatuto da Segurança Privada.
@@ -374,9 +366,8 @@ Se o tema faz parte do seu dia a dia, inscreva-se para receber as próximas edi�
 ## POSTS EXTRAS DO MÊS
 
 ### Extra 1 | Página da empresa | Sexta, 23/10
-**Formato:** vídeo curto da torre de controle (até 60 segundos), com legenda na tela
-**Palavra-chave:** torre de controle e monitoramento 24h
-
+**Formato:** vídeo curto da torre de controle (até 60 segundos), com legenda na tela  
+**Palavra-chave:** torre de controle e monitoramento 24h  
 **Roteiro do vídeo:**
 
 | Tempo | Imagem | Texto na tela |
@@ -408,9 +399,8 @@ Neste vídeo, mostramos um pouco da rotina de quem faz esse trabalho enquanto o 
 ---
 
 ### Extra 2 | Página da empresa | Sexta, 13/11
-**Formato:** enquete (duração de 1 semana)
-**Palavra-chave:** riscos no transporte de fim de ano
-
+**Formato:** enquete (duração de 1 semana)  
+**Palavra-chave:** riscos no transporte de fim de ano  
 **Texto do post:**
 
 O fim de ano é um dos períodos mais desafiadores para o transporte de cargas.
