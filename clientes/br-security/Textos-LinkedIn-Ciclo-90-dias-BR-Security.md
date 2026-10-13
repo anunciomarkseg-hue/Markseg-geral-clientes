@@ -47,36 +47,39 @@ A Semana 4 combina bem com o evento: o tema dela é registro de eventos, sinistr
 * Um único pedido por peça.
 * Nenhuma comparação com alarme, CFTV ou outro sistema. Nenhum concorrente citado.
 * Toda estatística com fonte nomeada. Onde o dado ainda não chegou, o campo está entre colchetes e a peça não deve ir ao ar sem ele (seção 14.4).
-* Os textos não usam "interromper". O verbo foi vetado pelo sócio em setembro, depois que o plano foi escrito. Usam ocupar o ambiente, reduzir a visibilidade, dificultar e impedir, sempre ligados à especificação.
+* Os textos não usam "interromper" nem "mais do que alertar". A frase foi vetada pelo sócio e o veto foi reforçado na reunião de 05/10. Usam ocupar o ambiente, reduzir a visibilidade, dificultar e impedir, sempre ligados à especificação.
+* **Banco aparece só como caso de sucesso** (diretriz do Carlos, reunião de 05/10, válida para todo o conteúdo): "se deu certo no banco, imagine no seu negócio". Nenhuma peça questiona se o equipamento "é coisa de banco" nem fala em sair do nicho bancário.
+* **Slogan: "Segurança garantida."** Substitui a assinatura do plano ("Proteção ativa em segundos") no fecho das peças e dos vídeos. "Proteção ativa" continua sendo usado como nome da categoria.
+* **Demonstração em primeiro lugar.** Sempre que a peça permite, o pedido de ação é agendar uma demonstração.
 * Neutralizador Laranja só como componente de sistema fixo, e a Semana 8 passa por revisão jurídica. Stop Now fora do ciclo.
 
 ---
 
 ## Mês 1: formar a categoria
 
-### Semana 1, ter 29/09. Gerador de névoa é coisa de banco? O que a Europa faz com o mesmo equipamento
+### Semana 1, ter 29/09. Deu certo no banco. Imagine na sua loja
 
 **Pilar P1. Carrossel em PDF. Integrador e varejo crítico.**
+
+> Ajustada após a reunião de 05/10: o banco entra como caso de sucesso, não como pergunta. Se a versão antiga já foi publicada, manter e aplicar a regra a partir da Semana 3.
 
 **Texto do post**
 
 <!--post-->
-O mercado brasileiro aprendeu que gerador de névoa é equipamento de banco.
-Na Europa, onde a tecnologia nasceu, a maior parte dos equipamentos instalados está em loja de rua.
+O gerador de névoa já provou o que faz no ambiente mais exigente da segurança patrimonial: o banco.
+A pergunta agora é outra. Se funciona onde o padrão é o mais alto, o que ele faz pela sua loja?
 
-Dinamarca e Itália concentram a fabricação mundial desse equipamento. E lá ele não ficou preso à agência bancária. Está em tabacaria, adega, joalheria, loja de eletrônicos. Varejo comum, de rua, com estoque de alto valor em pouco espaço.
+Quando uma tecnologia se consolida no setor financeiro, ela chega ao resto do mercado com a prova já feita. Foi o que aconteceu na Europa. Dinamarca e Itália, que concentram a fabricação mundial do equipamento, levaram a mesma solução para o varejo comum: tabacaria, adega, joalheria, loja de eletrônicos. [Dado de aplicação por segmento, com fonte nomeada]
 
-O Brasil importou o equipamento e não importou a aplicação. Não é uma diferença de tecnologia. É uma diferença de leitura de mercado.
+O perfil que fez o varejo europeu adotar a névoa existe aqui em quase toda esquina. Farmácia com medicamento de alto valor no balcão. Loja de celular. Joalheria de shopping. Adega com estoque importado. Ambiente de volume pequeno, valor concentrado e uma janela de minutos entre a detecção e a chegada de alguém.
 
-E essa leitura pesa para quem projeta segurança, porque o perfil que levou o varejo europeu a adotar a névoa existe aqui em quase toda esquina. Farmácia com medicamento de alto valor no balcão. Loja de celular. Joalheria de shopping. Adega com estoque importado. Ambiente de volume pequeno, valor concentrado e uma janela de minutos entre a detecção e a chegada de alguém.
+É dentro dessa janela que o gerador de névoa trabalha. Ele ocupa o ambiente em segundos e tira de quem entrou a visibilidade de que precisa para agir. O que protege o cofre de um banco protege o balcão de uma farmácia, com o dimensionamento certo para cada ambiente.
 
-É dentro dessa janela que o gerador de névoa trabalha. Ele ocupa o ambiente em segundos e tira de quem entrou a visibilidade de que precisa para agir.
+No carrossel eu mostro como a mesma solução se aplica, segmento por segmento, ao varejo brasileiro.
 
-No carrossel eu mostro onde os equipamentos estão instalados na Europa, por segmento, e quais segmentos brasileiros têm o mesmo perfil.
+Quer ver a névoa ocupando um ambiente do tamanho da loja do seu cliente? Me chame que a gente agenda uma demonstração.
 
-Se você projeta segurança para varejo e nunca dimensionou uma camada de proteção ativa, me chame. Mando o material de dimensionamento por metro cúbico.
-
-Fonte do dado europeu: [inserir fonte nomeada]
+BR Security. Segurança garantida.
 
 #ProteçãoAtiva #SegurançaEletrônica #Varejo
 <!--/post-->
@@ -85,12 +88,12 @@ Fonte do dado europeu: [inserir fonte nomeada]
 
 | Página | Texto |
 |---|---|
-| 1 | Gerador de névoa é coisa de banco? |
-| 2 | O que o mercado brasileiro acredita: equipamento de agência bancária, caro, para projeto especial. |
-| 3 | Onde ele está na Europa: [distribuição por segmento, com fonte no rodapé] |
+| 1 | Deu certo no banco. Imagine na sua loja. |
+| 2 | O banco é o ambiente mais exigente da segurança patrimonial. É lá que a névoa provou resultado. [Caso do setor financeiro, anonimizado, com número de equipamentos se autorizado] |
+| 3 | Na Europa, a mesma solução foi para o varejo: [distribuição por segmento, com fonte no rodapé] |
 | 4 | Por que funciona no varejo: ambiente de volume pequeno, valor concentrado no estoque e minutos entre a detecção e a chegada de alguém. |
 | 5 | Os segmentos brasileiros com o mesmo perfil: farmácia e drogaria, joalheria e relojoaria, adega e tabacaria, eletrônicos e telefonia, centros de distribuição. |
-| 6 | Proteção ativa em segundos. BR Security |
+| 6 | Agende uma demonstração. BR Security. Segurança garantida. |
 
 ---
 
@@ -114,7 +117,7 @@ Para quem cuida de prevenção de perdas, essa conta muda a pergunta. Ela deixa 
 
 Nada do que já está instalado sai do lugar. É uma camada a mais, dentro do mesmo projeto, dimensionada pelo volume do ambiente: 500 m³ em 60 segundos no NG500, 1.500 m³ em 60 segundos no NG1000.
 
-Quer saber como essa conta fica no seu ambiente? Comente "dimensionamento" que eu mando o material por metro cúbico.
+Quer ver como isso acontece num ambiente do tamanho da sua loja? Me chame aqui que a gente agenda uma demonstração no local.
 
 Fontes: [inserir fontes nomeadas]
 
@@ -172,7 +175,7 @@ E se quiser ver as seis respostas acontecendo na sua frente: dia 21/10 estaremos
 | 5 | Serve em loja de roupa? Sim. Sem resíduo e sem umidade, não mancha nem marca tecido exposto. |
 | 6 | E se disparar sozinho? Não dispara. O acionamento acontece só por comando da central ou do sistema integrado, com tempo de disparo programável. |
 | 7 | Funciona em cofre e tesouraria? Sim, com dimensionamento próprio para ambiente pequeno e de alto valor. É o tema de um material específico. |
-| 8 | Proteção ativa em segundos. Salve e use na próxima reunião. |
+| 8 | Salve e use na próxima reunião. BR Security. Segurança garantida. |
 
 **Versão artigo** (republicação no mesmo dia ou no dia seguinte, perfil do porta-voz)
 
@@ -345,7 +348,7 @@ Já vimos isso acontecer num projeto do setor financeiro com centenas de unidade
 
 Se você atende rede ou operação com várias unidades e quer entender como estruturar esse tipo de projeto, me chame aqui.
 
-Em segundos, o ambiente está protegido.
+BR Security. Segurança garantida.
 
 #ProteçãoAtiva #Integradores #Varejo
 <!--/post-->
@@ -361,7 +364,7 @@ Em segundos, o ambiente está protegido.
 | 2. Configuração | "Toda unidade precisa responder igual. Mesmo tempo de disparo, mesma integração com a central." |
 | 3. Logística | "Entrega e instalação viram cronograma. A fábrica precisa acompanhar o ritmo da rede." |
 | 4. Integrador | "E quem faz isso acontecer na ponta é o integrador. Sem ele, não existe rede padronizada." |
-| Fecho | "Em segundos, o ambiente está protegido." |
+| Fecho | "BR Security. Segurança garantida." |
 
 ---
 
@@ -421,7 +424,7 @@ O risco não é constante ao longo do ano. Reforçar estoque sem rever a proteç
 
 A boa notícia é que a camada de proteção ativa não depende do valor do estoque. Ela é dimensionada pelo volume do ambiente, em metros cúbicos. Um NG500 ocupa 500 m³ em 60 segundos. Por isso ela é rápida de especificar e de instalar, mesmo em cima da temporada, e se integra à central de alarme que a loja já tem.
 
-Se você responde por prevenção de perdas ou é sócio de uma rede regional, ainda dá tempo de rever a proteção antes do dia 27. Me chame aqui que eu indico o integrador parceiro mais perto de você para avaliar o ambiente ainda esta semana.
+Se você responde por prevenção de perdas ou é sócio de uma rede regional, ainda dá tempo de rever a proteção antes do dia 27. Me chame aqui que a gente agenda uma demonstração no seu ambiente, com o integrador parceiro mais perto de você, ainda esta semana.
 
 Fonte: [inserir fonte nomeada]
 
@@ -537,6 +540,8 @@ Faça a conta com os números da sua loja. Se o resultado for maior que o custo 
 
 **Pilar P4. Post com imagem. Integrador.**
 
+> **Pendente de validação.** Na reunião de 05/10 a Monique levantou o risco da "síndrome de vira-lata" e ficou de confirmar com a diretoria se o posicionamento passa a ser "tecnologia europeia com fabricação brasileira". Se for confirmado, trocar a frase "O gerador de névoa da BR Security é fabricado no Brasil." por "O gerador de névoa da BR Security une tecnologia de origem europeia e fabricação no Brasil." e manter o restante.
+
 **Texto do post**
 
 <!--post-->
@@ -556,7 +561,7 @@ O gerador de névoa da BR Security é fabricado no Brasil. Na prática, isso ent
 
 E um projeto que partiu do que o mercado europeu já tinha resolvido, com melhorias feitas aqui: display, dashboard, placa ethernet e registro de eventos em cartão SD.
 
-Não precisa acreditar no que está escrito aqui. Teste o tempo de resposta do nosso suporte antes de fechar qualquer projeto. Me chame que eu passo o contato direto.
+Não precisa acreditar no que está escrito aqui. Agende uma demonstração e teste o tempo de resposta do nosso suporte antes de fechar qualquer projeto. Me chame que eu passo o contato direto.
 
 #Integradores #FabricaçãoNacional #ProteçãoAtiva
 <!--/post-->
@@ -614,7 +619,7 @@ A pergunta que mais chega à engenharia é "qual modelo eu coloco nesse cliente?
 Com esses cinco critérios, a especificação deixa de ser palpite. Guarde a tabela: ela resolve a maior parte dos projetos antes de a engenharia precisar entrar.
 <!--/artigo-->
 
-**Roteiro do vídeo** (porta-voz, 60 a 90 segundos): "não é o porte, é o volume", um exemplo de cada modelo com o ambiente típico, fecho com "Em segundos, o ambiente está protegido."
+**Roteiro do vídeo** (porta-voz, 60 a 90 segundos): "não é o porte, é o volume", um exemplo de cada modelo com o ambiente típico, fecho com "BR Security. Segurança garantida."
 
 ---
 
@@ -625,10 +630,10 @@ Com esses cinco critérios, a especificação deixa de ser palpite. Guarde a tab
 **Texto do post**
 
 <!--post-->
-Em 2027 o gerador de névoa sai do nicho bancário.
+Em 2027 a proteção ativa chega de vez ao varejo.
 O integrador que dominar a especificação primeiro vai vender sem concorrência por um bom tempo.
 
-Este foi o ano em que a BR Security começou. Em poucos meses, o equipamento saiu do projeto bancário e chegou a farmácia, joalheria, rede de varejo, central de monitoramento e armazém. [Ajustar com os segmentos e números reais do ano.]
+Este foi o ano em que a BR Security começou. Em poucos meses, a solução que já tinha provado resultado no setor financeiro chegou a farmácia, joalheria, rede de varejo, central de monitoramento e armazém. [Ajustar com os segmentos e números reais do ano.]
 
 O movimento para o próximo ano é claro. O varejo crítico começou a perguntar sobre proteção ativa. E quando o cliente final pergunta, ele procura o integrador que já sabe responder.
 
@@ -640,7 +645,7 @@ Dezembro é quando se monta o portfólio e o orçamento do ano seguinte. Se a pr
 
 Me mande uma mensagem direta com a palavra "canal" e eu marco a conversa ainda este mês.
 
-Proteção ativa em segundos.
+BR Security. Segurança garantida.
 
 #Integradores #SegurançaEletrônica #ProteçãoAtiva
 <!--/post-->
@@ -662,5 +667,5 @@ Proteção ativa em segundos.
 | Semana 6 | Tempo de comissionamento medido em campo por modelo, vídeo de instalação | Equipe técnica BR Security |
 | Semana 7 | Dado de ocorrência no varejo no último trimestre, com fonte | MarkSeg pesquisa |
 | Semana 8 | Revisão jurídica | BR Security |
-| Semana 10 | Prazo médio de reposição e de atendimento | BR Security |
+| Semana 10 | Prazo médio de reposição e de atendimento. Confirmação do posicionamento "tecnologia europeia com fabricação brasileira" | BR Security (Monique) |
 | Semana 12 | Segmentos e números reais do ano, confirmação das praças em abertura | BR Security |
