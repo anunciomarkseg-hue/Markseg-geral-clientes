@@ -57,11 +57,11 @@ A Semana 4 combina bem com o evento: o tema dela é registro de eventos, sinistr
 
 ## Mês 1: formar a categoria
 
-### Semana 1, ter 29/09. Deu certo no banco. Imagine na sua loja
+### Semana 1, qua 14/10. Deu certo no banco. Imagine na sua loja
 
 **Pilar P1. Carrossel em PDF. Integrador e varejo crítico.**
 
-> Ajustada após a reunião de 05/10: o banco entra como caso de sucesso, não como pergunta. Se a versão antiga já foi publicada, manter e aplicar a regra a partir da Semana 3.
+> Ajustada após a reunião de 05/10: o banco entra como caso de sucesso, não como pergunta.
 
 **Texto do post**
 
