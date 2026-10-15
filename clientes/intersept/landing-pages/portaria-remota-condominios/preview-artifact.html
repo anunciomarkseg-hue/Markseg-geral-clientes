@@ -130,6 +130,24 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
   transform:translateY(-2px);box-shadow:0 10px 24px rgba(0,0,0,.22)}
 .sob{text-align:center;font-size:12.5px;color:var(--cinza);margin-top:10px}
 .erro{color:#c0392b;font-size:13px;margin:-8px 0 12px;display:none}
+.erro.on{display:block}
+.consent-txt{display:inline;font-size:12.5px;font-weight:500;color:var(--cinza);line-height:1.45;margin:0}
+.consent-txt a{color:var(--azul)}
+
+/* chamada entre seções, para quebrar a dobra */
+.chamada-cta{background:#0d2140;background-image:linear-gradient(100deg,#0b1d3e 0%,#16336a 55%,#1b3f89 100%);
+  position:relative;overflow:hidden}
+.chamada-cta .env{display:flex;align-items:center;justify-content:space-between;gap:26px;
+  padding-top:26px;padding-bottom:26px;position:relative;z-index:1}
+.chamada-cta .cta-txt{display:flex;flex-direction:column;gap:3px}
+.chamada-cta strong{font-size:19px;line-height:1.3;color:#fff;font-weight:700}
+.chamada-cta span{font-size:14.5px;line-height:1.45;color:#b9c9e6}
+.chamada-cta .btn{width:auto;flex:none;padding:14px 30px;font-size:16px}
+
+/* formulário do fechamento */
+.card--fim{max-width:520px;margin:26px auto 0;text-align:left}
+.fecho .alt{font-size:14.5px;color:#cfdbf0;margin:18px 0 0}
+.fecho .alt a{color:var(--amarelo);font-weight:700;text-decoration:underline}
 
 /* barra de confiança */
 .pt{width:8px;height:8px;border-radius:50%;background:var(--amarelo);flex:none}
@@ -166,7 +184,7 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
   animation:luz 10s ease-in-out infinite}
 .fecho .env{position:relative;z-index:1}
 .fecho h2{color:#fff}
-.fecho p{color:#d3deef;max-width:620px;margin:0 auto 26px}
+.fecho .env > p{color:#d3deef;max-width:620px;margin:0 auto 26px}
 .fecho .btn{max-width:420px;margin:0 auto}
 
 .rodape{background:linear-gradient(100deg,#061228 0%,#0a1a33 60%,#0d2247 100%);color:#8fa3c4;padding:30px 0;font-size:13px;text-align:center}
@@ -190,6 +208,8 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
 @media (max-width:860px){
   .hero-grid{grid-template-columns:1fr;gap:30px}
   .g4,.g3,.g2{grid-template-columns:1fr}
+  .chamada-cta .env{flex-direction:column;align-items:stretch;text-align:center;gap:16px}
+  .chamada-cta .btn{width:100%}
   .provas{grid-template-columns:1fr;gap:10px;margin-top:22px;padding-top:20px}
   .provas div{font-size:13.5px}
   .sec{padding:46px 0}
@@ -246,20 +266,19 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
       <h2>Receba uma proposta</h2>
       <p class="apoio">Preencha e fale com um especialista. Sem compromisso.</p>
       <div class="aviso">Prévia para aprovação. Preencha e envie para ver como o lead chega.</div>
-      <p class="erro-geral" id="erroGeral">Preencha todos os campos e aceite a política de privacidade.</p>
-      <form id="form" novalidate>
-        <label for="nome">Seu nome</label>
-        <input type="text" id="nome" name="nome" autocomplete="name" required>
+      <form class="form-lead" data-ctx="topo" novalidate>
+        <label for="nome-topo">Seu nome</label>
+        <input type="text" id="nome-topo" name="nome" autocomplete="name" required>
 
-        <label for="fone">WhatsApp com DDD</label>
-        <input type="tel" id="fone" name="fone" inputmode="numeric" autocomplete="tel" placeholder="(41) 90000-0000" required>
-        <div class="erro" id="erroFone">Informe um WhatsApp válido com DDD.</div>
+        <label for="fone-topo">WhatsApp com DDD</label>
+        <input type="tel" id="fone-topo" name="fone" inputmode="numeric" autocomplete="tel" placeholder="(41) 90000-0000" required>
+        <p class="erro erro-fone">Informe um WhatsApp válido com DDD.</p>
 
-        <label for="cidade">Cidade do condomínio</label>
-        <input type="text" id="cidade" name="cidade" autocomplete="address-level2" required>
+        <label for="cidade-topo">Cidade do condomínio</label>
+        <input type="text" id="cidade-topo" name="cidade" autocomplete="address-level2" required>
 
-        <label for="unidades">Quantas unidades</label>
-        <select id="unidades" name="unidades" required>
+        <label for="unidades-topo">Quantas unidades</label>
+        <select id="unidades-topo" name="unidades" required>
           <option value="">Selecione</option>
           <option>Até 30</option>
           <option>31 a 80</option>
@@ -268,17 +287,18 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
         </select>
 
         <div class="consent">
-          <input type="checkbox" id="aceite" required>
-          <span>Autorizo o contato da Intersept e o tratamento dos meus dados conforme a <a href="https://intersept.com.br/politica-de-privacidade/" target="_blank" rel="noopener">política de privacidade</a>.</span>
+          <input type="checkbox" id="aceite-topo" name="aceite" required>
+          <label for="aceite-topo" class="consent-txt">Autorizo o contato da Intersept e o tratamento dos meus dados conforme a <a href="https://intersept.com.br/politica-de-privacidade/" target="_blank" rel="noopener">política de privacidade</a>.</label>
         </div>
 
+        <p class="erro erro-geral">Preencha todos os campos e aceite a política de privacidade.</p>
         <button class="btn" type="submit">Quero uma proposta</button>
         <p class="sob">Retorno em horário comercial. Fora dele, o atendimento inicial é imediato pela central.</p>
       </form>
-      <div class="ok" id="ok">
+      <div class="ok">
         <h2>É assim que o lead chega</h2>
-        <div class="msg" id="msgOk"></div>
-        <a class="btn" id="linkZap" href="#" target="_blank" rel="noopener">Abrir no WhatsApp</a>
+        <div class="msg"></div>
+        <a class="btn linkZap" href="#" target="_blank" rel="noopener">Abrir no WhatsApp</a>
         <p class="nota">Na página publicada, o WhatsApp abre sozinho e o lead é gravado antes disso, para não sumir quem desiste de enviar a mensagem.</p>
       </div>
     </div>
@@ -298,6 +318,16 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
       <div class="box"><h3>A liberação acontece por familiaridade</h3><p>Ninguém memoriza centenas de rostos. Quando a entrada depende de parecer conhecido, existe brecha.</p></div>
       <div class="box"><h3>Nada fica registrado para a assembleia</h3><p>Livro de portaria preenchido de qualquer jeito não responde quem entrou, quando e autorizado por quem.</p></div>
     </div>
+  </div>
+</section>
+
+<section class="chamada-cta">
+  <div class="env">
+    <div class="cta-txt">
+      <strong>Quanto ficaria no seu condomínio?</strong>
+      <span>O valor depende do número de unidades e dos acessos. O cálculo é sem compromisso.</span>
+    </div>
+    <a class="btn btn-ir" href="#proposta">Receber proposta</a>
   </div>
 </section>
 
@@ -340,6 +370,16 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
   </div></section>
 -->
 
+<section class="chamada-cta">
+  <div class="env">
+    <div class="cta-txt">
+      <strong>Faz sentido para a sua realidade?</strong>
+      <span>Em uma visita técnica a gente mostra o que dá para fazer e quanto custa.</span>
+    </div>
+    <a class="btn btn-ir" href="#proposta">Quero uma proposta</a>
+  </div>
+</section>
+
 <section class="sec sec--claro faq">
   <div class="env" style="max-width:820px">
     <div class="chamada"><h2>Perguntas frequentes</h2></div>
@@ -352,11 +392,48 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
   </div>
 </section>
 
-<section class="sec fecho">
+<section class="sec fecho" id="proposta">
   <div class="env">
     <h2>Peça o diagnóstico do seu condomínio</h2>
     <p>Visita técnica sem compromisso. Levantamos os acessos, o perímetro e o fluxo real, e apresentamos a proposta com números.</p>
-    <a class="btn" id="zapFim" href="https://wa.me/554140072640" rel="nofollow noopener">Falar com um especialista</a>
+    <div class="card card--fim">
+      <form class="form-lead" data-ctx="fim" novalidate>
+        <label for="nome-fim">Seu nome</label>
+        <input type="text" id="nome-fim" name="nome" autocomplete="name" required>
+
+        <label for="fone-fim">WhatsApp com DDD</label>
+        <input type="tel" id="fone-fim" name="fone" inputmode="numeric" autocomplete="tel" placeholder="(41) 90000-0000" required>
+        <p class="erro erro-fone">Informe um WhatsApp válido com DDD.</p>
+
+        <label for="cidade-fim">Cidade do condomínio</label>
+        <input type="text" id="cidade-fim" name="cidade" autocomplete="address-level2" required>
+
+        <label for="unidades-fim">Quantas unidades</label>
+        <select id="unidades-fim" name="unidades" required>
+          <option value="">Selecione</option>
+          <option>Até 30</option>
+          <option>31 a 80</option>
+          <option>81 a 150</option>
+          <option>Mais de 150</option>
+        </select>
+
+        <div class="consent">
+          <input type="checkbox" id="aceite-fim" name="aceite" required>
+          <label for="aceite-fim" class="consent-txt">Autorizo o contato da Intersept e o tratamento dos meus dados conforme a <a href="https://intersept.com.br/politica-de-privacidade/" target="_blank" rel="noopener">política de privacidade</a>.</label>
+        </div>
+
+        <p class="erro erro-geral">Preencha todos os campos e aceite a política de privacidade.</p>
+        <button class="btn" type="submit">Quero uma proposta</button>
+        <p class="sob">Retorno em horário comercial. Fora dele, o atendimento inicial é imediato pela central.</p>
+      </form>
+      <div class="ok">
+        <h2>É assim que o lead chega</h2>
+        <div class="msg"></div>
+        <a class="btn linkZap" href="#" target="_blank" rel="noopener">Abrir no WhatsApp</a>
+        <p class="nota">Na página publicada, o WhatsApp abre sozinho e o lead é gravado antes disso, para não sumir quem desiste de enviar a mensagem.</p>
+      </div>
+    </div>
+    <p class="alt">Prefere falar agora? <a id="zapFim" href="https://wa.me/554140072640" rel="nofollow noopener">Chame no WhatsApp</a></p>
   </div>
 </section>
 
@@ -369,7 +446,7 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
   </div>
 </footer>
 
-<div class="fixa"><a class="btn" href="#form" id="fixaBtn">Quero uma proposta</a></div>
+<div class="fixa"><a class="btn" href="#proposta" id="fixaBtn">Quero uma proposta</a></div>
 
 
 
@@ -389,24 +466,42 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
     else { try{ var s = sessionStorage.getItem(k); if(s) utm[k] = s; }catch(e){} }
   });
   function origem(){
-    var t = Object.keys(utm).map(function(k){ return k + '=' + utm[k]; }).join(' | ');
-    return t || 'direto';
+    var txt = Object.keys(utm).map(function(k){ return k + '=' + utm[k]; }).join(' | ');
+    return txt || 'direto';
   }
 
-  /* máscara simples de telefone */
-  var fone = document.getElementById('fone');
-  fone.addEventListener('input', function(){
-    var d = this.value.replace(/\D/g,'').slice(0,11);
-    this.value = d.length > 10 ? d.replace(/(\d{2})(\d{5})(\d{0,4})/,'($1) $2-$3')
-               : d.length > 6  ? d.replace(/(\d{2})(\d{4})(\d{0,4})/,'($1) $2-$3')
-               : d.length > 2  ? d.replace(/(\d{2})(\d{0,5})/,'($1) $2') : d;
-  });
-
-  function evento(nome){
-    if(window.fbq) fbq('track', nome === 'contato' ? 'Contact' : 'Lead');
-    if(window.gtag) gtag('event', nome === 'contato' ? 'contact' : 'generate_lead',
+  function evento(tipo){
+    if(window.fbq) fbq('track', tipo === 'contato' ? 'Contact' : 'Lead');
+    if(window.gtag) gtag('event', tipo === 'contato' ? 'contact' : 'generate_lead',
       {event_category:'lp_portaria_remota', event_label: origem()});
   }
+
+  var formularios = Array.prototype.slice.call(document.querySelectorAll('.form-lead'));
+
+  /* leva a pessoa ao formulário mais perto de onde ela está */
+  function formularioMaisPerto(){
+    var meio = window.scrollY + window.innerHeight / 2, melhor = formularios[0], menor = Infinity;
+    formularios.forEach(function(f){
+      var d = Math.abs(f.getBoundingClientRect().top + window.scrollY - meio);
+      if(d < menor){ menor = d; melhor = f; }
+    });
+    return melhor;
+  }
+  function irPara(f){
+    f.scrollIntoView({behavior:'smooth', block:'center'});
+    setTimeout(function(){ f.querySelector('input').focus({preventScroll:true}); }, 420);
+  }
+
+  /* botões das chamadas intermediárias e da barra fixa */
+  document.querySelectorAll('.btn-ir').forEach(function(b){
+    b.addEventListener('click', function(ev){
+      ev.preventDefault();
+      var alvo = document.querySelector(b.getAttribute('href'));
+      irPara(alvo ? alvo.querySelector('.form-lead') : formularios[formularios.length - 1]);
+    });
+  });
+  var fixo = document.getElementById('fixaBtn');
+  if(fixo) fixo.addEventListener('click', function(ev){ ev.preventDefault(); irPara(formularioMaisPerto()); });
 
   /* cliques diretos no WhatsApp */
   ['zapTopo','zapFim'].forEach(function(id){
@@ -416,53 +511,57 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
     a.addEventListener('click', function(){ evento('contato'); });
   });
 
-  /* envio do formulário */
-  document.getElementById('form').addEventListener('submit', function(e){
-    e.preventDefault();
-    var nome = document.getElementById('nome').value.trim();
-    var tel  = document.getElementById('fone').value.replace(/\D/g,'');
-    var cid  = document.getElementById('cidade').value.trim();
-    var uni  = document.getElementById('unidades').value;
-    var ok   = document.getElementById('aceite').checked;
-    var alvo = document.getElementById('erroFone');
+  formularios.forEach(function(form){
+    var fone = form.querySelector('[name=fone]');
+    fone.addEventListener('input', function(){
+      var d = this.value.replace(/\D/g,'').slice(0,11);
+      this.value = d.length > 10 ? d.replace(/(\d{2})(\d{5})(\d{0,4})/,'($1) $2-$3')
+                 : d.length > 6  ? d.replace(/(\d{2})(\d{4})(\d{0,4})/,'($1) $2-$3')
+                 : d.length > 2  ? d.replace(/(\d{2})(\d{0,5})/,'($1) $2') : d;
+    });
 
-    alvo.style.display = 'none';
-    var ge = document.getElementById('erroGeral'); ge.style.display='none';
-    if(!nome || !cid || !uni || !ok){ ge.style.display='block'; return; }
-    if(tel.length < 10){ alvo.style.display = 'block'; return; }
+    form.addEventListener('submit', function(e){
+      e.preventDefault();
+      var nome = form.querySelector('[name=nome]').value.trim();
+      var tel  = fone.value.replace(/\D/g,'');
+      var cid  = form.querySelector('[name=cidade]').value.trim();
+      var uni  = form.querySelector('[name=unidades]').value;
+      var ok   = form.querySelector('[name=aceite]').checked;
+      var eFone = form.querySelector('.erro-fone'), eGeral = form.querySelector('.erro-geral');
 
-    var lead = {nome:nome, whatsapp:tel, cidade:cid, unidades:uni, origem:origem(),
-                pagina:'lp-portaria-remota-condominios', data:new Date().toISOString()};
+      eFone.classList.remove('on'); eGeral.classList.remove('on');
+      if(!nome || !cid || !uni || !ok){ eGeral.classList.add('on'); return; }
+      if(tel.length < 10){ eFone.classList.add('on'); fone.focus(); return; }
 
-    /* 1. guarda o lead antes de qualquer coisa, para ele existir mesmo se a pessoa não enviar a mensagem */
-    if(ENDPOINT){
-      try{
-        var blob = new Blob([JSON.stringify(lead)], {type:'application/json'});
-        if(navigator.sendBeacon) navigator.sendBeacon(ENDPOINT, blob);
-        else fetch(ENDPOINT, {method:'POST', body:JSON.stringify(lead), headers:{'Content-Type':'application/json'}, keepalive:true});
-      }catch(err){}
-    }
+      var lead = {nome:nome, whatsapp:tel, cidade:cid, unidades:uni, origem:origem(),
+                  bloco:form.dataset.ctx, pagina:'lp-portaria-remota-condominios', data:new Date().toISOString()};
 
-    evento('lead');
+      /* 1. guarda o lead antes de qualquer coisa, para ele existir mesmo se a pessoa não enviar a mensagem */
+      if(ENDPOINT){
+        try{
+          var blob = new Blob([JSON.stringify(lead)], {type:'application/json'});
+          if(navigator.sendBeacon) navigator.sendBeacon(ENDPOINT, blob);
+          else fetch(ENDPOINT, {method:'POST', body:JSON.stringify(lead), headers:{'Content-Type':'application/json'}, keepalive:true});
+        }catch(err){}
+      }
 
-    var msg = 'Olá! Quero uma proposta de portaria remota.\n\n' +
-              'Nome: ' + nome + '\n' +
-              'Cidade: ' + cid + '\n' +
-              'Unidades: ' + uni + '\n' +
-              'WhatsApp: ' + tel + '\n' +
-              'Origem: ' + origem();
-    document.getElementById('msgOk').textContent = msg;
-    document.getElementById('linkZap').href = 'https://wa.me/' + WHATSAPP + '?text=' + encodeURIComponent(msg);
-    document.getElementById('form').style.display = 'none';
-    document.querySelector('.aviso').style.display = 'none';
-    document.getElementById('ok').style.display = 'block';
-    document.getElementById('ok').scrollIntoView({behavior:'smooth', block:'center'});
-  });
+      evento('lead');
 
-  document.getElementById('fixaBtn').addEventListener('click', function(ev){
-    ev.preventDefault();
-    document.getElementById('nome').scrollIntoView({behavior:'smooth', block:'center'});
-    setTimeout(function(){ document.getElementById('nome').focus(); }, 400);
+      /* 2. abre o WhatsApp já com os dados preenchidos */
+      var msg = 'Olá! Quero uma proposta de portaria remota.\n\n' +
+                'Nome: ' + nome + '\n' +
+                'Cidade: ' + cid + '\n' +
+                'Unidades: ' + uni + '\n' +
+                'WhatsApp: ' + tel + '\n' +
+                'Origem: ' + origem();
+      var cartao = form.parentNode.querySelector('.ok');
+      cartao.querySelector('.msg').textContent = msg;
+      cartao.querySelector('.linkZap').href = 'https://wa.me/' + WHATSAPP + '?text=' + encodeURIComponent(msg);
+      form.style.display = 'none';
+      var av = form.parentNode.querySelector('.aviso'); if(av) av.style.display = 'none';
+      cartao.style.display = 'block';
+      cartao.scrollIntoView({behavior:'smooth', block:'center'});
+    });
   });
 })();
 </script>

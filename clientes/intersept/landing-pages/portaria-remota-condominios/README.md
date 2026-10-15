@@ -18,24 +18,27 @@ Landing page de conversão para tráfego pago, com identidade visual da Intersep
 | Como funciona | Quatro passos, tira o medo do processo |
 | O que está incluído | Seis itens, responde "o que eu recebo por esse valor" |
 | FAQ | Seis objeções reais, incluindo as duas que mais travam: queda de energia e demissão do porteiro |
-| Fechamento | Repete o CTA com oferta de diagnóstico sem compromisso |
+| Chamadas entre seções | Duas faixas azuis quebrando a dobra, depois das dores e depois do que está incluído, com botão que rola até o formulário do fim |
+| Fechamento | Segundo formulário completo, com o WhatsApp como alternativa secundária |
 | Barra fixa no celular | Botão sempre visível, onde está a maior parte do tráfego |
 
 ## Antes de publicar
 
 **1. Número do WhatsApp.** No fim do arquivo, em `CONFIGURAÇÃO`, ajuste `WHATSAPP`. Está com `554140072640`. Vale usar um número dedicado à campanha: separa o lead de anúncio do atendimento geral e facilita medir.
 
-**2. Onde o lead é gravado.** Preencha `ENDPOINT` com a URL de um webhook, um formulário tipo Formspree, um fluxo do n8n ou o que a operação usar. Enquanto estiver vazio, o lead só chega pelo WhatsApp.
+**2. São dois formulários.** Um no topo e um no fechamento, com o mesmo comportamento. O lead registra em qual deles a pessoa preencheu, no campo `bloco`, então dá para medir qual converte mais. Os botões das faixas intermediárias e a barra fixa do celular levam ao formulário mais perto de onde a pessoa está, em vez de jogar ela de volta ao topo.
+
+**3. Onde o lead é gravado.** Preencha `ENDPOINT` com a URL de um webhook, um formulário tipo Formspree, um fluxo do n8n ou o que a operação usar. Enquanto estiver vazio, o lead só chega pelo WhatsApp.
 
 Esse ponto importa mais do que parece. A página grava o lead **antes** de abrir o WhatsApp. Se a pessoa desistir de enviar a mensagem, os dados dela já estão registrados e alguém pode retomar. Hoje, quem abandona nessa etapa some sem deixar rastro.
 
-**3. Tags de conversão.** No fim do arquivo há o bloco de Meta Pixel e GA4, comentado. Cole os IDs e remova os comentários. A página já dispara `Lead` e `Contact` no Meta, e `generate_lead` e `contact` no GA4.
+**4. Tags de conversão.** No fim do arquivo há o bloco de Meta Pixel e GA4, comentado. Cole os IDs e remova os comentários. A página já dispara `Lead` e `Contact` no Meta, e `generate_lead` e `contact` no GA4.
 
-**4. Origem do anúncio.** A página captura `utm_source`, `utm_medium`, `utm_campaign`, `utm_content`, `utm_term`, `gclid` e `fbclid`, guarda na sessão e manda junto na mensagem do WhatsApp e no registro do lead. É isso que permite dizer depois qual campanha trouxe qual contrato.
+**5. Origem do anúncio.** A página captura `utm_source`, `utm_medium`, `utm_campaign`, `utm_content`, `utm_term`, `gclid` e `fbclid`, guarda na sessão e manda junto na mensagem do WhatsApp e no registro do lead. É isso que permite dizer depois qual campanha trouxe qual contrato.
 
-**5. Prova social.** Há um bloco comentado reservado para depoimentos. Só publique depoimento real e autorizado por escrito. Depoimento inventado é propaganda enganosa e derruba a credibilidade da página.
+**6. Prova social.** Há um bloco comentado reservado para depoimentos. Só publique depoimento real e autorizado por escrito. Depoimento inventado é propaganda enganosa e derruba a credibilidade da página.
 
-**6. Política de privacidade.** O aceite aponta para `intersept.com.br/politica-de-privacidade/`, que está no ar. Confirme se o texto cobre captação por landing page e contato comercial.
+**7. Política de privacidade.** O aceite aponta para `intersept.com.br/politica-de-privacidade/`, que está no ar. Confirme se o texto cobre captação por landing page e contato comercial.
 
 ## Onde hospedar
 
