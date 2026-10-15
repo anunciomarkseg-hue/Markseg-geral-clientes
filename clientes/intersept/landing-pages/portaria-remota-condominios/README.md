@@ -52,6 +52,18 @@ A estrutura serve para as outras ofertas, trocando só a copy. A ordem de priori
 
 Uma página por oferta, uma campanha por página. Não misture.
 
+## Prévia para aprovação
+
+[`preview-artifact.html`](preview-artifact.html) é a mesma página adaptada para rodar no painel de prévia do Claude, publicada em https://claude.ai/artifact/T3HnXAQ4hA29BHExZTjTfx
+
+Três diferenças em relação ao `index.html`, todas por limitação do ambiente de prévia, que bloqueia imagem de domínio externo e navegação para fora:
+
+- Logo e fonte Poppins embutidos no arquivo, o que leva a página de 21 KB para 88 KB
+- Ao enviar o formulário, a página mostra como o lead chega em vez de abrir o WhatsApp
+- Sem validação por `alert`, que o painel não exibe
+
+**O arquivo que vai para o ar é o `index.html`.** O `preview-artifact.html` serve só para aprovação. Se a página mudar, regere a prévia a partir do `index.html` para as duas não divergirem.
+
 ## Observação sobre o logo
 
 Usei o escudo oficial da Intersept, o mesmo do ícone do site, com o nome em texto ao lado para ficar legível em tamanho pequeno. Vale um aviso: há no site um arquivo chamado `logo-intersat-fundo` que mostra a marca **INTERSAT**, escrita diferente. Não usei esse arquivo. Se for um material antigo ou de outra empresa, vale conferir onde ele está aparecendo no site.
