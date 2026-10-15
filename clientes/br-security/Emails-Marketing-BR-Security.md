@@ -65,7 +65,7 @@ Ninguém recebe mais de um e-mail por semana, com exceção da semana do evento.
 * **Pré-cabeçalho:** Dia 21/10, em São Paulo. E se não puder ir, a gente vai até você
 
 <!--email-->
-Olá, \*|FNAME|\*.
+Olá,
 
 Você conheceu a BR Security na [Exposec / no evento da Abese]. Desde então, o gerador de névoa entrou em farmácia, joalheria, central de monitoramento e armazém, em vários estados.
 
@@ -82,11 +82,12 @@ Distrito Anhembi, São Paulo
 
 Não vai a São Paulo? Responda este e-mail que a gente agenda uma demonstração na sua cidade.
 
-[Nome]
+Time BR Security
 BR Security. Segurança garantida.
+Brasil: +55 (11) 97556.5874 · Espanha: +34 609 44 56 47
 <!--/email-->
 
-**Botão leva para:** formulário curto ou WhatsApp do comercial, com a mensagem "Quero reservar um horário no SegSummit".
+**Botão leva para:** WhatsApp +55 (11) 97556.5874, com a mensagem pronta "Olá! Quero reservar um horário com a BR Security no SegSummit." Design em `emails/E1-Convite-SegSummit.html`.
 **Tag para quem clicar:** `SegSummit: horário pedido`. O comercial confirma o horário em até 24h.
 
 </div>
