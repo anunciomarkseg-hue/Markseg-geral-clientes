@@ -70,7 +70,7 @@ p{margin:0 0 14px}
 .sec--claro{background:var(--fundo)}
 
 /* topo sem navegação, para não vazar o tráfego pago */
-.topo{background:var(--escuro);padding:14px 0}
+.topo{background:linear-gradient(100deg,#061228 0%,#0d2247 55%,#13305e 100%);padding:14px 0}
 .topo .env{display:flex;align-items:center;justify-content:space-between;gap:16px}
 .topo img{height:44px;width:44px}
 .marca{display:flex;align-items:center;gap:11px;text-decoration:none}
@@ -79,10 +79,24 @@ p{margin:0 0 14px}
 .topo .fone{color:#b9c8e4;font-size:13px;font-weight:600}
 @media (max-width:520px){.topo .fone{display:none}}
 
-.hero{background:var(--escuro);background-image:linear-gradient(155deg,#071530 0%,#0f2a57 55%,#16305c 100%);color:#fff;padding:52px 0 60px}
+.hero{position:relative;overflow:hidden;color:#fff;padding:52px 0 60px;background:#071530;
+  background-image:linear-gradient(152deg,#061024 0%,#0c2350 42%,#16356b 72%,#1b3f89 100%)}
+.hero::before,.hero::after{content:"";position:absolute;border-radius:50%;pointer-events:none}
+.hero::before{width:760px;height:760px;top:-330px;right:-200px;
+  background:radial-gradient(circle,rgba(51,94,182,.6) 0%,rgba(51,94,182,0) 66%);
+  animation:luz 9s ease-in-out infinite}
+.hero::after{width:520px;height:520px;bottom:-280px;left:-160px;
+  background:radial-gradient(circle,rgba(254,237,1,.14) 0%,rgba(254,237,1,0) 68%);
+  animation:luz 11s ease-in-out infinite reverse}
+.hero .env{position:relative;z-index:1}
+@keyframes luz{0%,100%{transform:scale(1);opacity:.7}50%{transform:scale(1.14);opacity:1}}
 .hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:44px;align-items:start}
 .selo{display:inline-block;background:rgba(254,237,1,.14);color:var(--amarelo);font-size:12.5px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;padding:7px 13px;border-radius:4px;margin-bottom:18px}
 .hero h1{color:#fff}
+.realce{color:var(--amarelo);display:inline;padding:0 1px;
+  -webkit-box-decoration-break:clone;box-decoration-break:clone;
+  background:linear-gradient(to top,rgba(254,237,1,.16) 0 .22em,transparent .22em);
+  text-shadow:0 0 34px rgba(254,237,1,.32)}
 .hero .sub{color:#c6d3ea;font-size:18px;margin-bottom:24px}
 .lista{list-style:none;margin:0 0 26px;padding:0}
 .lista li{position:relative;padding-left:30px;margin-bottom:11px;color:#dce5f4;font-size:16px}
@@ -100,10 +114,22 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
 .consent input{width:17px;height:17px;margin:3px 0 0;flex:none}
 .consent span{font-size:12.5px;color:var(--cinza);line-height:1.45}
 .consent a{color:var(--azul)}
-.btn{display:block;width:100%;border:0;border-radius:7px;background:var(--amarelo);color:var(--escuro);
-  font-family:var(--fonte);font-size:17px;font-weight:700;padding:16px;cursor:pointer;text-align:center;text-decoration:none;transition:filter .15s}
-.btn:hover{filter:brightness(.93)}
-.btn--linha{background:transparent;color:#fff;border:1.5px solid rgba(255,255,255,.45);font-size:15.5px;padding:13px}
+.btn{position:relative;overflow:hidden;isolation:isolate;display:block;width:100%;border:0;border-radius:8px;
+  background:linear-gradient(135deg,#ffe600 0%,var(--amarelo) 50%,#ffd400 100%);color:var(--escuro);
+  font-family:var(--fonte);font-size:17px;font-weight:700;padding:17px;cursor:pointer;text-align:center;text-decoration:none;
+  box-shadow:0 8px 22px rgba(254,237,1,.28),0 2px 6px rgba(2,11,26,.18);
+  transition:transform .18s ease,box-shadow .18s ease,filter .18s ease}
+.btn::after{content:"";position:absolute;inset:-60% auto -60% 0;width:42%;left:-70%;z-index:-1;
+  background:linear-gradient(100deg,transparent 0%,rgba(255,255,255,.85) 50%,transparent 100%);
+  transform:skewX(-18deg);animation:brilho 4.2s ease-in-out infinite}
+.btn:hover{transform:translateY(-2px);box-shadow:0 14px 30px rgba(254,237,1,.42),0 3px 8px rgba(2,11,26,.22)}
+.btn:active{transform:translateY(0)}
+@keyframes brilho{0%{left:-70%}55%{left:135%}100%{left:135%}}
+.btn--linha{background:transparent;color:#fff;border:1.5px solid rgba(255,255,255,.4);font-size:15.5px;padding:13px;
+  box-shadow:none}
+.btn--linha::after{background:linear-gradient(100deg,transparent 0%,rgba(255,255,255,.3) 50%,transparent 100%)}
+.btn--linha:hover{border-color:rgba(255,255,255,.75);background:rgba(255,255,255,.07);
+  transform:translateY(-2px);box-shadow:0 10px 24px rgba(0,0,0,.22)}
 .sob{text-align:center;font-size:12.5px;color:var(--cinza);margin-top:12px}
 .erro{color:#c0392b;font-size:13px;margin:-8px 0 12px;display:none}
 
@@ -132,14 +158,25 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
 .faq details[open] summary::after{content:"–"}
 .faq .resp{padding:0 20px 18px;color:var(--cinza);font-size:15.5px}
 
-.fecho{background:var(--azul);color:#fff;text-align:center}
+.fecho{position:relative;overflow:hidden;color:#fff;text-align:center;background:var(--azul);
+  background-image:linear-gradient(130deg,#132c61 0%,var(--azul) 40%,#2a57ad 100%)}
+.fecho::before{content:"";position:absolute;width:680px;height:680px;border-radius:50%;top:-340px;left:50%;
+  margin-left:-340px;pointer-events:none;
+  background:radial-gradient(circle,rgba(254,237,1,.17) 0%,rgba(254,237,1,0) 65%);
+  animation:luz 10s ease-in-out infinite}
+.fecho .env{position:relative;z-index:1}
 .fecho h2{color:#fff}
 .fecho p{color:#d3deef;max-width:620px;margin:0 auto 26px}
 .fecho .btn{max-width:420px;margin:0 auto}
 
-.rodape{background:var(--escuro);color:#8fa3c4;padding:30px 0;font-size:13px;text-align:center}
+.rodape{background:linear-gradient(100deg,#061228 0%,#0a1a33 60%,#0d2247 100%);color:#8fa3c4;padding:30px 0;font-size:13px;text-align:center}
 .rodape a{color:#8fa3c4}
 .rodape strong{color:#fff;display:block;margin-bottom:6px;font-size:14px}
+
+@media (prefers-reduced-motion:reduce){
+  .btn::after,.hero::before,.hero::after,.fecho::before{animation:none}
+  .btn,.btn--linha{transition:none}
+}
 
 /* barra fixa no celular */
 .fixa{display:none}
@@ -178,7 +215,7 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
   <div class="env hero-grid">
     <div>
       <span class="selo">Para síndicos e administradoras</span>
-      <h1>Portaria remota 24 horas para o seu condomínio</h1>
+      <h1><span class="realce">Portaria remota 24 horas</span><br>para o seu condomínio</h1>
       <p class="sub">Controle de acesso operado pela nossa central, com ronda e atendimento tático quando algo acontece. Custo menor que um posto 24 horas e registro de cada entrada.</p>
       <ul class="lista">
         <li>Atendimento imediato, inclusive de madrugada e no fim de semana</li>
