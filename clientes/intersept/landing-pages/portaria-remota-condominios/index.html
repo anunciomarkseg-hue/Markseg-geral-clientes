@@ -111,8 +111,8 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
 .chamada-cta .btn{width:auto;flex:none;padding:14px 30px;font-size:16px}
 
 /* formulário do fechamento */
-.card--fim{max-width:520px;margin:26px auto 0;text-align:left}
-.fecho .alt{font-size:14.5px;color:#cfdbf0;margin:18px 0 0}
+.fecho .btn{max-width:420px;margin:0 auto}
+.fecho .alt{font-size:14.5px;color:#cfdbf0;margin:26px 0 0}
 .fecho .alt a{color:var(--amarelo);font-weight:700;text-decoration:underline}
 
 /* barra de confiança */
@@ -220,7 +220,7 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
       </div>
     </div>
 
-    <div class="card">
+    <div class="card" id="proposta">
       <h2>Receba uma proposta</h2>
       <p class="apoio">Preencha e fale com um especialista. Sem compromisso.</p>
       <form class="form-lead" data-ctx="topo" novalidate>
@@ -343,41 +343,11 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
   </div>
 </section>
 
-<section class="sec fecho" id="proposta">
+<section class="sec fecho">
   <div class="env">
     <h2>Peça o diagnóstico do seu condomínio</h2>
     <p>Visita técnica sem compromisso. Levantamos os acessos, o perímetro e o fluxo real, e apresentamos a proposta com números.</p>
-    <div class="card card--fim">
-      <form class="form-lead" data-ctx="fim" novalidate>
-        <label for="nome-fim">Seu nome</label>
-        <input type="text" id="nome-fim" name="nome" autocomplete="name" required>
-
-        <label for="fone-fim">WhatsApp com DDD</label>
-        <input type="tel" id="fone-fim" name="fone" inputmode="numeric" autocomplete="tel" placeholder="(41) 90000-0000" required>
-        <p class="erro erro-fone">Informe um WhatsApp válido com DDD.</p>
-
-        <label for="cidade-fim">Cidade do condomínio</label>
-        <input type="text" id="cidade-fim" name="cidade" autocomplete="address-level2" required>
-
-        <label for="unidades-fim">Quantas unidades</label>
-        <select id="unidades-fim" name="unidades" required>
-          <option value="">Selecione</option>
-          <option>Até 30</option>
-          <option>31 a 80</option>
-          <option>81 a 150</option>
-          <option>Mais de 150</option>
-        </select>
-
-        <div class="consent">
-          <input type="checkbox" id="aceite-fim" name="aceite" required>
-          <label for="aceite-fim" class="consent-txt">Autorizo o contato da Intersept e o tratamento dos meus dados conforme a <a href="https://intersept.com.br/politica-de-privacidade/" target="_blank" rel="noopener">política de privacidade</a>.</label>
-        </div>
-
-        <p class="erro erro-geral">Preencha todos os campos e aceite a política de privacidade.</p>
-        <button class="btn" type="submit">Quero uma proposta</button>
-        <p class="sob">Retorno em horário comercial. Fora dele, o atendimento inicial é imediato pela central.</p>
-      </form>
-    </div>
+    <a class="btn btn-ir" href="#proposta">Quero uma proposta</a>
     <p class="alt">Prefere falar agora? <a id="zapFim" href="https://wa.me/554140072640" rel="nofollow noopener">Chame no WhatsApp</a></p>
   </div>
 </section>
@@ -428,8 +398,9 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
     return melhor;
   }
   function irPara(f){
-    f.scrollIntoView({behavior:'smooth', block:'center'});
-    setTimeout(function(){ f.querySelector('input').focus({preventScroll:true}); }, 420);
+    var longe = Math.abs(f.getBoundingClientRect().top) > 1500;
+    f.scrollIntoView({behavior: longe ? 'auto' : 'smooth', block:'center'});
+    setTimeout(function(){ f.querySelector('input').focus({preventScroll:true}); }, longe ? 60 : 420);
   }
 
   /* botões das chamadas intermediárias e da barra fixa */

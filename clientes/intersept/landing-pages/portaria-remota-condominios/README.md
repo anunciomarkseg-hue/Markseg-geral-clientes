@@ -19,14 +19,14 @@ Landing page de conversão para tráfego pago, com identidade visual da Intersep
 | O que está incluído | Seis itens, responde "o que eu recebo por esse valor" |
 | FAQ | Seis objeções reais, incluindo as duas que mais travam: queda de energia e demissão do porteiro |
 | Chamadas entre seções | Duas faixas azuis quebrando a dobra, depois das dores e depois do que está incluído, com botão que rola até o formulário do fim |
-| Fechamento | Segundo formulário completo, com o WhatsApp como alternativa secundária |
+| Fechamento | Botão que leva ao formulário, com o WhatsApp como alternativa secundária |
 | Barra fixa no celular | Botão sempre visível, onde está a maior parte do tráfego |
 
 ## Antes de publicar
 
 **1. Número do WhatsApp.** No fim do arquivo, em `CONFIGURAÇÃO`, ajuste `WHATSAPP`. Está com `554140072640`. Vale usar um número dedicado à campanha: separa o lead de anúncio do atendimento geral e facilita medir.
 
-**2. São dois formulários.** Um no topo e um no fechamento, com o mesmo comportamento. O lead registra em qual deles a pessoa preencheu, no campo `bloco`, então dá para medir qual converte mais. Os botões das faixas intermediárias e a barra fixa do celular levam ao formulário mais perto de onde a pessoa está, em vez de jogar ela de volta ao topo.
+**2. Um formulário, três botões que levam até ele.** O formulário fica no topo. As duas faixas intermediárias, o botão do fechamento e a barra fixa do celular rolam até ele e já deixam o cursor no primeiro campo. Quando a distância passa de 1500 px, o salto é imediato em vez de rolagem animada, para a pessoa não ficar vendo a página correr.
 
 **3. Onde o lead é gravado.** Preencha `ENDPOINT` com a URL de um webhook, um formulário tipo Formspree, um fluxo do n8n ou o que a operação usar. Enquanto estiver vazio, o lead só chega pelo WhatsApp.
 
