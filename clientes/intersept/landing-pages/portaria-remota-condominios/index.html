@@ -112,8 +112,7 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
 
 /* formulário do fechamento */
 .fecho .btn{max-width:420px;margin:0 auto}
-.fecho .alt{font-size:14.5px;color:#cfdbf0;margin:26px 0 0}
-.fecho .alt a{color:var(--amarelo);font-weight:700;text-decoration:underline}
+
 
 /* barra de confiança */
 .pt{width:8px;height:8px;border-radius:50%;background:var(--amarelo);flex:none}
@@ -348,7 +347,6 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
     <h2>Peça o diagnóstico do seu condomínio</h2>
     <p>Visita técnica sem compromisso. Levantamos os acessos, o perímetro e o fluxo real, e apresentamos a proposta com números.</p>
     <a class="btn btn-ir" href="#proposta">Quero uma proposta</a>
-    <p class="alt">Prefere falar agora? <a id="zapFim" href="https://wa.me/554140072640" rel="nofollow noopener">Chame no WhatsApp</a></p>
   </div>
 </section>
 
@@ -415,7 +413,7 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
   if(fixo) fixo.addEventListener('click', function(ev){ ev.preventDefault(); irPara(formularioMaisPerto()); });
 
   /* cliques diretos no WhatsApp */
-  ['zapTopo','zapFim'].forEach(function(id){
+  ['zapTopo'].forEach(function(id){
     var a = document.getElementById(id); if(!a) return;
     a.href = 'https://wa.me/' + WHATSAPP + '?text=' +
       encodeURIComponent('Olá! Vim pela página de portaria remota e quero falar com um especialista. (origem: ' + origem() + ')');

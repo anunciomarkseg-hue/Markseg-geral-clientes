@@ -19,7 +19,7 @@ Landing page de conversão para tráfego pago, com identidade visual da Intersep
 | O que está incluído | Seis itens, responde "o que eu recebo por esse valor" |
 | FAQ | Seis objeções reais, incluindo as duas que mais travam: queda de energia e demissão do porteiro |
 | Chamadas entre seções | Duas faixas azuis quebrando a dobra, depois das dores e depois do que está incluído, com botão que rola até o formulário do fim |
-| Fechamento | Botão que leva ao formulário, com o WhatsApp como alternativa secundária |
+| Fechamento | Botão único que leva ao formulário |
 | Barra fixa no celular | Botão sempre visível, onde está a maior parte do tráfego |
 
 ## Antes de publicar
