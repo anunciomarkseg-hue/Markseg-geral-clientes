@@ -18,6 +18,8 @@
 
 Decisões da reunião de 05/10 aplicadas aqui:
 
+0. **Ajustes da Monique em 15/10:** nenhum e-mail menciona o NG500. O SegSummit é anunciado como lançamento, sem dizer o que será lançado. As peças usam a identidade do site da BR Security (preto #020202, verde limão #F1FC00, fontes Anton e Titillium Web) e o logo do SegSummit. Amarelo não faz parte da marca.
+
 1. **A base é de relacionamento.** Os contatos já tiveram um primeiro contato com a BR Security na Exposec ou nos eventos da Abese. O tom é de retomada de conversa, não de apresentação para lista fria.
 2. **O e-mail 3 da reativação ("Posso continuar te mandando isso?") fica em espera**, a pedido da Monique. Não está neste documento.
 3. **Banco só como caso de sucesso.** Nenhum e-mail pergunta se o equipamento "é coisa de banco".
@@ -57,7 +59,7 @@ Ninguém recebe mais de um e-mail por semana, com exceção da semana do evento.
 **Versão Exposec**
 
 * **Assunto:** Nos vimos na Exposec. Agora é no SegSummit
-* **Pré-cabeçalho:** Dia 21/10, no Distrito Anhembi. Reserve um horário com a gente
+* **Pré-cabeçalho:** Dia 21/10, no Distrito Anhembi. Vamos levar um lançamento
 
 **Versão Abese**
 
@@ -69,11 +71,11 @@ Olá,
 
 Você conheceu a BR Security na [Exposec / no evento da Abese]. Desde então, o gerador de névoa entrou em farmácia, joalheria, central de monitoramento e armazém, em vários estados.
 
-No dia 21 de outubro estaremos no SegSummit, no Distrito Anhembi, em São Paulo, com o equipamento [funcionando para demonstração]. É a chance de ver a névoa ocupar o ambiente em segundos, na sua frente, e conversar com a nossa engenharia sobre o projeto que você tem em mãos.
+No dia 21 de outubro estaremos no SegSummit, no Distrito Anhembi, e vamos levar um lançamento. A apresentação acontece no nosso estande, com demonstração ao vivo e a nossa engenharia para conversar sobre o projeto que você tem em mãos.
 
-São quinze minutos. Reserve o seu horário e a gente te espera.
+Reserve o seu horário e veja primeiro.
 
-**[Botão] Reservar meu horário no SegSummit**
+**[Botão] Reservar meu horário**
 
 SegSummit 2026
 21/10, das 14h às 20h
@@ -179,7 +181,7 @@ Três coisas que todo mundo perguntou:
 
 1. A névoa é atóxica, seca e não deixa resíduo. Pode ser usada em loja de roupa, farmácia e perto de eletrônicos.
 2. O equipamento só dispara por comando da central de alarme. Não dispara sozinho.
-3. O NG500 ocupa 500 m³ em 60 segundos. O NG1000, 1.500 m³ no mesmo tempo.
+3. O NG1000 ocupa 1.500 m³ em 60 segundos. O NG2000, 2.800 m³ em 110 segundos.
 
 Quer ver isso acontecendo no ambiente do seu cliente ou da sua loja? Responda este e-mail que a gente agenda uma demonstração.
 
@@ -308,7 +310,7 @@ Cada negócio perde de um jeito diferente.
 **Joalheria:** valor altíssimo concentrado em vitrine.
 **Depósito e centro de distribuição:** volume grande, muitas horas sem ninguém.
 
-O gerador de névoa é dimensionado pelo volume de cada ambiente. O NG500 cobre 500 m³ em 60 segundos, o NG1000 cobre 1.500 m³ e o NG2000 cobre 2.800 m³ em 110 segundos.
+O gerador de névoa é dimensionado pelo volume de cada ambiente. O NG1000 cobre 1.500 m³ em 60 segundos e o NG2000 cobre 2.800 m³ em 110 segundos.
 
 Qual desses é o seu caso?
 
