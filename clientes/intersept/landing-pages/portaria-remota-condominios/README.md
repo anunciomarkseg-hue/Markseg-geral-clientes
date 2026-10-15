@@ -70,3 +70,10 @@ Três diferenças em relação ao `index.html`, todas por limitação do ambient
 ## Observação sobre o logo
 
 Usei o escudo oficial da Intersept, o mesmo do ícone do site, com o nome em texto ao lado para ficar legível em tamanho pequeno. Vale um aviso: há no site um arquivo chamado `logo-intersat-fundo` que mostra a marca **INTERSAT**, escrita diferente. Não usei esse arquivo. Se for um material antigo ou de outra empresa, vale conferir onde ele está aparecendo no site.
+
+## Arquivos de apresentação
+
+| Arquivo | Para que serve |
+| --- | --- |
+| `Intersept-LP-Portaria-Remota.pdf` | Página inteira em uma folha só, sem corte (21,0 × 99,6 cm). Serve para ver a LP de ponta a ponta na tela, rolando. Não imprime em A4 e abre reduzida em alguns leitores. |
+| `Intersept-LP-Portaria-Remota-A4.pdf` | Mesma LP em 3 páginas A4, cortada só entre seções. É o arquivo para enviar ao cliente, abrir no celular e imprimir. |
