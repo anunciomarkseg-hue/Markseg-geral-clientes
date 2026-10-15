@@ -27,7 +27,7 @@ html{-webkit-text-size-adjust:100%}
 body{margin:0;font-family:var(--fonte);font-weight:500;color:var(--texto);background:#fff;line-height:1.6;font-size:17px}
 img{max-width:100%;height:auto;display:block}
 h1,h2,h3{font-weight:700;line-height:1.2;margin:0 0 14px}
-h1{font-size:clamp(28px,5vw,44px);letter-spacing:-.5px}
+h1{font-size:clamp(24px,4.4vw,40px);letter-spacing:-.5px}
 h2{font-size:clamp(23px,3.4vw,32px);letter-spacing:-.3px}
 h3{font-size:18px}
 p{margin:0 0 14px}
@@ -56,13 +56,11 @@ p{margin:0 0 14px}
   animation:luz 11s ease-in-out infinite reverse}
 .hero .env{position:relative;z-index:1}
 @keyframes luz{0%,100%{transform:scale(1);opacity:.7}50%{transform:scale(1.14);opacity:1}}
-.hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:44px;align-items:start}
+.hero-grid{display:grid;grid-template-columns:1.25fr .95fr;gap:44px;align-items:start}
 .selo{display:inline-block;background:rgba(254,237,1,.14);color:var(--amarelo);font-size:12.5px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;padding:7px 13px;border-radius:4px;margin-bottom:18px}
 .hero h1{color:#fff}
-.realce{color:var(--amarelo);display:inline;padding:0 1px;
-  -webkit-box-decoration-break:clone;box-decoration-break:clone;
-  background:linear-gradient(to top,rgba(254,237,1,.16) 0 .22em,transparent .22em);
-  text-shadow:0 0 34px rgba(254,237,1,.32)}
+.realce{color:var(--amarelo);display:block;white-space:nowrap;
+  text-shadow:0 0 36px rgba(254,237,1,.35)}
 .hero .sub{color:#c6d3ea;font-size:18px;margin-bottom:24px}
 .lista{list-style:none;margin:0 0 26px;padding:0}
 .lista li{position:relative;padding-left:30px;margin-bottom:11px;color:#dce5f4;font-size:16px}
@@ -144,6 +142,13 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
   .btn,.btn--linha{transition:none}
 }
 
+@media (max-width:1000px){
+  .hero-grid{grid-template-columns:1fr;gap:30px}
+}
+@media (max-width:340px){
+  h1{font-size:22px}
+}
+
 /* barra fixa no celular */
 .fixa{display:none}
 @media (max-width:860px){
@@ -173,7 +178,7 @@ input:focus,select:focus{outline:none;border-color:var(--azul)}
   <div class="env hero-grid">
     <div>
       <span class="selo">Para síndicos e administradoras</span>
-      <h1><span class="realce">Portaria remota 24 horas</span><br>para o seu condomínio</h1>
+      <h1><span class="realce">Portaria remota 24 horas</span>para o seu condomínio</h1>
       <p class="sub">Controle de acesso operado pela nossa central, com ronda e atendimento tático quando algo acontece. Custo menor que um posto 24 horas e registro de cada entrada.</p>
       <ul class="lista">
         <li>Atendimento imediato, inclusive de madrugada e no fim de semana</li>
