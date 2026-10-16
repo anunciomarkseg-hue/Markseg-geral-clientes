@@ -7,7 +7,7 @@
 | **Cliente** | BR Security (marca de produto: Névoa Global) |
 | **Base** | Plano de Mídia LinkedIn, ciclo de 28/09/2026 a 27/12/2026 |
 | **Publicação** | Perfil pessoal do porta-voz, com repost da página da BR Security no mesmo dia (seção 5.1 do plano) |
-| **Evento** | SegSummit 2026, 21/10 (quarta), das 08:00h às 21:00h, Distrito Anhembi, São Paulo |
+| **Evento** | SegSummit 2026, 21/10 (quarta), das 8h às 20h, Distrito Anhembi, São Paulo |
 | **Data** | Outubro de 2026 |
 
 > **Como ler este documento.** Os blocos com fundo amarelo e o selo **SEGSUMMIT** são os que falam do evento. São seis: três publicações extras de baixo esforço (convite, ao vivo e resumo, que entram no espaço livre da cadência semanal e não consomem pauta do contrato) e três pautas do calendário que ganharam um fecho ou uma linha sobre o evento. As outras nove pautas seguem o plano sem alteração.
@@ -417,7 +417,7 @@ Se você é integrador, atende central de monitoramento ou cuida de prevenção 
 Me chame aqui que eu deixo um horário reservado.
 
 SegSummit 2026
-21/10, das 08:00h às 21:00h
+21/10, das 8h às 20h
 Distrito Anhembi, São Paulo
 Stand 214
 
@@ -545,7 +545,7 @@ BR Security. Segurança garantida.
 <!--toque-->
 Hoje estamos no SegSummit, no Distrito Anhembi.
 
-Se você está por aqui, passe em Stand 214 até as 21:00h. A engenharia está mostrando o dimensionamento por metro cúbico e o registro de eventos em cartão SD, com o equipamento na sua frente.
+Se você está por aqui, passe em Stand 214 até as 20h. A engenharia está mostrando o dimensionamento por metro cúbico e o registro de eventos em cartão SD, com o equipamento na sua frente.
 
 Se não veio, me chame aqui. Mando o vídeo da demonstração ainda esta semana.
 

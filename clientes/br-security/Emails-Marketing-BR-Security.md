@@ -78,7 +78,7 @@ Reserve o seu horário e veja primeiro.
 **[Botão] Reservar meu horário**
 
 SegSummit 2026
-21/10, das 08:00h às 21:00h
+21/10, das 8h às 20h
 Distrito Anhembi, São Paulo
 Stand 214
 
@@ -109,7 +109,7 @@ Brasil: +55 (11) 97556.5874 · Espanha: +34 609 44 56 47
 <!--email-->
 \*|FNAME|\*, é nesta quarta.
 
-Dia 21, das 08:00h às 21:00h, estaremos no SegSummit, no Distrito Anhembi, mostrando o gerador de névoa em funcionamento.
+Dia 21, das 8h às 20h, estaremos no SegSummit, no Distrito Anhembi, mostrando o gerador de névoa em funcionamento.
 
 Se você atende varejo, central de monitoramento ou cuida de prevenção de perdas, vale passar para ver de perto como o equipamento é dimensionado por metro cúbico e como ele se integra à central que você já usa.
 
