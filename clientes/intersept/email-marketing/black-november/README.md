@@ -6,7 +6,8 @@ Peça de e-mail para a campanha de novembro: **50% de desconto em 3 mensalidades
 
 | Arquivo | Para que serve |
 | --- | --- |
-| `email-black-november.html` | Código do e-mail. É o que vai no editor de HTML da Brevo. |
+| `email-black-november.html` | Código do e-mail completo, com os fundos de neon. Usa 7 imagens. |
+| `email-black-november-1-IMAGEM.html` | Mesma peça com só a arte do topo. Os fundos viram cor sólida e os cards perdem o ícone. Use quando subir 7 imagens na galeria for trabalhoso: só precisa de uma URL. |
 | `imagens/banner-black-november.jpg` | Arte da campanha no topo, 1200 px de largura (exibida em 600). |
 | `imagens/fundo-email.jpg` | Fundo da peça: azul noturno com o piso de neon da campanha. |
 | `imagens/faixa-cta.jpg` | Piso de neon atrás do botão de chamada. |
@@ -14,6 +15,7 @@ Peça de e-mail para a campanha de novembro: **50% de desconto em 3 mensalidades
 | `imagens/icone-alarme.png` | Ícone do bloco "Segurança eletrônica inteligente", recortado do panfleto. |
 | `imagens/icone-central-24h.png` | Ícone do bloco "Central de monitoramento 24 horas", recortado do panfleto. |
 | `imagens/icone-seguranca-legal.png` | Ícone do bloco "Empresa autorizada pela Polícia Federal", recortado do panfleto. |
+| `previews/preview-1-imagem.html` | Prévia da versão de uma imagem só. |
 | `previews/preview-black-november.html` | Mesma peça com os caminhos locais das imagens, só para abrir no navegador e conferir. |
 | `Intersept-Email-Black-November-APROVACAO.pdf` | Ficha da campanha e a peça inteira, para enviar ao cliente aprovar. |
 
@@ -28,6 +30,10 @@ Teste A/B com dois deles e deixe o terceiro para o reenvio aos não abertos.
 | C · urgência | Só em novembro: 50% em 3 mensalidades do contrato | Prazo, indicado para o disparo de reforço no fim do mês |
 
 **Pré-header** (já está no código): *Desconto de 50% em 3 mensalidades para contratos fechados em novembro. Fale com um consultor.*
+
+## O erro mais comum
+
+Subir as imagens na galeria **não troca nada no código**. O código continua apontando para o nome do arquivo, e nome de arquivo não existe para quem abre o e-mail. Depois de subir, é obrigatório voltar ao editor e substituir cada nome pela URL que a galeria gerou. Para conferir, procure por `banner-black-november.jpg` dentro do código: se ainda encontrar, a troca não foi feita.
 
 ## Passo a passo na Brevo
 
