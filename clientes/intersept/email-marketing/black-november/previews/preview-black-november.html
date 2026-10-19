@@ -19,14 +19,13 @@
   .btn a:hover{background-color:#ffd900!important;}
   @media screen and (max-width:620px){
     .wrap{width:100%!important;}
-    .pad{padding-left:22px!important;padding-right:22px!important;}
+    .pad{padding-left:20px!important;padding-right:20px!important;}
     .h1{font-size:25px!important;line-height:33px!important;}
-    .n50{font-size:52px!important;line-height:54px!important;}
     .col{display:block!important;width:100%!important;}
     .col-ico{width:100%!important;text-align:center!important;padding:0 0 12px 0!important;}
+    .col-ico img{margin:0 auto!important;}
     .col-txt{width:100%!important;text-align:center!important;}
     .btn a{display:block!important;width:100%!important;box-sizing:border-box!important;}
-    .seg td{font-size:12px!important;}
   }
 </style>
 </head>
@@ -41,20 +40,23 @@
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background-color:#040b1a;">
 <tr><td align="center" style="padding:24px 12px;">
 
-  <table role="presentation" class="wrap" width="600" cellpadding="0" cellspacing="0" border="0" style="width:600px;max-width:600px;background-color:#0a1830;border-radius:8px;overflow:hidden;">
+  <!-- FUNDO DA PEÇA: troque o endereço de fundo-email.jpg pela URL da galeria da Brevo (aparece duas vezes nesta linha) -->
+  <table role="presentation" class="wrap" width="600" cellpadding="0" cellspacing="0" border="0"
+         bgcolor="#060f22" background="../imagens/fundo-email.jpg"
+         style="width:600px;max-width:600px;border-radius:8px;overflow:hidden;background-color:#060f22;background-image:url('../imagens/fundo-email.jpg');background-repeat:no-repeat;background-position:bottom center;background-size:100% auto;">
 
     <!-- CABEÇALHO -->
     <tr>
-      <td align="left" style="background-color:#050d1f;padding:20px 32px;border-bottom:1px solid #16305c;">
+      <td align="left" style="background-color:#04091a;padding:20px 32px;border-bottom:1px solid #16305c;">
         <div style="font-family:Arial,Helvetica,sans-serif;font-size:21px;line-height:25px;font-weight:bold;letter-spacing:3px;color:#ffffff;">INTERSEPT</div>
         <div style="font-family:Arial,Helvetica,sans-serif;font-size:10px;line-height:15px;letter-spacing:2px;color:#6f93c9;text-transform:uppercase;padding-top:3px;">Segurança eletrônica &middot; Curitiba e região</div>
       </td>
     </tr>
 
-    <!-- BANNER: suba a imagem na galeria da Brevo e troque o src pela URL gerada -->
+    <!-- ARTE DA CAMPANHA: suba a imagem na galeria da Brevo e troque o src pela URL gerada -->
     <tr>
-      <td style="font-size:0;line-height:0;background-color:#050d1f;">
-        <img src="../imagens/banner-black-november.png" width="600" alt="Black November Intersept: desconto de 50% em 3 mensalidades de segurança eletrônica" style="display:block;width:100%;max-width:600px;height:auto;border:0;">
+      <td style="font-size:0;line-height:0;background-color:#04091a;">
+        <img src="../imagens/banner-black-november.jpg" width="600" alt="Black November Intersept: desconto de 50% em 3 mensalidades de segurança eletrônica para residências, condomínios, comércios e empresas" style="display:block;width:100%;max-width:600px;height:auto;border:0;">
       </td>
     </tr>
     <tr><td style="background-color:#feed01;font-size:0;line-height:0;height:4px;">&nbsp;</td></tr>
@@ -74,14 +76,15 @@
       </td>
     </tr>
 
-    <!-- CONDIÇÃO DA CAMPANHA -->
+    <!-- CONDIÇÃO DA CAMPANHA (card azul: troque a URL de card-azul.jpg) -->
     <tr>
       <td class="pad" style="padding:26px 32px 0 32px;">
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
           <tr>
-            <td style="background-color:#102750;border:1px solid #2f7fe0;border-radius:10px;padding:20px 22px;">
+            <td bgcolor="#1a6ae0" background="../imagens/card-azul.jpg"
+                style="border:1px solid #67aaf5;border-radius:12px;padding:22px 24px;background-color:#1a6ae0;background-image:url('../imagens/card-azul.jpg');background-repeat:no-repeat;background-position:top center;background-size:100% 100%;">
               <div style="font-family:Arial,Helvetica,sans-serif;font-size:11px;line-height:17px;letter-spacing:2px;color:#feed01;text-transform:uppercase;padding-bottom:12px;">Como funciona a condição</div>
-              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:24px;color:#dbe8f9;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="font-family:Arial,Helvetica,sans-serif;font-size:15px;line-height:24px;color:#eaf4ff;">
                 <tr>
                   <td width="22" valign="top" style="width:22px;color:#feed01;font-weight:bold;">&#10003;</td>
                   <td valign="top" style="padding-bottom:9px;">50% de desconto em <strong style="color:#ffffff;">3 mensalidades</strong> do serviço contratado</td>
@@ -101,36 +104,24 @@
       </td>
     </tr>
 
-    <!-- SEGMENTOS -->
-    <tr>
-      <td class="pad" style="padding:22px 32px 0 32px;">
-        <table role="presentation" class="seg" width="100%" cellpadding="0" cellspacing="0" border="0">
-          <tr>
-            <td align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:20px;font-weight:bold;letter-spacing:1px;color:#8fb6e8;text-transform:uppercase;padding:0 4px;">Residências</td>
-            <td align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:20px;color:#2f7fe0;">&bull;</td>
-            <td align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:20px;font-weight:bold;letter-spacing:1px;color:#8fb6e8;text-transform:uppercase;padding:0 4px;">Condomínios</td>
-            <td align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:20px;color:#2f7fe0;">&bull;</td>
-            <td align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:20px;font-weight:bold;letter-spacing:1px;color:#8fb6e8;text-transform:uppercase;padding:0 4px;">Comércios</td>
-            <td align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:20px;color:#2f7fe0;">&bull;</td>
-            <td align="center" style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:20px;font-weight:bold;letter-spacing:1px;color:#8fb6e8;text-transform:uppercase;padding:0 4px;">Empresas</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-
-    <tr><td class="pad" style="padding:26px 32px 0 32px;"><table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0"><tr><td style="height:1px;background-color:#16305c;font-size:0;line-height:0;">&nbsp;</td></tr></table></td></tr>
-
     <!-- BLOCO 1 -->
     <tr>
-      <td class="pad" style="padding:26px 32px 0 32px;">
+      <td class="pad" style="padding:18px 32px 0 32px;">
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
           <tr>
-            <td class="col col-ico" width="76" valign="top" style="width:76px;padding-right:18px;">
-              <img src="../imagens/icone-alarme.png" width="58" alt="" style="display:block;width:58px;height:auto;border:0;">
-            </td>
-            <td class="col col-txt" valign="top" style="font-family:Arial,Helvetica,sans-serif;">
-              <div style="font-size:18px;line-height:25px;font-weight:bold;color:#ffffff;padding-bottom:6px;">Segurança eletrônica inteligente</div>
-              <div style="font-size:15px;line-height:25px;color:#b7cbe8;">Alarme monitorado, kit smart alarme, câmeras, rondas e seguro patrimonial. Um projeto único, dimensionado para o seu imóvel.</div>
+            <td bgcolor="#1a6ae0" background="../imagens/card-azul.jpg"
+                style="border:1px solid #67aaf5;border-radius:12px;padding:20px 22px;background-color:#1a6ae0;background-image:url('../imagens/card-azul.jpg');background-repeat:no-repeat;background-position:top center;background-size:100% 100%;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="col col-ico" width="76" valign="top" style="width:76px;padding-right:16px;">
+                    <img src="../imagens/icone-alarme.png" width="60" alt="" style="display:block;width:60px;height:auto;border:0;">
+                  </td>
+                  <td class="col col-txt" valign="top" style="font-family:Arial,Helvetica,sans-serif;">
+                    <div style="font-size:18px;line-height:25px;font-weight:bold;color:#ffffff;padding-bottom:5px;">Segurança eletrônica inteligente</div>
+                    <div style="font-size:15px;line-height:24px;color:#dcecff;">Alarme monitorado, kit smart alarme, câmeras, rondas e seguro patrimonial. Um projeto único, dimensionado para o seu imóvel.</div>
+                  </td>
+                </tr>
+              </table>
             </td>
           </tr>
         </table>
@@ -139,15 +130,22 @@
 
     <!-- BLOCO 2 -->
     <tr>
-      <td class="pad" style="padding:22px 32px 0 32px;">
+      <td class="pad" style="padding:14px 32px 0 32px;">
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
           <tr>
-            <td class="col col-ico" width="76" valign="top" style="width:76px;padding-right:18px;">
-              <img src="../imagens/icone-central-24h.png" width="58" alt="" style="display:block;width:58px;height:auto;border:0;">
-            </td>
-            <td class="col col-txt" valign="top" style="font-family:Arial,Helvetica,sans-serif;">
-              <div style="font-size:18px;line-height:25px;font-weight:bold;color:#ffffff;padding-bottom:6px;">Central de monitoramento 24 horas</div>
-              <div style="font-size:15px;line-height:25px;color:#b7cbe8;">Equipe própria atendendo chamados todos os dias do ano, com apoio tático posicionado em pontos estratégicos de Curitiba e região.</div>
+            <td bgcolor="#1a6ae0" background="../imagens/card-azul.jpg"
+                style="border:1px solid #67aaf5;border-radius:12px;padding:20px 22px;background-color:#1a6ae0;background-image:url('../imagens/card-azul.jpg');background-repeat:no-repeat;background-position:top center;background-size:100% 100%;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="col col-ico" width="76" valign="top" style="width:76px;padding-right:16px;">
+                    <img src="../imagens/icone-central-24h.png" width="60" alt="" style="display:block;width:60px;height:auto;border:0;">
+                  </td>
+                  <td class="col col-txt" valign="top" style="font-family:Arial,Helvetica,sans-serif;">
+                    <div style="font-size:18px;line-height:25px;font-weight:bold;color:#ffffff;padding-bottom:5px;">Central de monitoramento 24 horas</div>
+                    <div style="font-size:15px;line-height:24px;color:#dcecff;">Equipe própria atendendo chamados todos os dias do ano, com apoio tático posicionado em pontos estratégicos de Curitiba e região.</div>
+                  </td>
+                </tr>
+              </table>
             </td>
           </tr>
         </table>
@@ -156,43 +154,51 @@
 
     <!-- BLOCO 3 -->
     <tr>
-      <td class="pad" style="padding:22px 32px 0 32px;">
+      <td class="pad" style="padding:14px 32px 0 32px;">
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
           <tr>
-            <td class="col col-ico" width="76" valign="top" style="width:76px;padding-right:18px;">
-              <img src="../imagens/icone-seguranca-legal.png" width="58" alt="" style="display:block;width:58px;height:auto;border:0;">
-            </td>
-            <td class="col col-txt" valign="top" style="font-family:Arial,Helvetica,sans-serif;">
-              <div style="font-size:18px;line-height:25px;font-weight:bold;color:#ffffff;padding-bottom:6px;">Empresa autorizada pela Polícia Federal</div>
-              <div style="font-size:15px;line-height:25px;color:#b7cbe8;">A Lei nº 14.967/2024 exige que serviços de segurança sejam contratados de empresas autorizadas. A Intersept está em conformidade com o novo estatuto da segurança privada.</div>
+            <td bgcolor="#1a6ae0" background="../imagens/card-azul.jpg"
+                style="border:1px solid #67aaf5;border-radius:12px;padding:20px 22px;background-color:#1a6ae0;background-image:url('../imagens/card-azul.jpg');background-repeat:no-repeat;background-position:top center;background-size:100% 100%;">
+              <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td class="col col-ico" width="76" valign="top" style="width:76px;padding-right:16px;">
+                    <img src="../imagens/icone-seguranca-legal.png" width="60" alt="" style="display:block;width:60px;height:auto;border:0;">
+                  </td>
+                  <td class="col col-txt" valign="top" style="font-family:Arial,Helvetica,sans-serif;">
+                    <div style="font-size:18px;line-height:25px;font-weight:bold;color:#ffffff;padding-bottom:5px;">Empresa autorizada pela Polícia Federal</div>
+                    <div style="font-size:15px;line-height:24px;color:#dcecff;">A Lei nº 14.967/2024 exige que serviços de segurança sejam contratados de empresas autorizadas. A Intersept está em conformidade com o novo estatuto da segurança privada.</div>
+                  </td>
+                </tr>
+              </table>
             </td>
           </tr>
         </table>
       </td>
     </tr>
 
-    <!-- CTA -->
+    <!-- CTA (sobre o piso de neon do fundo) -->
     <tr>
-      <td class="pad" align="center" style="padding:32px 32px 0 32px;">
-        <div style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:26px;color:#c3d4ee;padding-bottom:18px;">Um consultor avalia o seu imóvel, monta o projeto e apresenta o valor com o desconto aplicado. Sem compromisso.</div>
+      <td class="pad" align="center" bgcolor="#0b2f6b" background="../imagens/faixa-cta.jpg"
+          style="padding:38px 32px 34px 32px;background-color:#0b2f6b;background-image:url('../imagens/faixa-cta.jpg');background-repeat:no-repeat;background-position:center bottom;background-size:cover;">
+        <div style="font-family:Arial,Helvetica,sans-serif;font-size:16px;line-height:26px;color:#d4e4f8;padding-bottom:18px;">Um consultor avalia o seu imóvel, monta o projeto e apresenta o valor com o desconto aplicado. Sem compromisso.</div>
         <table role="presentation" class="btn" cellpadding="0" cellspacing="0" border="0" align="center">
           <tr>
-            <td align="center" style="background-color:#feed01;border-radius:6px;">
+            <td align="center" bgcolor="#feed01" style="background-color:#feed01;border-radius:6px;">
               <a href="https://wa.me/554140072640?text=Ol%C3%A1%21%20Quero%20saber%20mais%20sobre%20o%20Black%20November%20da%20Intersept."
                  style="display:inline-block;padding:17px 38px;font-family:Arial,Helvetica,sans-serif;font-size:17px;line-height:20px;font-weight:bold;color:#0a1a33;text-decoration:none;border-radius:6px;">Falar com um consultor</a>
             </td>
           </tr>
         </table>
-        <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:22px;color:#8fb6e8;padding-top:16px;">Ou ligue para a central: <strong style="color:#ffffff;">(41) 4007-2640</strong></div>
+        <div style="font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:22px;color:#a8c6ec;padding-top:16px;">Ou ligue para a central: <strong style="color:#ffffff;">(41) 4007-2640</strong></div>
       </td>
     </tr>
 
     <!-- CONDIÇÕES -->
     <tr>
-      <td class="pad" style="padding:30px 32px 0 32px;">
+      <td class="pad" style="padding:26px 32px 0 32px;">
         <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
           <tr>
-            <td style="background-color:#071327;border-left:3px solid #2f7fe0;padding:16px 18px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:20px;color:#7e9ec6;">
+            <td bgcolor="#040c1c" style="background-color:#040c1c;border-left:3px solid #2f7fe0;padding:16px 18px;font-family:Arial,Helvetica,sans-serif;font-size:12px;line-height:20px;color:#7e9ec6;">
               Condição especial válida somente para a contratação de serviços de segurança eletrônica fechados em novembro de 2026. Contratos fechados fora desta data não contemplam a bonificação. A condição não é válida para os serviços de assistência patrimonial.
             </td>
           </tr>
@@ -202,11 +208,8 @@
 
     <!-- RODAPÉ -->
     <tr>
-      <td class="pad" style="padding:30px 32px 34px 32px;">
-        <table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0">
-          <tr><td style="height:1px;background-color:#16305c;font-size:0;line-height:0;">&nbsp;</td></tr>
-        </table>
-        <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:21px;color:#7e9ec6;padding-top:20px;">
+      <td class="pad" bgcolor="#040c1c" style="background-color:#040c1c;padding:24px 32px 30px 32px;">
+        <div style="font-family:Arial,Helvetica,sans-serif;font-size:13px;line-height:21px;color:#7e9ec6;">
           <strong style="color:#c3d4ee;">Intersept &middot; Soluções Integradas em Segurança Eletrônica e Proteção Patrimonial</strong><br>
           Rua Dom João VI, 299 &middot; Curitiba/PR &middot; (41) 4007-2640<br>
           Filiais em Foz do Iguaçu/PR, Joinville/SC e Porto Alegre/RS<br>

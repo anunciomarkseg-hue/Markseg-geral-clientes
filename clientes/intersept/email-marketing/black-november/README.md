@@ -7,7 +7,10 @@ Peça de e-mail para a campanha de novembro: **50% de desconto em 3 mensalidades
 | Arquivo | Para que serve |
 | --- | --- |
 | `email-black-november.html` | Código do e-mail. É o que vai no editor de HTML da Brevo. |
-| `imagens/banner-black-november.png` | Banner de topo, 600 px de largura (arquivo em 1200 px para telas retina). |
+| `imagens/banner-black-november.jpg` | Arte da campanha no topo, 1200 px de largura (exibida em 600). |
+| `imagens/fundo-email.jpg` | Fundo da peça: azul noturno com o piso de neon da campanha. |
+| `imagens/faixa-cta.jpg` | Piso de neon atrás do botão de chamada. |
+| `imagens/card-azul.jpg` | Fundo dos cards azuis (condição e blocos de serviço). |
 | `imagens/icone-alarme.png` | Ícone do bloco "Segurança eletrônica inteligente". |
 | `imagens/icone-central-24h.png` | Ícone do bloco "Central de monitoramento 24 horas". |
 | `imagens/icone-seguranca-legal.png` | Ícone do bloco "Empresa autorizada pela Polícia Federal". |
@@ -32,11 +35,14 @@ Teste A/B com dois deles e deixe o terceiro para o reenvio aos não abertos.
 2. Antes de colar o código, suba as quatro imagens: **Campanhas → Galeria de mídia → Carregar**.
 3. Em cada imagem carregada, copie a URL que a Brevo gera.
 4. Cole o conteúdo de `email-black-november.html` no editor.
-5. Troque os quatro `src` pelas URLs da galeria. Eles estão assim no código:
-   - `src="banner-black-november.png"`
-   - `src="icone-alarme.png"`
-   - `src="icone-central-24h.png"`
-   - `src="icone-seguranca-legal.png"`
+5. Troque os endereços das imagens pelas URLs da galeria. No código eles aparecem assim:
+   - `src="banner-black-november.jpg"` (uma vez)
+   - `src="icone-alarme.png"`, `src="icone-central-24h.png"`, `src="icone-seguranca-legal.png"` (uma vez cada)
+   - `fundo-email.jpg` (duas vezes, na mesma linha da tabela principal)
+   - `faixa-cta.jpg` (duas vezes, na linha do botão)
+   - `card-azul.jpg` (oito vezes, duas em cada um dos quatro cards azuis)
+
+   Use o localizar e substituir do editor: troque o nome do arquivo pela URL de uma vez só e todas as ocorrências são atualizadas juntas.
 6. Confira o assunto e o remetente, e envie um **teste para você** antes do disparo. Abra no celular e no desktop.
 7. As tags `{{ unsubscribe }}` e `{{ mirror }}` do rodapé são preenchidas pela própria Brevo, não mexa nelas.
 
@@ -44,10 +50,13 @@ Teste A/B com dois deles e deixe o terceiro para o reenvio aos não abertos.
 
 | Imagem | Tamanho de exibição | Arquivo entregue |
 | --- | --- | --- |
-| Banner | 600 × 470 px | 1200 × 940 px |
-| Ícones | 58 × 58 px | 320 × 320 px |
+| Arte do topo | 600 px de largura | 1200 × 674 px |
+| Fundo da peça | largura do e-mail | 1200 × 1400 px |
+| Faixa do CTA | largura do e-mail | 1200 × 560 px |
+| Card azul | esticado no bloco | 600 × 300 px |
+| Ícones | 60 × 60 px | 320 × 320 px |
 
-Se preferir usar a arte do Canva no lugar do banner, exporte a página do panfleto em PNG com **600 px de largura** e troque só o `src` do banner. O resto do e-mail não muda.
+A arte do topo e as texturas de fundo foram tiradas do próprio panfleto do Canva. Para a melhor nitidez possível, exporte a página 3 do design em PNG com **1200 px de largura** e substitua `banner-black-november.jpg` por ela na galeria da Brevo. O resto do e-mail não muda.
 
 ## Observações
 
@@ -55,3 +64,4 @@ Se preferir usar a arte do Canva no lugar do banner, exporte a página do panfle
 - O texto das condições no rodapé reproduz o que está no panfleto. Qualquer ajuste jurídico precisa ser feito nos dois materiais.
 - A peça não usa conteúdo condicional. Isso foi proposital: o editor de arrastar e soltar da Brevo quebra as condições, e aqui não há campo que justifique o risco.
 - O e-mail é escuro de ponta a ponta. Além de combinar com a campanha, isso evita a inversão de cores que o modo escuro do Gmail e do Apple Mail aplica em peças claras.
+- Os fundos com efeito de neon entram como imagem de fundo, que o Outlook para Windows não carrega. Para esses casos, cada bloco tem uma cor sólida equivalente por trás (`bgcolor`), então a peça continua legível e na identidade, só sem a textura.
