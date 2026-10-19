@@ -11,9 +11,9 @@ Peça de e-mail para a campanha de novembro: **50% de desconto em 3 mensalidades
 | `imagens/fundo-email.jpg` | Fundo da peça: azul noturno com o piso de neon da campanha. |
 | `imagens/faixa-cta.jpg` | Piso de neon atrás do botão de chamada. |
 | `imagens/card-azul.jpg` | Fundo dos cards azuis (condição e blocos de serviço). |
-| `imagens/icone-alarme.png` | Ícone do bloco "Segurança eletrônica inteligente". |
-| `imagens/icone-central-24h.png` | Ícone do bloco "Central de monitoramento 24 horas". |
-| `imagens/icone-seguranca-legal.png` | Ícone do bloco "Empresa autorizada pela Polícia Federal". |
+| `imagens/icone-alarme.png` | Ícone do bloco "Segurança eletrônica inteligente", recortado do panfleto. |
+| `imagens/icone-central-24h.png` | Ícone do bloco "Central de monitoramento 24 horas", recortado do panfleto. |
+| `imagens/icone-seguranca-legal.png` | Ícone do bloco "Empresa autorizada pela Polícia Federal", recortado do panfleto. |
 | `previews/preview-black-november.html` | Mesma peça com os caminhos locais das imagens, só para abrir no navegador e conferir. |
 | `Intersept-Email-Black-November-APROVACAO.pdf` | Ficha da campanha e a peça inteira, para enviar ao cliente aprovar. |
 
@@ -56,7 +56,7 @@ Teste A/B com dois deles e deixe o terceiro para o reenvio aos não abertos.
 | Card azul | esticado no bloco | 600 × 300 px |
 | Ícones | 60 × 60 px | 320 × 320 px |
 
-A arte do topo é a página 3 do panfleto, exportada direto do Canva em 1200 px. As texturas de fundo foram derivadas do piso de neon dessa mesma arte.
+Tudo sai do próprio panfleto: a arte do topo é a página 3 em alta resolução, as texturas de fundo vêm do piso de neon dessa arte, os três ícones foram recortados dos cards da página 2 e o azul dos cards usa exatamente as cores amostradas deles.
 
 ## Observações
 
