@@ -56,7 +56,7 @@ Teste A/B com dois deles e deixe o terceiro para o reenvio aos não abertos.
 | Card azul | esticado no bloco | 600 × 300 px |
 | Ícones | 60 × 60 px | 320 × 320 px |
 
-A arte do topo e as texturas de fundo foram tiradas do próprio panfleto do Canva. Para a melhor nitidez possível, exporte a página 3 do design em PNG com **1200 px de largura** e substitua `banner-black-november.jpg` por ela na galeria da Brevo. O resto do e-mail não muda.
+A arte do topo é a página 3 do panfleto, exportada direto do Canva em 1200 px. As texturas de fundo foram derivadas do piso de neon dessa mesma arte.
 
 ## Observações
 
