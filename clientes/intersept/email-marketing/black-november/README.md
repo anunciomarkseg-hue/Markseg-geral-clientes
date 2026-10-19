@@ -17,7 +17,8 @@ Peça de e-mail para a campanha de novembro: **50% de desconto em 3 mensalidades
 | `imagens/icone-seguranca-legal.png` | Ícone do bloco "Empresa autorizada pela Polícia Federal", recortado do panfleto. |
 | `previews/preview-1-imagem.html` | Prévia da versão de uma imagem só. |
 | `previews/preview-black-november.html` | Mesma peça com os caminhos locais das imagens, só para abrir no navegador e conferir. |
-| `Intersept-Email-Black-November-APROVACAO.pdf` | Ficha da campanha e a peça inteira, para enviar ao cliente aprovar. |
+| `Intersept-Email-Black-November-APROVACAO.pdf` | Ficha da campanha e a peça, em folhas A4, para enviar ao cliente aprovar. |
+| `Intersept-Email-Black-November-PECA-INTEIRA.pdf` | A peça inteira em uma folha só, sem corte nenhum no design. |
 
 ## Assuntos sugeridos
 
